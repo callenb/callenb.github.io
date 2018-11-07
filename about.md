@@ -28,7 +28,11 @@ I left Ten Six Consulting and started a contract in June 2016.  It ended 3 month
 
 ## What is this blog about?
 
-I don't want to make promises I can't keep about big plans and big ideas so I'm mostly going to see what this blog is about after I've written a few posts.  I imagine the first few posts will be about things I have found useful and don't want to forget.  Putting them on a blog means I'll know where to go to get them back again.  I have an idea for a new kind of Resource Agency as most of the ones I come across don't provide much value.  I have yet to find a fellow contractor who goes much beyond tolerating the Resource Agency they work through.  I'll probably write about that idea and what I hope to do to test it out.  Spoiler alert it involves software development, which is what I really think I'd enjoy doing.
+I don't want to make promises I can't keep about big plans and big ideas so I'm mostly going to see what this blog is about after I've written a few posts.
+
+I imagine the first few posts will be about things I have found useful and don't want to forget.  Putting them on a blog means I'll know where to go to get them back again.
+
+I have a business idea aimed at Contractors and the Clients who want to give them work, which needs a web application.  I am going to use it to learn how to build an application using the [Phoenix Framework][phoenix], [Elixir][elixir] and [Elm][elm]. Even if the business idea is a failure, I will have some experience using these technologies and it might lead me into development.
 
 I hope this blog will inspire others to get on with what they want to do, or at least have a go at trying something else.
 
@@ -37,3 +41,7 @@ I hope you find the articles of interest and return again in the future.  Please
 All the very best for 2018 and beyond
 
 <strong><em>Barrie Callender</em></strong>
+
+[phoenix]: https://phoenixframework.org
+[elixir]: https://elixir-lang.org
+[elm]: https://elm-lang.org
