@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2018-11-04 19:23:02 +0000
+date: 2018-11-04 19:23:02 +0000
 categories: jekyll update
 ---
 This site uses Jekyll and Octopress and goodness knows what else.  The rest of this post is created when starting a new Jekyll site.  None of this is my work.
