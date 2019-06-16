@@ -32,16 +32,10 @@ I don't want to make promises I can't keep about big plans and big ideas so I'm 
 
 I imagine the first few posts will be about things I have found useful and don't want to forget.  Putting them on a blog means I'll know where to go to get them back again.
 
-I have a business idea aimed at Contractors and the Clients who want to give them work, which needs a web application.  I am going to use it to learn how to build an application using the [Phoenix Framework][phoenix], [Elixir][elixir] and [Elm][elm]. Even if the business idea is a failure, I will have some experience using these technologies and it might lead me into development.
-
-I hope this blog will inspire others to get on with what they want to do, or at least have a go at trying something else.
+If I get to 10 or 20 articles I'll come back here and update what this site is about because I should have some idea by then.
 
 I hope you find the articles of interest and return again in the future.  Please do not hesitate to contact me. 
 
-All the very best for 2018 and beyond
+All the very best for 2019 and beyond
 
 <strong><em>Barrie Callender</em></strong>
-
-[phoenix]: https://phoenixframework.org
-[elixir]: https://elixir-lang.org
-[elm]: https://elm-lang.org
