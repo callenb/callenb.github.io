@@ -45,3 +45,10 @@ MailChimp — My mailing list/newsletter provider for sending emails, Newsletter
 The only personal data I store is collected when you submit a subscription form.  This is stored securely on the Mailchimp site.  I will never delete or change your data unless you ask me to do so using email to barrie@usingprimavera.com and are not able to do so yourself.  You have the right to remove and/or update at any time so there is no real need to ask.  All my communications include an Unsubscribe link.
 
 I will never sell or share the data used to subscribe to anything on this site.
+
+### Additional information
+#### What data breach procedures do I have in place?
+In case of a breach of data, I’ll inform my subscribers on the site and via the mailing list within 72 hours and proceed to an as fast as possible technical resolution.
+
+#### Updates
+I may update this privacy policy from time to time in order to reflect changes to my practices or for other operational, legal or regulatory reasons.
