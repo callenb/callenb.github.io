@@ -5,13 +5,13 @@ date: 2019-07-31T22:46:40+01:00
 ---
 {% img left-flow /images/1928/FH-Photo-Eva-Lichtenstein.jpg 50% "Eva Lichtenstein probably in 1928" title:"My Grandmother, Eva Lichtenstein nee Solomons, probably in 1928 when she was 21" %}
 
-I never met any of my Grandparents.  This is a photo of Eva Lichtenstein, who was maternal grandmother.  My dad told me my Mum was Jewish when I was about 9 years old.  She had always been too scared to mention it to anyone just in case they turned against her.
+This is a photo of Eva Lichtenstein, who was my maternal Grandmother who I never met.  She is Jewish. I learned my Mum was Jewish from my Dad when I was about 9 years old.  Mum had always been too scared to mention it to anyone just in case they turned against her.
 
-She was concerned when I ended up in the German half at school designating it as the foreign language for me to learn, rather than French.  I'm sure she wasn't the only 17 year old Jewish girl from Whitechapel who was 17 at the end of World War 2 and began to learn what had happened to Jews rounded up by the Nazis.
+She was concerned when I ended up in the German half at school designating it as the foreign language for me to learn, rather than French.  She was 17 years old in 1945 when World War 2 came to an end.  She always said she could never go to Germany.
 
-I can't imagine how that fear may feel.
+I can't imagine how that fear may have felt.
 
-Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but Hannah Solomons, who was her Great Grandmother and Eva Lichtenstein, who was her Mother were the two she missed the most.
+Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but Hannah Solomons, who was her Great Grandmother and her Mum, Eva Lichtenstein, were the two she missed the most.
 
 She was an 8 year old girl when Hannah died in January 1937, but she last saw her Mother in 1949 and always wanted to know what happened to her.  Finding my Grandma was what started me off in Family History research, but I never applied myself as much as I could have done.  Unfortunately my Mum died in 2004 and never knew what had become of her Mother.
 
@@ -19,13 +19,13 @@ She was an 8 year old girl when Hannah died in January 1937, but she last saw he
 
 Listening to my Mum talk about her life, you would be forgiven for thinking she had many Aunties.  The truth be told she had none.  Some were Great Aunts, some other relations and I suspect some were people she respected.
 
-There was the Aunt she lived with in Long Acre who witnessed a murder.  An Aunt Bessy from Prince Rupert in Canada who visited more than once and was murdered in Prince Rupert. Another Aunt who lived in Colvestone Crescent in Dalston, near the Ridley Road bakery where Mum would get Lox and Cream Cheese Bagels for breakfast.  I musn't forget the paranoid Aunt who lived south of the river as well as the one in Lambeth.  Some of these people could well be the same.
+There was the Aunt she lived with in Long Acre who witnessed a murder.  An Aunt Bessy from Prince Rupert in Canada who visited a few times, but was murdered in Prince Rupert. Another Aunt who lived in Colvestone Crescent in Dalston, often buying Lox and Cream Cheese Bagels from the Ridley Road bakery at the end of the street.  I musn't forget the paranoid Aunt who lived south of the river as well as the one in Lambeth.  Some of these people could well be the same.
 
-She also had friends and occasionally gave them a name, but most people she told me about had places and stories but not names.
+She also had friends and occasionally gave them a name, but most people she told me about had places and stories but not names. At least not ones I remember.
 
 At the time my dad announced Mum was Jewish, he also told me she had thought her name was Jacqueline Morris, which is the name on their Marriage certificate.  They found out it was Chemerofsky when they tried to emigrate to Australia.  We spent about 3 years and 3 months living in Australia but came back mostly because my Mum didn't settle there.  She was homesick for a country where she had lost contact with her family and friends. 
 
-Australia turned out to be traumatic due to a german family out there.  It really stressed here out and when we landed back into Gatwick, I'm sure she kissed the tarmac.
+Australia turned out to be traumatic due to a German family out there.  It really stressed Mum out and when we walked across the tarmac at Gatwick, I'm sure she kissed it.
 
 ## From little acorns grow great oaks
 
@@ -125,4 +125,4 @@ I seriously began my research based on the following notes, which I reproduce ex
 > Mark was a “court” hairdresser and worked for a madam Prunay? In Hackney.
 >
 
-I began with wanting to know what happened to my Grandmother, Eva Lichtenstein, and have ended up learning far more than I expect about my Jewish family and myself.  What's more there is still a long way to go.
+I began with wanting to know what happened to my Grandmother, Eva Lichtenstein, and have ended up learning far more than I expect about my Jewish family and myself.  There are still gaps and questions and I've hardly begun.
