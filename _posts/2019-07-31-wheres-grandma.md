@@ -7,9 +7,11 @@ date: 2019-07-31T22:46:40+01:00
 
 This is a photo of Eva Lichtenstein, who was my maternal Grandmother who I never met.  She is Jewish. I learned my Mum was Jewish from my Dad when I was about 9 years old.  Mum had always been too scared to mention it to anyone just in case they turned against her.
 
-She was concerned when I ended up in the German half at school designating it as the foreign language for me to learn, rather than French.  She was 17 years old in 1945 when World War 2 came to an end.  She always said she could never go to Germany.
+She was concerned when I ended up in the German half at school designating it as the foreign language for me to learn, rather than French.
 
-I can't imagine how that fear may have felt.
+My Mum was 11 years old when she was evacuated from London at the start of World War 2 and was 17 when it ended in 1945.  Germany was the very last country in the world she would ever want to go to.  It was a fear she lived with all her adult life.
+
+I can't imagine how that felt for her.
 
 Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but Hannah Solomons, who was her Great Grandmother and her Mum, Eva Lichtenstein, were the two she missed the most.
 
@@ -23,15 +25,17 @@ There was the Aunt she lived with in Long Acre who witnessed a murder.  An Aunt 
 
 She also had friends and occasionally gave them a name, but most people she told me about had places and stories but not names. At least not ones I remember.
 
-At the time my dad announced Mum was Jewish, he also told me she had thought her name was Jacqueline Morris, which is the name on their Marriage certificate.  They found out it was Chemerofsky when they tried to emigrate to Australia.  We spent about 3 years and 3 months living in Australia but came back mostly because my Mum didn't settle there.  She was homesick for a country where she had lost contact with her family and friends. 
+At the time my Dad announced Mum was Jewish, he also told me she had thought her name was Jacqueline Morris, which is the name on their Marriage certificate.  They found out it was Chemerofsky when they tried to emigrate to Australia.  We spent about 3 years and 3 months living in Australia but came back mostly because my Mum didn't settle there.  She was homesick for a country where she had lost contact with her family and friends. 
 
-Australia turned out to be traumatic due to a German family out there.  It really stressed Mum out and when we walked across the tarmac at Gatwick, I'm sure she kissed it.
+Australia turned out to be traumatic due to a German family out there.  It really stressed Mum out and when our feet touched the tarmac at Gatwick, I'm sure she bent down and kissed it.
 
 ## From little acorns grow great oaks
 
 I did eventually manage to drag a few names out of Mum, did a little bit of research in the 1980s and 1990s, put it aside and got on with my life.  I tried again in 2009, but the desire wasn't met by action.  Then various events leading up to a time in 2018 when the desire to learn more about where I came from and to actually find out where my Grandmother was took over me.  
 
-I have concentrated on the Jewish side and particularly the female line.  I also wanted to learn more about Jews and although I have yet to step inside a Synagogue, I feel a strong affinity with that part of me..
+I have concentrated on the Jewish side and particularly the female line.  I also wanted to learn more about Jews, after all I am half-Jewish, and although I have yet to step inside a Synagogue, I feel a strong affinity with that part of me.
+
+As part of that Journey I have read some of Simon Schamas books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regulary read The Eternal Dissident. 
 
 So far I have uncovered lots of stories about my family and will try and write them up on this blog.  If you are thinking about looking into your family history, please don't do what I did.  Please ask lots of questions of your relatives, write lots of notes and better still record conversations with them.  Try and get names and places and dates.
 
