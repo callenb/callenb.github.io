@@ -35,9 +35,9 @@ I did eventually manage to drag a few names out of Mum, did a little bit of rese
 
 I have concentrated on the Jewish side and particularly the female line.  I also wanted to learn more about Jews, after all I am half-Jewish, and although I have yet to step inside a Synagogue, I feel a strong affinity with that part of me.
 
-As part of that Journey I have read some of Simon Schamas books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regulary read The Eternal Dissident. 
+As part of that Journey I have read some of Simon Schama books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regulary read The Eternal Dissident as well as soak up information about Jewish people. 
 
-So far I have uncovered lots of stories about my family and will try and write them up on this blog.  If you are thinking about looking into your family history, please don't do what I did.  Please ask lots of questions of your relatives, write lots of notes and better still record conversations with them.  Try and get names and places and dates.
+So far I have uncovered lots of stories about my family and will try and write them up on this blog.  If you are thinking about looking into your family history, please don't do what I did.  Please ask lots of questions of your relatives, write lots of notes and better still record conversations with them.  Try and get names and places and dates.  Ask the same question in different ways at different times.  This can trigger additional information.
 
 I seriously began my research based on the following notes, which I reproduce exactly as I wrote them on the now fading paper I still have.
 
@@ -129,4 +129,4 @@ I seriously began my research based on the following notes, which I reproduce ex
 > Mark was a “court” hairdresser and worked for a madam Prunay? In Hackney.
 >
 
-I began with wanting to know what happened to my Grandmother, Eva Lichtenstein, and have ended up learning far more than I expect about my Jewish family and myself.  There are still gaps and questions and I've hardly begun.
+I began with wanting to know what happened to my Grandmother, Eva Lichtenstein, and have ended up learning far more than I expect about my Jewish family and myself.  There are still gaps and questions and although I've hardly begun, it's been a roller coaster of emotion at times.
