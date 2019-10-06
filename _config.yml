@@ -57,3 +57,7 @@ draft_template: draft
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Style Sheets
+#
+custom_css: ["/assets/css/style.css", "/assets/css/callenb.css"]
