@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+description: My name is Barrie Callender and this blog is mostly about my Jewish family history.
 permalink: /about/
 ---
 

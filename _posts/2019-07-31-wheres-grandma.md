@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Where's Grandma"
+description: I set about trying to find out what happened to my Grandmother, Eva Lichtenstein, and now I am discovering a Jewish family history full of mystery and intrigue and will hopefully find more about my own Mother and the Jewish Whitechapel life she was born into in 1928.
 date: 2019-07-31T22:46:40+01:00
 ---
 {% img right-flow /images/1928/FH-Photo-Eva-Lichtenstein.jpg 50% "Eva Lichtenstein probably in 1928" title:"My Grandmother, Eva Lichtenstein nee Solomons, probably in 1928 when she was 21" %}

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Privacy Policy
+description: Privacy Policy aims to protect you so we can build a little trust.  Some of our links make use of affiliate marketting which means we get a small amount of money if you buy.
 permalink: /privacy-policy/
 ---
 
@@ -11,7 +12,7 @@ This is a Personal Blog so if you require any more information or have any quest
 The privacy of my visitors is very important to me. This privacy policy document outlines the types of personal information received and collected by callenb.org and how it is used.
 
 ### Who I am?
-This is the personal blog of Barrie Callender and the website address is: https://callenb.github.io
+This is the personal blog of Barrie Callender and the website address is: https://callenb.org
 It is a static website created using [Jekyll](https://jekyllrb.com) and [Octopress](https://github.com/octopress/octopress).  It is hosted using Github Pages so please consult their [Privacy Policy](https://help.github.com/en/articles/github-privacy-statement) for further information.
 
 ### What personal data do I collect and why do I collect it?
