@@ -4,7 +4,7 @@ title: "Where's Grandma"
 description: I set about trying to find out what happened to my Grandmother, Eva Lichtenstein, and now I am discovering a Jewish family history full of mystery and intrigue and will hopefully find more about my own Mother and the Jewish Whitechapel life she was born into in 1928.
 date: 2019-07-31T22:46:40+01:00
 ---
-{% img right-flow /images/1928/FH-Photo-Eva-Lichtenstein.jpg 50% "Eva Lichtenstein probably in 1928" title:"My Grandmother, Eva Lichtenstein nee Solomons, probably in 1928 when she was 21" %}
+{% include image.html class="right-flow" url="/images/1928/FH-Photo-Eva-Lichtenstein.jpg" dimensions="width='50%'" caption="My Grandmother, Eva Lichtenstein nee Solomons, probably in 1928 when she was 21" %}
 
 This is a photo of Eva Lichtenstein, who was my maternal Grandmother who I never met.  She is Jewish. I learned my Mum was Jewish from my Dad when I was about 9 years old.  Mum had always been too scared to mention it to anyone just in case they turned against her.
 

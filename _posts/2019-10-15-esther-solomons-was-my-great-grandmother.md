@@ -4,8 +4,7 @@ title: "Esther Solomons was my great grandmother"
 date: 2019-10-15T21:39:18+01:00
 description: Esther Solomons was born in Little Patternoster Row, Whitechapel.  She was the eldest of her siblings, married a hungarian hairdresser, a turkish cook, travelled to New York and was brutally murdered in Prince Rupert, Canada where she lived the last 14 years of her life.  She is also my Jewish Great Grandmother.
 ---
-{% img right-flow /images/esther_and_kitty_solomons_graves.png 50% "Graves of murdered sisters Esther and Kitty Solomons" title:"Graves of my Great Grandmother, Esther Solomons and her sister Kitty Solomons murdered in 1928 and 1945 on comox avenue, Prince PRupert" %}
-
+{% include image.html class="right-flow" url="/images/esther_and_kitty_solomons_graves.png" dimensions="width='50%'" caption="Graves of murdered sisters Esther and Kitty Solomons" %}
 My Mother was born on 7 February 1928 (16 Sh'vat 5688) in Bethnal Green, London and about two months later on 17 April 1928 (27 Nisan 5688) her grandmother, Esther Solomons, was brutally murdered nearly 5,000 miles away in Prince Rupert, British Colombia, Canada.
 
 Mum never said much about her grandmother and I suspect she never knew she had been murdered and they were never in the same country, let alone room.
@@ -25,7 +24,7 @@ Esther Solomons was born on 25 September 1881 (2 Tishrei 5642), which was the se
 
 It was coloured black on his map and designated as "vicious, semi-criminal".  The Solomons didn't live where Esther was born, they lived at 13 Crispin Street, a much wider and longer street running parallel to Little Patternoster Row.  The family must have known someone living in 12 Little Patternoster Row, and if the same people were living there 6 months before during the 1881 Census, then it was one of 6 families.  Little Patternoster Row no longer exists but some of Crispin Street does.  As far as I can tell, the place where number 13 was has become part of the Spitalfields Market extension.
 
-{% img /images/1881/BTH-18810925-Solomons_Esther.png 100% "Birth Certificate of Esther Solomons (25-Sep-1881 to 17-Apr-1928)" title:"Birth Certificate of Esther Solomons (25-Sep-1881 to 17-Apr-1928)" %}
+{% include image.html url="/images/1881/BTH-18810925-Solomons_Esther.png" dimensions="width='100%'" caption="Birth Certificate of Esther Solomons (25-Sep-1881 to 17-Apr-1928)" %}
 
 There are no Solomons living in 13 Crsipen Street on the 1881 Census.  A Jacob and Hannah Solomons are living at 8 Little Patternoster Row on the 1881 Census, but the evidence suggests it is not them.  It could be they recently arrived in London, having fled the Pogroms started around April of 1881.  If that was the case, then Hannah must have travelled whilst she was pregnant with Esther.
 
@@ -43,7 +42,7 @@ It was common to take in lodgers to earn a bit of extra money, and I'm assuming 
 ### Did Esther Solomons abandon her daughter?
 My Mum has told me Esther was married to Jack Lichtenstein and their only known child was my grandmother, Eva Lichtenstein.  I have never found a marriage certificate for Esther and Jack.  I have searched for every combination of their names I can think of.  The relationship between Jack and Esther, along with the abandonment of her daughter Eva, is as big a mystery to me as her murder, and in some ways no less shocking.
 
-{% img /images/1907/BTH-19070607-Eva_lichtenstein.png 100% "Birth Certificate of Eva Lichtenstein (7-Jun-1907 to 4-Dec-1985)" title: "Birth Certificate of Eva Lichtenstein (7-Jun-1907 to 4-Dec-1985)" %}
+{% include image.html url="/images/1907/BTH-19070607-Eva_lichtenstein.png" dimensions="width='100%'" caption="Birth Certificate of Eva Lichtenstein (7-Jun-1907 to 4-Dec-1985)" %}
 
 Eva's birth certificate describes her father, Jack Lichtenstein, as a Hairdressers Assistant, and her mother's name is entered as "Esther Lichtenstein, formerly Solomons", implying they were married.
 
@@ -58,7 +57,7 @@ Esther seems to have lived her life in North America, firstly in New York and th
 
 The earliest document I have is for a voyage on board Cunard's [Corronia](https://en.wikipedia.org/wiki/RMS_Caronia_(1904)) setting sail from Liverpool on 25 September 1906 and arriving in New York on 3 October 1906.  This was a new ship having completed its maiden voyage in 1905 and finally ending its days in 1933.  It lasted longer than Esther.
 
-{% img /images/1906/BLOG_19060925-UK-OUTWARD-esther_solomons_and_j_lictenstein.jpg 100% "Esther Solomons and Jack Lichtenstein on 25-Sep-1906 voyage from Liverpool to New York" title: "Esther Solomons and Jack Lichtenstein on 25 Sep-1906 voyage from Liverpool to New York" %}
+{% include image.html url="/images/1906/BLOG_19060925-UK-OUTWARD-esther_solomons_and_j_lictenstein.jpg" dimensions="width='100%'" caption="Esther Solomons and Jack Lichtenstein on 25-Sep-1906 voyage from Liverpool to New York" %}
 
 The date would be her 25th birthday according to the Gregorian calendar, but I suspect that was a coincidence.  When I first got this document I found Esther fifth from bottom where whe described herself as a [Dressmaker](https://hellosewing.com/tailor-vs-seamstress-dressmaker/).
 
@@ -68,13 +67,13 @@ Then I noticed they had consecutive ticket numbers, Jack with 49988 and Esther w
 
 The Outward passenger list from England has very little information, however the inward list on the USA side has a wealth of information.
 
-{% img /images/1906/BLOG_19061003-US-IMMIGRATION-esther-solomons.jpg 100% "Esther Solomons on arrival in New York on 10 October 1906" title: "Esther Solomons on arrival in New York on 10 October 1906" %}
+{% include image.html url="/images/1906/BLOG_19061003-US-IMMIGRATION-esther-solomons.jpg" dimensions="width='100%'" caption="Esther Solomons on arrival in New York on 10 October 1906" %}
 
 Esther is still single according to the immigration document.  She has the $50 a visitor is supposed to have and she says she hasn't been to the United States before.  On this, her first visit, she is staying with a friend called Jack Pellar who lives in East Harlem at 116 E 116th Street.  It also tells us she is 5' 2" tall with a ruddy complextion, black hair, blue eyes and no marks of identification such as scars.
 
 Esther is the only person on the page with an "X" beside her name, someone has written 1-86467 under her occupation too.  I have no idea what this refers to, maybe one day all will become clear.
 
-{% img /images/1906/BLOG_19061003-US-IMMIGRATION-john-lichtenstein.jpg 100% "Jack (John) Lichtenstein on arrival in New York on 10 October 1906" title: "Jack (John) Lichtenstein on arrival in New York on 10 October 1906" %}
+{% include image.html url="/images/1906/BLOG_19061003-US-IMMIGRATION-john-lichtenstein.jpg" dimensions="width='100%'" caption="Jack (John) Lichtenstein on arrival in New York on 10 October 1906" %}
 
 It turns out the "J" stands for John and not Jack.  He's a Hungarian born in Budapest but resident in Great Britain.  He has more than the required $50 and just like Esther, it is his first time in New York.  It looks like he is staying at 46 Pitt Street which is in the Lower East Side.  It isn't clear whether he is visiting his brother-in-law, L Rosenzincief (or similar) or Joseph Smith.  My money is on Joseph Smith.  He is 5' 5" tall with a dark complexion, grey hair and brown eyes.
 
@@ -84,13 +83,13 @@ My heart wants to tell me this is the voyage where my great grandparents met for
 
 This family research would be easier if I could get documents for both the outbound and inbound voyages.
 
-{% img /images/1907/BLOG_19071005-US-PASSENGERS-esther-solomons.jpg 100% "Esther Solomons arrives in New York on 5 October 1907" title: "Esther Solomons arrives in New York on 5 October 1907" %}
+{% include image.html url="/images/1907/BLOG_19071005-US-PASSENGERS-esther-solomons.jpg" dimensions="width='100%'" caption="Esther Solomons arrives in New York on 5 October 1907"  %}
 
 Esther arrives back in New York on 5 October 1907 almost exactly one year after she first arrived.  She has left her 4 month old child with her mother and sailed from Southampton on 28 September 1907. I know this is my great grandmother because she names her mother and lists the address as the same one where Eva was born.
 
 Her name was originally written as Esther Lichtenstein and she is now married, however someone has crossed out the Lichtenstein and writtem Salemons (sic) above it.  She has also given her occupation as Wife.
 
-{% img /images/1907/BLOG_19071005-US-PASSENGERS-esther-solomons_2.jpg 100% "Esther Solomons arrives in New York on 5 October 1907" title: "Esther Solomons arrives in New York on 5 October 1907" %}
+{% include image.html url="/images/1907/BLOG_19071005-US-PASSENGERS-esther-solomons_2.jpg" dimensions="width='100%'" caption="Esther Solomons arrives in New York on 5 October 1907" %}
 
 The second page tells us her Husband paid for her ticket and she has $10 with her.  It also says Esther was in the USA before between 1907 and 1907.  That provides more evidence of it being Esther on the previous voyage.  It also informs us she returned in 1907 so she had spent a few months in the USA before returning home.  Somewhere there should be a passenger list for her trip back to England.
 
@@ -104,13 +103,13 @@ I found an extracted death index of a Manhattan resident called Jacob Lichtenste
 
 In the meantime...
 
-{% img /images/1921/BLOG_19210709-UK-INWARD-esther_killas.jpg 100% "Esther Solomons arrives in Liverpool as Esther Killas in 1921" title: "Esther Solomons arrives in Liverpool as Esther Killas in 1921" %}
+{% include image.html url="/images/1921/BLOG_19210709-UK-INWARD-esther_killas.jpg" dimensions="width='100%'" caption="Esther Solomons arrives in Liverpool as Esther Killas in 1921" %}
 
 The above is the first of three documents regarding a journey Esther made from Canada to London. It is a UK incoming passenger list showing Esther arrived in Liverpool on 4 July 1921.  It says she intends staying at her mum's house in 1 Regal Place, Whitechapel.  She gives her occupation as a Dressmaker and has also managed to shave a few years off her age from 39 to 31!
 
 The most interesting part is she lists Canada as her country of last permanent residence, but England as her intended future permanent residence.  Could it be she intended to stay in England?
 
-{% img /images/1921/BLOG_19210929-UK-OUTWARD-esther_killas.jpg 100% "Esther Killas leaves Southampton for Canada in 1921" title: "Esther Killas leaves Southampton for Canada in 1921" %}
+{% include image.html url="/images/1921/BLOG_19210929-UK-OUTWARD-esther_killas.jpg" dimensions="width='100%'" caption="Esther Killas leaves Southampton for Canada in 1921" %}
 
 If Esther had planned to stay England when she arrived in July, she had changed her mind and set off back to Canada from Southampton on 29 September 1921.  She had everything the same as on her arrival except her intended future redidence was now Canada.
 
@@ -124,7 +123,7 @@ On this occasion she is returning to her husband, Harry Killas, at the address i
 
 She would have seen her 14 year old daughter in London, who would have just left school.  Her brother, Alexander, had died in action during the first world war and another brother returned home from the same conflict.
 
-{% img /images/1921/BLOG_19210829-CAN-FORM30A-esther_killas.jpg 100% "Esther Killas Form 30A arrival in Canada 1921" title: "Esther Killas Form 30A arrival in Canada 1921" %}
+{% include image.html url="/images/1921/BLOG_19210829-CAN-FORM30A-esther_killas.jpg" dimensions="width='100%'" caption="Esther Killas Form 30A arrival in Canada 1921" %}
 
 ### Who was Mr Killas?
 

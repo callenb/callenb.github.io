@@ -4,7 +4,7 @@ title: "Hannah and Jacob Solomons"
 description: Hannah and Jacob Solomons are my Great Great Grandparents who came  from Russia to Whitechapel, London and lived there to the end of their days.  They had eight children, two were brutally murdered in Prince Rupert, Canada, one gave his life on the battlefields of Flanders and one was in Wormwood Scrubs prison.
 date: 2019-10-20T10:13:52+01:00
 ---
-{% img right-flow /images/hannah_and_jacob_solomons_family.png 50% "Jacob Solomons and Hannah Solomons nee Levison's family" title:"Jacob Solomons and Hannah Solomons nee Levison's family tree" %}
+{% include image.html class="right-flow" url="/images/hannah_and_jacob_solomons_family.png" dimensions="width='50%'" caption="Jacob Solomons and Hannah Solomons nee Levison's family tree" %}
 Hannah Levison and Jacob Solomons came to England from eastern europe as a result of the anti-Jewish pograms.  I don't know when they came but I do know they were here on 25th September 1881 because that is when my Great Grahndmother and their first child was born.
 
 At this stage in my family history research I have the makings of some interesting stories from this family alone.  Jacob died of Consumption when their first born was 17, which must have been devestating for everyone in the family.
@@ -23,7 +23,7 @@ I haven't even started on my father's side yet so goodness knows what else is th
 
 I have used [Free BMD](https://www.freebmd.org.uk/) and [Ancestry](https://www.ancestry.co.uk/) to search for the marriaje certificate of Jacob Solomons and Hannah Levison and then Ancestry for an entry in the 1881 Census but found nothing I can be 100% confident is them.  However, I have something which is close enough to be a possibility for now.
 
-{% img /images/1880/MAR-18801229_jacob_solomons_and_annie_levison.png 100% "Potential marriage certificate of Jacob Solomons and Hannah Levinson" title:"Potential marriage certificate of jacob Solomons and Hannah Levinson" %}
+{% include image.html url="/images/1880/MAR-18801229_jacob_solomons_and_annie_levison.png" dimensions="width='100%'" caption="Possible marriage certificate of Jacob Solomons and Hannah Levinson" %}
 
 I have a marriage certificate for a Jacob Solomons and Annie Levison for 29th December 1880.  "Hannah" may well sound like "Annie" to an english registrar with little experience of east european accents, especially if I was the registrar!  Jacob is 22 years old and Annie is 21.  Jacob has the occupation of a Journeyman Tailor which is in line with other birth certificates, marriage certificates and the 1891 Census.  They were living at 6 Sandy's Row, opposite the Synagogue, but were married in Princes Street Synagogue by what looks to me like Isaac Cohen Levy.  Their marriage was witnessed by who I think are "I Woolf" and "A Heisen".
 
@@ -33,7 +33,7 @@ The names have a good match, the marriage is 9 months before my Great Grandmothe
 
 This is a photograph of Little Patternoster Row, where my Great Grandmother, Esther Solomons was born.  My mother told me she was married to Jack or Jacob Lichtenstein but never seemed to know anything else about her.  I found out why, when I discovered she was brutally murdered in Prince Rupert, Canada when my Mum was little more than a month old.  Esther's murder has featured in an ebook and finding out about her murder and her life beforehand is an ongoing investigation I suspect may never truly end.
 
-{% img /images/places/london/little_patternoster_row.jpg 100% "Little Patternoster Row where Esther Solomons was born" title:"Little Patternoster Row, Spitalfields, London" %}
+{% include image.html url="/images/places/london/little_patternoster_row.jpg" dimensions="width='100%'" caption="Little Patternoster Row where Esther Solomons was born" %}
 
 Esther was born in 12 Little Patternoster Row, although her parents were living in 13 Crispin Street at the time.  Parts of both streets back on to each other, although I believe number 13 Crispin Street did not.  It adds a little more confidence to the 1880 marriage certificate as they clearly knew people in Little Patternoster Row.  Why else would Esther be born somewhere apart from at home?
 
@@ -47,11 +47,11 @@ Hyman Solomons was born on 13th June 1883 and I believe he died in 1966.  When m
 
 ## Louis Solomons
 
-{% img left-flow /images/people/louis_solomons.jpg 50% "Louis Solomons" title:"Louis Solomons" %}
+{% include image.html class="left-flow" url="/images/people/louis_solomons.jpg" dimensions="width='50%'" caption="Louis Solomons" %}
 
 All my Mum told me about Louis was he lived in Leman Street and had 2 daughters.  To date he is the only one I have an image of in the shape of this photo of a painting.
 
-Another claim to fame is so far he is the only one who has a descendent I have managed to contact and there are more Grand-children still alive, which is great for all sorts of reasons.
+Another claim to fame is so far he is the only one who has a descendent I have managed to contact and there are more Grand-children still alive, which is great for all kinds of reasons.
 
 The birth certificate of Louis Solomons actually has his first name spelt as "Lewis" but his Grandson assures me it is spelt "Louis" and I'm 100% certain he is right.  Lewis had three daughters rather than the two my Mum recalled.  He was a Cabinet Maker and I hope to find some more about him and posisbly get some other pictures.
 
@@ -59,13 +59,13 @@ By the time of the 1901 Census, Jacob has died and Louis, at the age of 17, is t
 
 ## Alexander Solomons
 
-My Mum referred to him as "Alec" and that is what is on his birth certificate.  However, all his army records and the memorial in France has his name as Alexander Solomons.  The 1911 Census has a lady called Bessie or Cissie Smith living with her and described as her Daughter-in-law.  It turns out this was his wife and he appears to be an inmate in Wormwood Scrubs.
+My Mum referred to him as "Alec" and that is what is on his birth certificate.  However, all his army records and the memorial in France has his name as Alexander Solomons.  The 1911 Census has a lady called Bessie or Cissie Smith living with her and described as her Daughter-in-law.  It turns out this was his wife and he appears to have been an inmate in Wormwood Scrubs during the Census.
 
 ## Kitty Solomons
 
 My Mum knew Kitty Solomons and I thought she referred to her as Aunt Betsy but I could be wrong.  She told me she came across from Prince Rupert in Canada, treated my Grandmother like she was her own but was murdered in Prince Rupert.  In about 1949, my Mum had received a letter from the Chief of Police in Prince Rupert about the matter.
 
-Kitty and my Grandmother Esther were both murdered whilst living on the same block in Comox Avenue, but 17 years apart, almost to the day.  The similarities in the way they were murdered and how the house was left are striking to say the least.
+Kitty and my Grandmother Esther were both murdered on the same block in Comox Avenue, but 17 years apart, almost to the day.  The similarities in the way they were murdered and how the house was left are striking to say the least.
 
 Their murders remain unsolved to this day.
 
@@ -77,7 +77,7 @@ Apart from that I know very little about Rachel.
 
 ## Dinah Solomons
 
-My Mum has told me Dinah married Ike and had a Greengrocer's in Hackney.  She had three children, Jack, Alex and Kitty and it has all been found to be true.  Ike's real name is Isaac Abrahams and if I can triangulate some of my research, I believe one of his ancestors was a founding member of the Jewish Board of Deputies.
+My Mum has told me Dinah married Ike and had a Greengrocer's in Hackney.  She had three children, Jack, Alex and Kitty and it has all been found to be true.  Ike's full name is Isaac Abrahams and if I can triangulate some of my research, I believe one of his ancestors was a founding member of the Jewish Board of Deputies.
 
 ## Rebecca Solomons
 
