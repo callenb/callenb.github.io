@@ -8,3 +8,11 @@
     width: 50%;
     margin: 10px;
     }
+.image {
+    border: 2px solid black;
+    }
+figcaption {
+    text-align: center;
+    font-weight: bold;
+    font-size: 100%;
+    }
