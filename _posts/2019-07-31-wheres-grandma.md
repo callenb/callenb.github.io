@@ -40,15 +40,20 @@ As part of that Journey I have read some of Simon Schama books (more than once),
 
 So far I have uncovered lots of stories about my family and will try and write them up on this blog.  If you are thinking about looking into your family history, please don't do what I did.  Please ask lots of questions of your relatives, write lots of notes and better still record conversations with them.  Try and get names and places and dates.  Ask the same question in different ways at different times.  This can trigger additional information.
 
-I seriously began my research based on the following notes, which I reproduce exactly as I wrote them on the now fading paper I still have.
+I seriously began my research based on the following notes, which I have also reproduce as they were on the now fading paper I still have.
+
+{% include image.html url="/images/NOTES-page-1.png" dimensions="width='100%'" caption="First page of the original notes from my Mum" %}
+
+{% include image.html url="/images/NOTES-page-2.png" dimensions="width='100%'" caption="Second page of the original notes from my Mum" %}
 
 > (1) Aunt Bessy disturbed burglars and was murdered in Prince Rupert.  Jacqueline received a letter from the commissioner of police in Prince Rupert c1949.  Bessy left her a ring in her a ring (£500) in her will.
 >
-> (2) 1928 - Mark Chemerofsky, Eva Lichtenstein and Jacqueline moved to 56 Valance Road from 3 Clarkston Street.
-> Parliamentary Constituency: South West Division
-> County Electoral Division: Bethnal Green
-> Polling District: R
-> Electoral Ward: South
+> (2) 1928 Mark Chemerofsky, Eva and Jacqueline
+> moved to 56 Valance Road from 3 Clarkston Street.
+> Parliamentary Constituency = South West Division
+> County Electoral Division = Bethnal Green
+> Polling District = R
+> Electoral Ward =  South
 >
 > (3) 1931 - Eva and Mark separated.
 >
