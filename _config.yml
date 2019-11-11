@@ -62,3 +62,9 @@ draft_template: draft
 # Style Sheets
 #
 custom_css: ["/assets/css/style.css", "/assets/css/callenb.css"]
+
+# Collections
+# 
+collections:
+  journal:
+    output: true
