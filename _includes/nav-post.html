@@ -1,0 +1,28 @@
+<div id="more-work"class="clear">
+  <div class="left-nav">
+  {% if page.previous_title %}
+    <a class="equalize" href="{{site.baseurl}}{{page.previous_url}}" title="Previous Post: {{page.previous_title}}">
+      <div>
+        <h6 class="nav"> ← Previous Post </h6>
+        <h4 class="nav"> {{page.previous_title}} </h4>
+      </div>
+    </a>
+  {% else %}
+    <div class="equalise"><h6 class="nav">First Post</h6></div>
+  {% endif %}  
+  </div>
+
+
+  <div class="right-nav">
+  {% if page.next_title %}
+    <a class="equalize" href="{{site.baseurl}}{{page.next_url}}" title="Next Post: {{page.next_title}}">
+      <div>
+        <h6 class="nav"> Next Post →</h6>
+        <h4 class="nav"> {{page.next_title}} </h4>
+      </div>
+    </a>
+  {% else %}
+    <div class="equalise"><h6 class="nav">Last Post</h6></div>
+  {% endif %}  
+  </div>
+</div>

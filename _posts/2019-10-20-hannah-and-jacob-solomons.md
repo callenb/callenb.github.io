@@ -3,6 +3,8 @@ layout: post
 title: "Hannah and Jacob Solomons"
 description: Hannah and Jacob Solomons are my Great Great Grandparents who came  from Russia to Whitechapel, London and lived there to the end of their days.  They had eight children, two were brutally murdered in Prince Rupert, Canada, one gave his life on the battlefields of Flanders and one was in Wormwood Scrubs prison.
 date: 2019-10-20T10:13:52+01:00
+previous_title: Esther Solomons was my great grandmother
+previous_url: /2019/10/15/esther-solomons-was-my-great-grandmother.html
 ---
 {% include image.html class="right-flow" url="/images/hannah_and_jacob_solomons_family.png" dimensions="width='50%'" caption="Jacob Solomons and Hannah Solomons nee Levison's family tree" %}
 Hannah Levison and Jacob Solomons came to England from eastern europe as a result of the anti-Jewish pograms.  I don't know when they came but I do know they were here on 25th September 1881 because that is when my Great Grahndmother and their first child was born.

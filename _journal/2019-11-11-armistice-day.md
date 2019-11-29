@@ -3,6 +3,10 @@ layout: post
 title: "Armistice Day"
 description: 
 date: 2019-11-11T20:54:00+01:00
+previous_title: The story behind the stories
+previous_url: /journal/2019-11-10-the-story-behind-the-stories.html
+next_title:
+next_url:
 ---
 I currently work at a [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) establishment and this being Armistice Day there is always a service outside which starts just before 11:00am.
 
