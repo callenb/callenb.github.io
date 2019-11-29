@@ -1,3 +1,9 @@
+.nav {
+    margin-bottom: 0pc;
+    }
+.clear {
+    clear: both;
+    }
 .left-flow {
     float: left;
     width: 50%;
@@ -6,6 +12,14 @@
 .right-flow {
     float: right;
     width: 50%;
+    margin: 10px;
+    }
+.left-nav {
+    float: left;
+    margin: 10px;
+    }
+.right-nav {
+    float: right;
     margin: 10px;
     }
 .image {
