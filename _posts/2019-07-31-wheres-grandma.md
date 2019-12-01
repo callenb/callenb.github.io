@@ -16,7 +16,7 @@ My Mum was 11 years old when she was evacuated from London at the start of World
 
 I can't imagine how that felt for her.
 
-Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but Hannah Solomons, who was her Great Grandmother and her Mum, Eva Lichtenstein, were the two she missed the most.
+Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but [Hannah Solomons](/2019/10/20/hannah-and-jacob-solomons.html), who was her Great Grandmother and her Mum, Eva Lichtenstein, were the two she missed the most.
 
 She was an 8 year old girl when Hannah died in January 1937, but she last saw her Mother in 1949 and always wanted to know what happened to her.  Finding my Grandma was what started me off in Family History research, but I never applied myself as much as I could have done.  Unfortunately my Mum died in 2004 and never knew what had become of her Mother.
 
@@ -38,7 +38,7 @@ I did eventually manage to drag a few names out of Mum, did a little bit of rese
 
 I have concentrated on the Jewish side and particularly the female line.  I also wanted to learn more about Jews, after all I am half-Jewish, and although I have yet to step inside a Synagogue, I feel a strong affinity with that part of me.
 
-As part of that Journey I have read some of Simon Schama books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regulary read The Eternal Dissident as well as soak up information about Jewish people. 
+As part of that Journey I have read some of Simon Schama's books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regulary read The Eternal Dissident as well as soak up information about Jewish people. 
 
 So far I have uncovered lots of stories about my family and will try and write them up on this blog.  If you are thinking about looking into your family history, please don't do what I did.  Please ask lots of questions of your relatives, write lots of notes and better still record conversations with them.  Try and get names and places and dates.  Ask the same question in different ways at different times.  This can trigger additional information.
 
