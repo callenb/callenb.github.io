@@ -7,23 +7,23 @@ previous_title: Esther Solomons was my great grandmother
 previous_url: /2019/10/15/esther-solomons-was-my-great-grandmother.html
 ---
 {% include image.html class="right-flow" url="/images/hannah_and_jacob_solomons_family.png" dimensions="width='50%'" caption="Jacob Solomons and Hannah Solomons nee Levison's family tree" %}
-Hannah Levison and Jacob Solomons came to England from eastern europe as a result of the anti-Jewish pograms.  I don't know when they came but I do know they were here on 25th September 1881 because that is when my Great Grahndmother and their first child was born.
+Hannah Levison and Jacob Solomons came to England from eastern europe as a result of the anti-Jewish pogroms.  I don't know when they came but I do know they were here on 25th September 1881 because that is when my Great Grahndmother and their first child was born.
 
-At this stage in my family history research I have the makings of some interesting stories from this family alone.  Jacob died of Consumption when their first born was 17, which must have been devestating for everyone in the family.
+At this stage in my family history research I have the makings of some interesting stories from this family alone.  Jacob died of Consumption when their first born was 17, which must have been devastating for everyone in the family.
 
-By the time Hannah died, one son had spent the 1911 Census in Wormwood Scrubs and later gave his life on the battlefields of Flanders and a daughter was brutally murdered a month after her Granddaughter was born.  Less than 10 years after Hannah died another daughter was murdered under similar circumstances to the first.  Both murders took place in the same foreign country.
+By the time Hannah died, one son had spent the 1911 Census in Wormwood Scrubs and later gave his life on the battlefields of Flanders and a daughter was brutally murdered a month after her Granddaughter was born.  Less than 10 years after Hannah died another daughter was murdered under similar circumstances to the first.  Both murders took place on the same street in Canada.
 
-I have found this Family History journey fascinating, as I suspect most people's family histories are.  It has also been quite upsetting, but as I discover more about being Jewish, it has been an unexpectedly uplifting personal experience.  
+I have found this Family History journey fascinating, as I suspect most people's family histories are.  It has also been quite upsetting, but as I discover more about being Jewish, it has been an uplifting personal experience.  
 
-I wanted to write blog posts but every time I nearly finish one, some more information comes to light to investigate and I never publish the post.  With this blog post I am putting a stake in the ground to say I will write up what I know at the time and update it later.  I will begin with just this family of eight children and their parents.
+I want to write blog posts but every time I nearly finish one, some more information comes to light for me to investigate and I never publish the post.  With this blog post I am putting a stake in the ground to say I will write up what I know at the time and update it later.  I will most likely begin with this family of eight children and their parents.
 
-My Mum lived with Hannah until she was nearly nine years old and loved her dearly.  She spoke about her often and I feel it is right to start here.  Her father's family has some interesting stories too, including making the front page of the national newspapers in 1928 and a four year old who was killed as the result of a car accident when coming out of school.
+My Mum lived with Hannah until she was nearly nine years old and loved her dearly.  She spoke about her often and I feel it is right to start here.  Her father's family has some interesting stories too, including making the front page of the national newspapers in 1928 and a four year old who was sadly killed as the result of a car accident when coming out of school.
 
 I haven't even started on my father's side yet so goodness knows what else is there.
 
 ## Jacob Solomons and Hannah Solomns nee Levison
 
-I have used [Free BMD](https://www.freebmd.org.uk/) and [Ancestry](https://www.ancestry.co.uk/) to search for the marriaje certificate of Jacob Solomons and Hannah Levison and then Ancestry for an entry in the 1881 Census but found nothing I can be 100% confident is them.  However, I have something which is close enough to be a possibility for now.
+I have used [Free BMD](https://www.freebmd.org.uk/) and [Ancestry](https://www.ancestry.co.uk/) to search for the marriaje certificate of Jacob Solomons and Hannah Levison and then Ancestry for an entry in the 1881 Census but found nothing I can be 100% confident is actually them.  However, I have something which is close enough to be a possibility for now.
 
 {% include image.html url="/images/1880/MAR-18801229_jacob_solomons_and_annie_levison.png" dimensions="width='100%'" caption="Possible marriage certificate of Jacob Solomons and Hannah Levinson" %}
 
@@ -39,11 +39,13 @@ This is a photograph of Little Patternoster Row, where my Great Grandmother, Est
 
 Esther was born in 12 Little Patternoster Row, although her parents were living in 13 Crispin Street at the time.  Parts of both streets back on to each other, although I believe number 13 Crispin Street did not.  It adds a little more confidence to the 1880 marriage certificate as they clearly knew people in Little Patternoster Row.  Why else would Esther be born somewhere apart from at home?
 
-Esther must have had an interesting life, born in the worst street in Whitechapel according to Charles Booth, she ended up going to New York, having two husbands and being murdered in Canada with a little under Canadian $10,000 in her probate.  Not bad for a woman who describes herself as a Dressmaker.
+Esther must have had an interesting life, born in one of the worst streets in Whitechapel according to Charles Booth, she ended up going to New York, having two husbands and being murdered in Canada with a little under Canadian $10,000 in her probate.  Not bad for a woman who describes herself as a Dressmaker.
 
 ## Hyman Solomons
 
 When I first heard this name I thought it was great, and still do.  I wasn't brought up as a Jew and so didn't know how common some of these names are, or what they mean.  Hyman is associated with "life" as in the Hebrew word Chaim.  I read it is often added to an ill person's name to aid recovery.  I hope it was not the case here and it is more like the song "To Life" from Fiddler on the Roof.
+
+Incidentally, for as many years as I can remember, when friends raise a glass and say cheers, I have always responded with l' chaim.  Although I can't remember the order, I know the first two films I ever saw at the cinema were Hello Dolly and Fiddler on the Roof. 
 
 Hyman Solomons was born on 13th June 1883 and I believe he died in 1966.  When my mother listed out the names of Hannah's children for me, Hyman came last, but I think she listed her Great Aunts first and then her Great Uncles from youngest to eldest.
 
@@ -55,7 +57,7 @@ All my Mum told me about Louis was he lived in Leman Street and had 2 daughters.
 
 Another claim to fame is so far he is the only one who has a descendent I have managed to contact and there are more Grand-children still alive, which is great for all kinds of reasons.
 
-The birth certificate of Louis Solomons actually has his first name spelt as "Lewis" but his Grandson assures me it is spelt "Louis" and I'm 100% certain he is right.  Lewis had three daughters rather than the two my Mum recalled.  He was a Cabinet Maker and I hope to find some more about him and posisbly get some other pictures.
+The birth certificate of Louis Solomons actually has his first name spelt as "Lewis" but his Grandson assures me it is spelt "Louis" and I'm 100% certain he is right.  Louis had three daughters rather than the two my Mum recalled.  He was a Cabinet Maker and I hope to find some more about him and posisbly get some other pictures.
 
 By the time of the 1901 Census, Jacob has died and Louis, at the age of 17, is the only one of the children not listed in the Census. There's always something to find out.
 
@@ -69,7 +71,7 @@ My Mum knew Kitty Solomons and I thought she referred to her as Aunt Betsy but I
 
 Kitty and my Grandmother Esther were both murdered on the same block in Comox Avenue, but 17 years apart, almost to the day.  The similarities in the way they were murdered and how the house was left are striking to say the least.
 
-Their murders remain unsolved to this day.
+Their murders remain unsolved to this day and after all this time they will probably stay that way.
 
 ## Rachel Solomons
 
