@@ -6,7 +6,7 @@ date: 2019-07-31T22:46:40+01:00
 next_title: Esther Solomons was my great grandmother
 next_url: /2019/10/15/esther-solomons-was-my-great-grandmother.html
 ---
-{% include image.html class="right-flow" url="/images/1928/FH-Photo-Eva-Lichtenstein.jpg" dimensions="width='50%'" caption="My Grandmother, Eva Lichtenstein nee Solomons, probably in 1928 when she was 21" %}
+{% include image.html class="right-flow" url="/images/1928/FH-Photo-Eva-Lichtenstein.jpg" dimensions="width='50%'" caption="My Grandmother, Eva Chemerofsky nee Lichtenstein, probably in 1928 when she was 21" %}
 
 This is a photo of Eva Lichtenstein, who was my maternal Grandmother who I never met.  She is Jewish. I learned my Mum was Jewish from my Dad when I was about 9 years old.  Mum had always been too scared to mention it to anyone just in case they turned against her.
 

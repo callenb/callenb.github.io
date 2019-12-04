@@ -41,6 +41,9 @@ Esther was born in 12 Little Patternoster Row, although her parents were living 
 
 Esther must have had an interesting life, born in one of the worst streets in Whitechapel according to Charles Booth, she ended up going to New York, having two husbands and being murdered in Canada with a little under Canadian $10,000 in her probate.  Not bad for a woman who describes herself as a Dressmaker.
 
+* See
+  * [Esther Solomons was my great grandmother](/2019/10/15/esther-solomons-was-my-great-grandmother.html)
+
 ## Hyman Solomons
 
 When I first heard this name I thought it was great, and still do.  I wasn't brought up as a Jew and so didn't know how common some of these names are, or what they mean.  Hyman is associated with "life" as in the Hebrew word Chaim.  I read it is often added to an ill person's name to aid recovery.  I hope it was not the case here and it is more like the song "To Life" from Fiddler on the Roof.
@@ -64,6 +67,9 @@ By the time of the 1901 Census, Jacob has died and Louis, at the age of 17, is t
 ## Alexander Solomons
 
 My Mum referred to him as "Alec" and that is what is on his birth certificate.  However, all his army records and the memorial in France has his name as Alexander Solomons.  The 1911 Census has a lady called Bessie or Cissie Smith living with her and described as her Daughter-in-law.  It turns out this was his wife and he appears to have been an inmate in Wormwood Scrubs during the Census.
+
+* See
+  * [Armistice Day](/journal/2019-11-11-armistice-day.html)
 
 ## Kitty Solomons
 
