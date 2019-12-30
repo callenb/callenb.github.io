@@ -27,6 +27,7 @@ gem "jekyll-seo-tag"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "octopress-image-tag"
+  gem "jekyll-sitemap"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
