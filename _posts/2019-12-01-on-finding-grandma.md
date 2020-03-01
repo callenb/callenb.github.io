@@ -3,8 +3,6 @@ layout: post
 title: "On finding Grandma"
 date: 2019-12-01T21:12:38+00:00
 description: "On Finding Grandma"
-previous_title: Armistice Day
-previous_url: /journal/2019-11-11-armistice-day.html
 ---
 I recently sent an email to [South Bristol Cemetery and Crematorium](https://www.bristol.gov.uk/births-deaths-marriages/cemeteries-and-crematoria), the contents of which was:
 

@@ -64,12 +64,14 @@ draft_template: draft
 #
 custom_css: ["/assets/css/style.css", "/assets/css/callenb.css"]
 
-# Collections
-# 
-collections:
-  journal:
-    output: true
-
+# exlude pdf files from sitemap
+#
+defaults:
+  -
+    scope:
+      path: "images/**/*.pdf"
+    values:
+      sitemap: false
 # SEO Settings
 #
 # Google Analytics

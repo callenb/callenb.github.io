@@ -2,8 +2,6 @@
 layout: post
 title: "The story behind the stories"
 description: Family history isn't the only thing I'm interested in, and so I hope this post is the first of many to not only cover the story behind my family history, but also some other topics I have an interest in or wanted to learn more about since I began this journey.
-next_title: Armistice Day
-next_url: /journal/2019-11-11-armistice-day.html
 date: 2019-11-10T21:43:00+01:00
 ---
 I am ever so grateful to the many people who have reached out to help me with my family history research, as well as those who encourage and show an interest.  When I started I thought I would end up finding where my grandmother was buried and maybe find something mildly interesting in the family.  It hasn't quite turned out like that!
