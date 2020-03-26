@@ -62,7 +62,7 @@ draft_template: draft
 
 # Style Sheets
 #
-custom_css: ["/assets/css/style.css", "/assets/css/callenb.css"]
+custom_css: ["/assets/main.css", "/assets/css/callenb.css"]
 
 # exlude pdf files from sitemap
 #
