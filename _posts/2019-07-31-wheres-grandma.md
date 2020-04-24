@@ -1,13 +1,10 @@
 ---
 layout: post
 title: "Where's Grandma"
-description: I set about trying to find out what happened to my Grandmother, Eva Lichtenstein, and now I am discovering a Jewish family history full of mystery and intrigue and will hopefully find more about my own Mother and the Jewish Whitechapel life she was born into in 1928.
+description: Before my Mum died in 2004, she often talked to me about her Mother who she had lost contact with and wanted to know what happened to her. Me finding my Grandma has lead to me learning about my Jewish heritage.
 date: 2019-07-31T22:46:40+01:00
-next_title: Esther Solomons was my great grandmother
-next_url: /2019/10/15/esther-solomons-was-my-great-grandmother.html
+image: '/images/1928/FH-Photo-Eva-Lichtenstein.jpg'
 ---
-{% include image.html class="right-flow" url="/images/1928/FH-Photo-Eva-Lichtenstein.jpg" dimensions="width='50%'" caption="My Grandmother, Eva Chemerofsky nee Lichtenstein, probably in 1928 when she was 21" %}
-
 This is a photo of Eva Lichtenstein, who was my maternal Grandmother who I never met.  She is Jewish. I learned my Mum was Jewish from my Dad when I was about 9 years old.  Mum had always been too scared to mention it to anyone just in case they turned against her.
 
 She was concerned when I ended up in the German half at school designating it as the foreign language for me to learn, rather than French.

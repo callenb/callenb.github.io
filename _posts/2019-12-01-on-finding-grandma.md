@@ -1,8 +1,9 @@
 ---
 layout: post
 title: "On finding Grandma"
+description: I now know where my Grandmother was born, married, died and where her remains are.  This is what my Mother asked for.  Unfortunately I found this out too late to tell her.
 date: 2019-12-01T21:12:38+00:00
-description: "On Finding Grandma"
+image: '/images/people/eva_lichtenstein.png'
 ---
 I recently sent an email to [South Bristol Cemetery and Crematorium](https://www.bristol.gov.uk/births-deaths-marriages/cemeteries-and-crematoria), the contents of which was:
 

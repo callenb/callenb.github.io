@@ -1,34 +1,77 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+#------------------------------
+# General Site Settings
 title: Barrie Callender on my Family History
 email: barrie@callenb.org
-description: >- # this means to ignore newlines until "baseurl:"
-  I set out to find what happened to my Grandmother and discovered two sisters brutally murdered and their soldier brother losing his life on a WWI battlefield one Friday.  I mostly write about my Jewish family history.
+description: I mostly write about my Jewish family history, but not always #>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://callenb.org" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: callenb
-github_username:  callenb
 
+#------------------------------
+# Author Settings
+author:
+  name: Barrie Callender
+  image: '/images/barrie_callender_400x400.jpg'
+  avatar: '/images/barrie_callender_400x400.jpg'
+  description: 'My name is Barrie Callender. I am a freelancer working as a Project Management System Implementation Consultant'
+
+#------------------------------
+# Contact Links
+
+# Example of adding a new link to the footer - { icon: 'ion-logo-github', link: 'https://github.com'}
+# Other icons can be found at https://ionicons.com/v4/
+contact:
+- { name: 'Github', icon: 'ion-logo-github', link: 'https://github.com/callenb'}
+- { name: 'Twitter', icon: 'ion-logo-twitter', link: 'https://twitter.com/callenb'}
+- { name: 'LinkedIn', icon: 'ion-logo-linkedin', link: 'https://www.linkedin.com/in/barriecallender/'}
+
+#------------------------------
+# Comment Section (Disqus)
+disqus-identifier: callenb
+
+#-------------------------------
+# Newsletter
+mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
+mailchimp-identifier: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
+mailchimp-description: Subscribe to our newsletter and we’ll send you the emails of latest posts.
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: UA-26390665-1 # Add your identifier. For example UA-99631805-1.
+
+#-------------------------------
 # Build settings
 markdown: kramdown
-theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
   - jekyll-sitemap
+  - jekyll/tagging
+
+paginate: 9
+paginate_path: "/page/:num"
+
+# Pages Path
+defaults:
+  - scope:
+      path: '_pages'
+    values:
+      permalink: /:basename:output_ext
+
+include:
+  - _pages
+
+# Tags
+tag_page_dir:         tag
+tag_page_layout:      tag_page
+tag_permalink_style:  pretty
+
+sass:
+  sass_dir: _sass
+  style: compressed
+#-----------------------------
+
 
 # Default extension for new posts and pages
 post_ext: md
@@ -48,21 +91,6 @@ page_template: page
 draft_template: draft
 
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Style Sheets
-#
-custom_css: ["/assets/main.css", "/assets/css/callenb.css"]
 
 # exlude pdf files from sitemap
 #
@@ -72,7 +100,3 @@ defaults:
       path: "images/**/*.pdf"
     values:
       sitemap: false
-# SEO Settings
-#
-# Google Analytics
-google_analytics: UA-26390665-1

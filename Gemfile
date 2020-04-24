@@ -8,16 +8,15 @@ source "https://rubygems.org"
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
+gem "bundler"
 gem "jekyll", "~> 4.0.0"
 
 # Use Octopress with Jekyll
 gem 'octopress', '~> 3.0'
 
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima"
 
 # seo tag
-gem "jekyll-seo-tag"
+#gem "jekyll-seo-tag"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -26,7 +25,10 @@ gem "jekyll-seo-tag"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-feed" #, "~> 0.6"
+  gem "jekyll-seo-tag"
   gem "octopress-image-tag"
+  gem "jekyll-paginate"
+  gem "jekyll-tagging"
   gem "jekyll-sitemap"
 end
 
@@ -35,4 +37,3 @@ end
 
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
-
