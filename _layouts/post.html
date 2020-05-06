@@ -31,10 +31,13 @@ layout: default
     <div class="row">
       {% if page.image %}
       <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
-        <div class="image-box">
-          <div class="post-image" style="background-image: url({{site.baseurl}}{{page.image}})"></div>
+	<div class="post-image">
+          <figure>
+            <img src="{{page.image}}">
+	    <figcaption>{{page.image-caption}}</figcaption>
+          </figure>
         </div>
-      </div>
+      </div>	
       {% endif %}
       <div class="col col-8 col-d-10 push-d-1 push-2 col-m-12 push-m-0">
         <div class="post__content">

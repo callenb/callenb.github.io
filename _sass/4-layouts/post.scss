@@ -88,12 +88,23 @@
   background-position: center;
   background-repeat: no-repeat;
   background-color: $light-gray;
+  width: 70%;
+  margin-left: 15%;
   &:after {
     content: "";
     display: table;
-    padding-top: 75%;
+    padding-top: 0%;
     @media only screen and (max-width: $desktop) {
       padding-top: 65%;
+    }
+  }
+  figure {
+    margin-left: 0%;
+    width: 100%;
+
+    img, figcaption {
+      margin-left: 5%;
+      width: 90%;
     }
   }
 }
