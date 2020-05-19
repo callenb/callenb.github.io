@@ -94,9 +94,6 @@
     content: "";
     display: table;
     padding-top: 0%;
-    @media only screen and (max-width: $desktop) {
-      padding-top: 65%;
-    }
   }
   figure {
     margin-left: 0%;
