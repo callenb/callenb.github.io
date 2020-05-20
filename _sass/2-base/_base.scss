@@ -188,3 +188,11 @@ table td {
 table tr:hover {
   background-color: $brand-color;
 }
+
+figure p {
+  margin-bottom: 10px;
+}
+
+figcaption {
+  border-bottom: 1px solid $brand-color;
+}
