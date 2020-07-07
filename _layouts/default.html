@@ -1,15 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include head.html %}
+{% include head.html -%}
 
-<body class="{% if page.url == '/' %}{% assign class = 'home' %}{{ class }}{% endif %}">
+<body class="{% if page.url == '/' -%}{% assign class = 'home' -%}{{ class }}{% endif -%}">
 
-  {% if site.google-analytics %}
-    {% include google-analytics.html %}
-  {% endif %}
+  {% if site.google-analytics -%}
+    {% include google-analytics.html -%}
+  {% endif -%}
 
-  {% include header.html %}
+  {% include header.html -%}
 
   <!-- begin content -->
   <main class="content" aria-label="Content">
@@ -19,9 +19,9 @@
 
   <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
 
-  {% include footer.html %}
+  {% include footer.html -%}
 
-  {% include javascripts.html %}
+  {% include javascripts.html -%}
 </body>
 
 </html>

@@ -6,7 +6,7 @@
         <div class="widget-box">
           <div class="row">
 
-            {% if site.tags.size >= 1 %}
+            {% if site.tags.size >= 1 -%}
             <div class="col col-4 col-d-6 col-t-12">
               <div class="widget widget-about">
                 <div class="widget__head">
@@ -23,7 +23,7 @@
                 </div>
               </div>
             </div>
-            {% endif %}
+            {% endif -%}
 
             <div class="col col-4 col-d-6 col-t-12">
               <div class="widget widget-recent">
@@ -32,10 +32,10 @@
                 </div>
                 {% for post in site.posts limit:3 %}
                 <div class="recent-posts">
-                  {% if post.image %}
+                  {% if post.image -%}
                     <a class="recent-posts__image" href="{{ post.url }}" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
-                  {% else %}
-                  {% endif %}
+                  {% else -%}
+                  {% endif -%}
                   <span class="recent-posts__count">{{ forloop.index }}</span>
                   <div class="recent-posts__content">
                     <div class="recent-posts__date">
@@ -44,11 +44,11 @@
                     <h6 class="recent-posts__title"><a href="{{ post.url }}">{{ post.title }}</a></h6>
                   </div>
                 </div>
-                {% endfor %}
+                {% endfor -%}
               </div>
             </div>
 
-	    {% include mailchimp.html %}
+	    {% include mailchimp.html -%}
 
           </div>
         </div>
@@ -64,7 +64,7 @@
     <div class="row">
       <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
         <div class="footer__inner">
-          {% include contact-links.html %}
+          {% include contact-links.html -%}
           <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. Crafted & Designed by <a
               href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
         </div>
