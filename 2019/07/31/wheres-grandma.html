@@ -9,7 +9,7 @@
   <title>Where's Grandma</title>
   <meta name='description' content='Before my Mum died in 2004, she often talked to me about her Mother who she had lost contact with and wanted to know what happened to her. Me finding my Gran...'>
 
-  <link rel="canonical" href="https://callenb.org/2019/07/31/wheres-grandma.html">
+  <link rel="canonical" href="http://localhost:4000/2019/07/31/wheres-grandma.html">
   <link rel="alternate" type="application/rss+xml" title="Barrie Callender on my Family History" href="/feed.xml">
 
   <!-- Fonts -->
@@ -395,24 +395,24 @@ Soon after they moved to 56 Vallance Road and the marriage broke up with a legal
         <div class="post__share">
           <ul class="share__list list-reset">
             <li class="share__item">
-              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://callenb.org/2019/07/31/wheres-grandma.html"
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/2019/07/31/wheres-grandma.html"
                 onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
                 title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
             </li>
 
             <li class="share__item">
-              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Where's%20Grandma&url=https://callenb.org/2019/07/31/wheres-grandma.html"
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Where's%20Grandma&url=http://localhost:4000/2019/07/31/wheres-grandma.html"
                 onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
                 title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
             </li>
 
             <li class="share__item">
-              <a class="share__link share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=https://callenb.org/2019/07/31/wheres-grandma.html&title=Where's%20Grandma&summary=Before%20my%20Mum%20died%20in%202004,%20she%20often%20talked%20to%20me%20about%20her%20Mother%20who%20she%20had%20lost%20contact%20with%20and%20wanted%20to%20know%20what%20happened%20to%20her.%20Me%20finding%20my%20Grandma%20has%20lead%20to%20me%20learning%20about%20my%20Jewish%20heritage.&source=Barrie%20Callender%20on%20my%20Family%20History"
+              <a class="share__link share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/2019/07/31/wheres-grandma.html&title=Where's%20Grandma&summary=Before%20my%20Mum%20died%20in%202004,%20she%20often%20talked%20to%20me%20about%20her%20Mother%20who%20she%20had%20lost%20contact%20with%20and%20wanted%20to%20know%20what%20happened%20to%20her.%20Me%20finding%20my%20Grandma%20has%20lead%20to%20me%20learning%20about%20my%20Jewish%20heritage.&source=Barrie%20Callender%20on%20my%20Family%20History"
               onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn" rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
             </li>
 
             <li class="share__item">
-              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://callenb.org/2019/07/31/wheres-grandma.html&amp;media=https://callenb.org/images/1928/FH-Photo-Eva-Lichtenstein.jpg&amp;description=Where's%20Grandma"
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=http://localhost:4000/2019/07/31/wheres-grandma.html&amp;media=http://localhost:4000/images/1928/FH-Photo-Eva-Lichtenstein.jpg&amp;description=Where's%20Grandma"
               onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
               rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
             </li>
@@ -435,15 +435,42 @@ Soon after they moved to 56 Vallance Road and the marriage broke up with a legal
           
         </div>
 
-        <div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 1080; // DO NOT CHANGE THIS
-    var HYVOR_TALK_CONFIG = {
-        url: 'https://callenb.org/2019/07/31/wheres-grandma.html',
-        id: '/2019/07/31/wheres-grandma'
-    };
+         <!-- begin comments -->
+<div id="disqus_thread" class="comments__article">
+  <div id="disqus_empty"></div>
+</div>
+
+<script>
+  function load_disqus() {
+    var disqus_shortname = 'callenb',
+      is_disqus_empty = document.getElementById('disqus_empty'),
+      disqus_target = document.getElementById('disqus_thread'),
+      disqus_embed = document.createElement('script'),
+      disqus_hook = (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]);
+
+    if (disqus_target && is_disqus_empty) {
+      disqus_embed.type = 'text/javascript';
+      disqus_embed.async = true;
+      disqus_embed.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      disqus_hook.appendChild(disqus_embed);
+      is_disqus_empty.remove();
+    }
+  }
+
+  window.addEventListener('scroll', function (e) {
+    var currentScroll = document.scrollingElement.scrollTop;
+    var disqus_target = document.getElementById('disqus_thread');
+
+    if (disqus_target && (currentScroll > disqus_target.getBoundingClientRect().top - 150)) {
+      load_disqus('disqus_shortname');
+    }
+  }, false);
+
 </script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script> 
+<noscript>Please enable JavaScript to view the
+  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+<!-- end comments --> 
       </div>
 
     </div>

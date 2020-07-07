@@ -9,7 +9,7 @@
   <title>Hannah and Jacob Solomons</title>
   <meta name='description' content='My Great Great Grandparents, Hannah and Jacob Solomons came from Eastern Europe to Whitechapel.  They had five daughters and three sons. Alexander was lost i...'>
 
-  <link rel="canonical" href="https://callenb.org/2019/10/20/hannah-and-jacob-solomons.html">
+  <link rel="canonical" href="http://localhost:4000/2019/10/20/hannah-and-jacob-solomons.html">
   <link rel="alternate" type="application/rss+xml" title="Barrie Callender on my Family History" href="/feed.xml">
 
   <!-- Fonts -->
@@ -368,24 +368,24 @@
         <div class="post__share">
           <ul class="share__list list-reset">
             <li class="share__item">
-              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=https://callenb.org/2019/10/20/hannah-and-jacob-solomons.html"
+              <a class="share__link share__facebook" href="https://www.facebook.com/sharer/sharer.php?u=http://localhost:4000/2019/10/20/hannah-and-jacob-solomons.html"
                 onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
                 title="Share on Facebook" rel="nofollow"><i class="ion ion-logo-facebook"></i></a>
             </li>
 
             <li class="share__item">
-              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Hannah%20and%20Jacob%20Solomons&url=https://callenb.org/2019/10/20/hannah-and-jacob-solomons.html"
+              <a class="share__link share__twitter" href="https://twitter.com/intent/tweet?text=Hannah%20and%20Jacob%20Solomons&url=http://localhost:4000/2019/10/20/hannah-and-jacob-solomons.html"
                 onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
                 title="Share on Twitter" rel="nofollow"><i class="ion ion-logo-twitter"></i></a>
             </li>
 
             <li class="share__item">
-              <a class="share__link share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=https://callenb.org/2019/10/20/hannah-and-jacob-solomons.html&title=Hannah%20and%20Jacob%20Solomons&summary=My%20Great%20Great%20Grandparents,%20Hannah%20and%20Jacob%20Solomons%20came%20from%20Eastern%20Europe%20to%20Whitechapel.%20%20They%20had%20five%20daughters%20and%20three%20sons.%20Alexander%20was%20lost%20in%20action%20in%20WW1%20and%20both%20my%20Great%20Grandmother,%20Esther,%20and%20her%20sister%20Kitty%20were%20murdered.%20%20This%20is%20my%20family.&source=Barrie%20Callender%20on%20my%20Family%20History"
+              <a class="share__link share__linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=http://localhost:4000/2019/10/20/hannah-and-jacob-solomons.html&title=Hannah%20and%20Jacob%20Solomons&summary=My%20Great%20Great%20Grandparents,%20Hannah%20and%20Jacob%20Solomons%20came%20from%20Eastern%20Europe%20to%20Whitechapel.%20%20They%20had%20five%20daughters%20and%20three%20sons.%20Alexander%20was%20lost%20in%20action%20in%20WW1%20and%20both%20my%20Great%20Grandmother,%20Esther,%20and%20her%20sister%20Kitty%20were%20murdered.%20%20This%20is%20my%20family.&source=Barrie%20Callender%20on%20my%20Family%20History"
               onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;" title="Share on LinkedIn" rel="nofollow"><i class="ion ion-logo-linkedin"></i></a>
             </li>
 
             <li class="share__item">
-              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=https://callenb.org/2019/10/20/hannah-and-jacob-solomons.html&amp;media=https://callenb.org/images/wentworth_street.jpg&amp;description=Hannah%20and%20Jacob%20Solomons"
+              <a class="share__link share__pinterest" href="http://pinterest.com/pin/create/button/?url=http://localhost:4000/2019/10/20/hannah-and-jacob-solomons.html&amp;media=http://localhost:4000/images/wentworth_street.jpg&amp;description=Hannah%20and%20Jacob%20Solomons"
               onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=900,height=500,toolbar=1,resizable=0'); return false;" title="Share on Pinterest"
               rel="nofollow"><i class="ion ion-logo-pinterest"></i></a>
             </li>
@@ -416,15 +416,42 @@
           
         </div>
 
-        <div id="hyvor-talk-view"></div>
-<script type="text/javascript">
-    var HYVOR_TALK_WEBSITE = 1080; // DO NOT CHANGE THIS
-    var HYVOR_TALK_CONFIG = {
-        url: 'https://callenb.org/2019/10/20/hannah-and-jacob-solomons.html',
-        id: '/2019/10/20/hannah-and-jacob-solomons'
-    };
+         <!-- begin comments -->
+<div id="disqus_thread" class="comments__article">
+  <div id="disqus_empty"></div>
+</div>
+
+<script>
+  function load_disqus() {
+    var disqus_shortname = 'callenb',
+      is_disqus_empty = document.getElementById('disqus_empty'),
+      disqus_target = document.getElementById('disqus_thread'),
+      disqus_embed = document.createElement('script'),
+      disqus_hook = (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]);
+
+    if (disqus_target && is_disqus_empty) {
+      disqus_embed.type = 'text/javascript';
+      disqus_embed.async = true;
+      disqus_embed.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+      disqus_hook.appendChild(disqus_embed);
+      is_disqus_empty.remove();
+    }
+  }
+
+  window.addEventListener('scroll', function (e) {
+    var currentScroll = document.scrollingElement.scrollTop;
+    var disqus_target = document.getElementById('disqus_thread');
+
+    if (disqus_target && (currentScroll > disqus_target.getBoundingClientRect().top - 150)) {
+      load_disqus('disqus_shortname');
+    }
+  }, false);
+
 </script>
-<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script> 
+<noscript>Please enable JavaScript to view the
+  <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+</noscript>
+<!-- end comments --> 
       </div>
 
     </div>
