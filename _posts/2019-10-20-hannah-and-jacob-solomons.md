@@ -5,17 +5,17 @@ description: My Great Great Grandparents, Hannah and Jacob Solomons came from Ea
 date: 2019-10-20T10:13:52+01:00
 image: '/images/wentworth_street.jpg'
 ---
-Hannah Levison and Jacob Solomons came to England from eastern europe as a result of the anti-Jewish pogroms.  I don't know when they came but I do know they were here on 25th September 1881 because that is when my Great Grahndmother and their first child was born.
+Hannah Levison and Jacob Solomons came to England from eastern europe as a result of the anti-Jewish pogroms.  I don't know when they came but I do know they were here on 25th September 1881 because that is when my Great Grandmother, also their first child, was born.
 
 At this stage in my family history research I have the makings of some interesting stories from this family alone.  Jacob died of Consumption when their first born was 17, which must have been devastating for everyone in the family.
 
-By the time Hannah died, one son had spent the 1911 Census in Wormwood Scrubs and later gave his life on the battlefields of Flanders and a daughter was brutally murdered a month after her Granddaughter was born.  Less than 10 years after Hannah died another daughter was murdered under similar circumstances to the first.  Both murders took place on the same street in Canada.
+By the time Hannah died, one son had spent the 1911 Census in Wormwood Scrubs, later giving his life on the battlefields of Flanders, and a daughter was brutally murdered a month after her Granddaughter was born.  Less than 10 years after Hannah died another daughter was murdered under similar circumstances to the first.  Both murders took place on the same street in Canada.
 
-I have found this Family History journey fascinating, as I suspect most people's family histories are.  It has also been quite upsetting, but as I discover more about being Jewish, it has been an uplifting personal experience.  
+I have found this Family History journey fascinating, as I suspect most people's family histories are.  It has also been quite upsetting, but as I discover more about being Jewish, it has been an uplifting personal experience.
 
 I want to write blog posts but every time I nearly finish one, some more information comes to light for me to investigate and I never publish the post.  With this blog post I am putting a stake in the ground to say I will write up what I know at the time and update it later.  I will most likely begin with this family of eight children and their parents.
 
-My Mum lived with Hannah until she was nearly nine years old and loved her dearly.  She spoke about her often and I feel it is right to start here.  Her father's family has some interesting stories too, including making the front page of the national newspapers in 1928 and a four year old who was sadly killed as the result of a car accident when coming out of school.
+My Mum lived with Hannah until she was nearly nine years old and loved her dearly.  She spoke about her often and I feel it is right to start here.  Her father's family has some interesting stories too, including making the front page of the national newspapers in 1928, and sadly a four year old who was killed as the result of a car accident when coming out of school.
 
 I haven't even started on my father's side yet so goodness knows what else is there.
 
