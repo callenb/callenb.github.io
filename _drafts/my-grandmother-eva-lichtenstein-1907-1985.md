@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Grandmother Eva Lichtenstein (1907 - 1985)"
-date: 2020-07-02T19:33:27+01:00
+date: 2020-07-07T21:41:38+01:00
 description: I set out to find out what happened to my Grandmother after she fell out with my Mum and disappeared from her life in about 1950.  I ended up hooked on my family research and now need to know more about three unsolved murders.
 image: '/images/people/Eva-Lichtenstein-21yo-500x583.jpg'
 image-caption: 'My maternal Grandmother, Eva Lichtenstein (1907 - 1985), when she was about 21'
@@ -51,19 +51,23 @@ So how much do I now know about my Grandmother?  Eva was born on 7th June 1907 (
 
 Eva's mother was Esther Solomons and the eldest child of Hannah and Jack.  She was born at 12 Little Patternoster Row, Spitalfields on 25th September 1881 (2nd Tishrei 5642).  Eva's mother was a Dressmaker and her father was a Tailor called Jack Lichtenstein.
 
-Esther had travelled to New York 9 months before Eva was born, leaving as a single woman on 25th September 1906  (6th Tishrei 5667) and returning in the first half of 1907, married and pregnant.  There was no Jack Lichtenstein on the ship, but there was a Hairdresser called John Lichtenstein from Hungary, with a ticket number of "49988", just 1 less than the ticket number "49989" held by Esther.  Nobody else had a ticket number even close to theirs, so I am guessing they knew each other, and John may actually have been Jack.
+Esther had travelled to New York 9 months before Eva was born, leaving as a single woman on 25th September 1906  (6th Tishrei 5667) and returning in the first half of 1907, married and pregnant.  There was no Jack Lichtenstein on the outbound ship, but there was a Hairdresser called John Lichtenstein from Hungary, with a ticket number of "49988", just 1 less than the ticket number "49989" held by Esther.  Nobody else had a ticket number even close to theirs, so I am guessing they knew each other, and John may actually have been Jack.  The passenger list looks like it says John was either Married or Widowed.
 
 Esther then left for New York in September 1907 following Eva's birth.  I do not know if Jack was in England for the birth of his daughter, or if indeed there ever was a Jack.  The passenger list on arrival in New York has her Lichtenstein surname crossed out and "Salamons" written above it. I have not found a marriage certificate for Esther and Jack.
 
-The evidence suggests Eva was brought up by her Grandmother whilst her Mum lived in New York or somewhere else in America.  The UK Census of April 1911 has Eva living at 1 Regal Place with Hannah Solomons.  This is an address I know very well, because my Mum also lived there with Hannah.  It was a street which came off Old Montague Close, and lead up to the back of [The Pavilion Theatre](http://www.arthurlloyd.co.uk/PavilionTheatreAndWonderlandWhitechapelRoad.htm).  Eva is 4 years old and Hannah's three youngest daughters, Rachael, Dinah and Rebecca are also living there.  Two other people are registered, one is a lodger and the other is Hannah's daughter-in-law named Cissie or Bessie Solomons.  Her husband is not there, but someone of the same name is in Wormwood Scrubs prison.  I expect it is him.  There is no sign of Esther and I believe she was most likely living abroad in New York.
+The evidence suggests Eva was brought up by her Grandmother whilst her Mum lived in New York, later Canada too.  The UK Census of April 1911 has Eva living at 1 Regal Place with Hannah Solomons.  This is an address I know very well, because my Mum also lived there with Hannah.  It was a street which came off Old Montague Close, and lead up to the back of [The Pavilion Theatre](http://www.arthurlloyd.co.uk/PavilionTheatreAndWonderlandWhitechapelRoad.htm).  Eva is 4 years old and Hannah's three youngest daughters, Rachael, Dinah and Rebecca are also living there.
+
+Two other people are registered, one is a lodger and the other is Hannah's daughter-in-law named Cissie or Bessie Solomons.  Her husband is not there, but someone of the same name is in Wormwood Scrubs prison.  I expect it is him.  There is no sign of Esther and I believe she was most likely living abroad in New York.
 
 {% include image.html url="/images/1911/CENSUS_SUM_1911_Hannah_Solomons_1_Regal_Place.png" dimensions="width='100%'" caption="1911 Census for 1 Regal Place, Old Montague Street, E1" %}
 
 After Esther left in 1907, the next passenger list featuring her name is in 1921.  She travelled back to London quite frequently after that.  I am hopeful she did so during the whole of Eva's life, and I simply haven't found the passenger list confirming it.  There must have been letters too, but sadly I will be very surprised if I ever come across them.
 
-I have found no records about Eva as she was growing up.  She would have been 7 at the outbreak of WWI in 1914.  I know all three of the uncles on her Mum's side, served in the armed forces, and unfortunately one did not return home.  I also know Aunt Bessie, who was actually Eva's Aunt Kitty, visited Esther in 1921 after Esther had moved to Canada in 1913.  Kitty would have been 17 when Eva was born.  When my Mum said she treated Eva like a daughter, it may have been because she quite likely looked after Eva in her early years when Esther was abroad.  Esther and Kitty were the two eldest daughters in the family and they must have been close to each other.
+I have found no records about Eva as she was growing up.  She would have been 7 at the outbreak of WWI in 1914.  I know all three of the uncles on her Mum's side, served in the armed forces, and unfortunately one did not return home.
 
-I find it hard to imagine being Eva, growing up without parents, and brought up by a Grandmother and Aunts.  Even assuming Esther sent letters, and travelled back when she could, it must have been difficult for Eva.
+I also know Aunt Bessie, who was actually Eva's Aunt Kitty, visited Esther in 1921 after Esther had moved to Canada in 1913.  Kitty would have been 17 when Eva was born.  When my Mum said she treated Eva like a daughter, it may have been because she quite likely looked after Eva in her early years when Esther was abroad.  Esther and Kitty were the two eldest daughters in the family and they must have been close to each other.
+
+I find it hard to imagine being Eva, growing up without her parents, and brought up by a Grandmother and Aunts.  Even assuming Esther sent letters, and travelled back when she could, it must have been difficult for Eva.
 
 ## Getting married, giving birth and suffering loss
 
