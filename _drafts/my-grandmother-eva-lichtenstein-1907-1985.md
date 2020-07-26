@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "My Grandmother Eva Lichtenstein (1907 - 1985)"
-date: 2020-07-02T19:33:27+01:00
+date: 2020-07-20T08:28:20+01:00
 description: I set out to find out what happened to my Grandmother after she fell out with my Mum and disappeared from her life in about 1950.  I ended up hooked on my family research and now need to know more about three unsolved murders.
 image: '/images/people/Eva-Lichtenstein-21yo-500x583.jpg'
 image-caption: 'My maternal Grandmother, Eva Lichtenstein (1907 - 1985), when she was about 21'
@@ -12,7 +12,7 @@ My Dad was brought up in the non-Conformist tradition in Stockton-on-Tees, when 
 
 Mum always wanted to find out what happened to Eva, and I promised to do some research.  I did try once or twice, but without really knowing how to go about it.  The [Internet](https://en.wikipedia.org/wiki/History_of_the_Internet) in the 1980s wasn't what it is today, which didn't help either.
 
-Mum died in 2004 without ever knowing what happened to her Mother, which means I hadn't made good on my promise.  However, in the last couple of years, from around the age of 55, I took a greater interest in my maternal ancestry because of the rise of antisemitism in the world at large, and the [Labour Party](https://labour.org.uk/), of which I am a member, in particular.  I'd recently rejoined, though not particularly active, and the rise of antisemitism and the way it is accomodated by some members remains apalling.
+Mum died in 2004 without ever knowing what happened to her Mother, which means I had failed her.  However, in the last couple of years, from around the age of 55, I took a greater interest in my Jewish ancestry due in part to the rise of antisemitism in the world at large, and the [Labour Party](https://labour.org.uk/), of which I am a member, in particular.  I'd recently rejoined, though not particularly active, and the rise of antisemitism and the way it is accomodated by some members remains apalling.
 
 It lead me to want to understand what it meant to be Jewish, which then lead me to wanting to find out about my Jewish ancestry, and to answer the question I had failed to answer earlier.  [Where's Grandma?](https://callenb.org/2019/07/31/wheres-grandma.html)
 
