@@ -4,6 +4,7 @@ title: "Esther Solomons was my great grandmother"
 date: 2019-10-15T21:39:18+01:00
 description: Esther Solomons was born in Little Patternoster Row, Whitechapel.  She was the eldest of her siblings, married a hungarian hairdresser, a turkish cook, travelled to New York and was brutally murdered in Prince Rupert, Canada where she lived the last 14 years of her life.  She is also my Jewish Great Grandmother.
 image: '/images/esther_and_kitty_solomons_graves.png'
+just_comments: true
 ---
 My Mother was born on 7 February 1928 (16 Sh'vat 5688) in Bethnal Green, London and about two months later on 17 April 1928 (27 Nisan 5688) her grandmother, Esther Solomons, was brutally murdered nearly 5,000 miles away in Prince Rupert, British Colombia, Canada.
 
