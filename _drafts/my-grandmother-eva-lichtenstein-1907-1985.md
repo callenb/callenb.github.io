@@ -12,7 +12,7 @@ My Dad was brought up in the non-Conformist tradition in Stockton-on-Tees, when 
 
 Mum always wanted to find out what happened to Eva, and I promised to do some research.  I did try once or twice, but without really knowing how to go about it.  The [Internet](https://en.wikipedia.org/wiki/History_of_the_Internet) in the 1980s wasn't what it is today, which didn't help either.
 
-Mum died in 2004 without ever knowing what happened to her Mother, which means I had failed her.  However, in the last couple of years, from around the age of 55, I took a greater interest in my Jewish ancestry due in part to the rise of antisemitism in the world at large, and the [Labour Party](https://labour.org.uk/), of which I am a member, in particular.  I'd recently rejoined, though not particularly active, and the rise of antisemitism and the way it is accomodated by some members remains apalling.
+Mum died in 2004 without ever knowing what happened to her Mother, which means I had failed her.  However, in the last couple of years, from around the age of 55, I took a greater interest in my Jewish ancestry due in part to the rise of antisemitism in the world at large, and the [Labour Party](https://labour.org.uk/), of which I am a member, in particular.  I'd recently rejoined, though not particularly active, and the rise of antisemitism and the way it is accomodated by some members remains appalling.
 
 It lead me to want to understand what it meant to be Jewish, which then lead me to wanting to find out about my Jewish ancestry, and to answer the question I had failed to answer earlier.  [Where's Grandma?](https://callenb.org/2019/07/31/wheres-grandma.html)
 
@@ -22,7 +22,7 @@ There are events that take place during our lives when we remember exactly where
 
 ## Your Mum's Jewish
 
-I can't count the number of times I walked to our allottment with my Dad, it was a lot.  We'd set off from our house at 77 Hind Street in Stockton-on-Tees, walk past where my Dad grew up at number 48 with the brass step, then to the bottom of the street and down the steps to Oxbridge Lane.
+I can't count the number of times I walked to our allottment with my Dad, it was many.  We'd set off from our house at 77 Hind Street in Stockton-on-Tees, walk past where my Dad grew up at number 48 with the brass step, then to the bottom of the street and down the steps to Oxbridge Lane.
 
 {% include image.html class="img-left" url="/images/people/george-callender-57yo400x594.jpg" dimensions="width='100%'" caption="My Father at the allottment in about 1972/73" %}
 We'd walk under the railway along Oxbridge Lane, passed our school, over the zebra crossing, and towards the cemetery, turning right at the roundabout and finally up Oxbridge Avenue to our destination.  It was only about a mile but there was plenty of time to talk about all sorts of things, and we did.
