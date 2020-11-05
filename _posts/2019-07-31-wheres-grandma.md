@@ -1,45 +1,57 @@
 ---
 layout: post
 title: "Where's Grandma"
-description: Before my Mum died in 2004, she often talked to me about her Mother who she had lost contact with and wanted to know what happened to her. Me finding my Grandma has lead to me learning about my Jewish heritage.
+description: Before my Mum died in 2004, she often talked to me about her Mother, Eva Lichtenstein, who she had lost contact with, and wanted to know what happened to her. I began looking for my Grandma and so far I have discovered some extraordinary family history.
 date: 2019-07-31T22:46:40+01:00
 image: '/images/1928/FH-Photo-Eva-Lichtenstein.jpg'
 ---
-This is a photo of Eva Lichtenstein, who was my maternal Grandmother who I never met.  She is Jewish. I learned my Mum was Jewish from my Dad when I was about 9 years old.  Mum had always been too scared to mention it to anyone just in case they turned against her.
+This is a photo of Eva Lichtenstein, who is my maternal Grandmother.  When I was nearly 10 years old, my Dad told me my Mum was Jewish.  When Mum found out, she insisted on making me promise not to tell anyone.  She worried how people would react if they knew.
 
-She was concerned when I ended up in the German half at school designating it as the foreign language for me to learn, rather than French.
+My Mum was 11 years old at the start of World War II.  She was evacuated from London to Exmouth in Devon.  Like many evacuees, she returned to London before the end of the war, and when it finished she was just 17 years old and working as a waitress in central London.
 
-My Mum was 11 years old when she was evacuated from London at the start of World War 2 and was 17 when it ended in 1945.  Germany was the very last country in the world she would ever want to go to.  It was a fear she lived with all her adult life.
+Five years after the end of the war, she saw her Mum for the last time, as they fell out over a ring she'd been left by a murdered aunt.  Mum never received the ring, but my Grandma didn't believe her.  I now know she never received it, and why.  
+
+I entered secondary school fairly soon after I found out my Mum was Jewish.  I was put into the German half and expected to learn German as a foreign language.  Mum said it was a little like Yiddish, but she made it clear she would never want to go to Germany.  It was a fear she lived with all her adult life.
 
 I can't imagine how that felt for her.
 
-Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but [Hannah Solomons](/2019/10/20/hannah-and-jacob-solomons.html), who was her Great Grandmother and her Mum, Eva Lichtenstein, were the two she missed the most.
+Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but [Hannah Solomons](/2019/10/20/hannah-and-jacob-solomons.html), and her Mum, Eva Lichtenstein, were the two she mentioned the most.
 
-She was an 8 year old girl when Hannah died in January 1937, but she last saw her Mother in 1949 and always wanted to know what happened to her.  Finding my Grandma was what started me off in Family History research, but I never applied myself as much as I could have done.  Unfortunately my Mum died in 2004 and never knew what had become of her Mother.
+Hannah was her Great Grandmother who Mum lived with until she died in 1937, just before my Mum turned 9.  Hannah and her husband Jacob came to this country from somewhere in Eastern Europe.  My Mum wasn't sure where, but I believe I now know the name of the village in Lithuania.
+
+Mum described herself as being pushed from pillar to post after Hannah died.  She once lived in a house full of stuffed birds and there were never any bird ornaments or pictures in our home.  She clearly liked her cousins and would probably like to have seen them again, but what she really wanted was to find out what happened to her Mother.
+
+Finding my Grandma was what started me off in Family History research, but I never applied myself as much as I could have done.  Unfortunately my Mum died in 2004 and never knew what had become of her Mother.
 
 ## So many Aunts, so few names?
 
 Listening to my Mum talk about her life, you would be forgiven for thinking she had many Aunties.  The truth be told she had none.  Some were Great Aunts, some other relations and I suspect some were people she respected.
 
-There was the Aunt she lived with in Long Acre who witnessed a murder.  An Aunt Bessy from Prince Rupert in Canada who visited a few times, but was murdered in Prince Rupert. Another Aunt who lived in Colvestone Crescent in Dalston, often buying Lox and Cream Cheese Bagels from the Ridley Road bakery at the end of the street.  I musn't forget the paranoid Aunt who lived south of the river as well as the one in Lambeth.  Some of these people could well be the same.
+There was the Aunt she lived with in Long Acre who witnessed a murder.  Another Aunt lived in Colvestone Crescent in Dalston, often buying Lox and Cream Cheese Bagels from the Ridley Road bakery at the end of the street.  I musn't forget the paranoid Aunt who lived south of the river, as well as the one in Lambeth.  For all I know, some of these people could have been the same person.
+
+There was also an Aunt Bessie from Prince Rupert in Canada, who visited a few times, but was murdered over there.  I've since found this was a big story in Prince Rupert.  Not least because of the murder of Aunt Bessie's sister almost exactly 17 years to the day before.  It turns out Aunt Bessie's sister was the first real murder in Prince Rupert.  It also turns out she was my Great Grandmother.  I believe my Mum never knew.
 
 She also had friends and occasionally gave them a name, but most people she told me about had places and stories but not names. At least not ones I remember.
 
-At the time my Dad announced Mum was Jewish, he also told me she had thought her name was Jacqueline Morris, which is the name on their Marriage certificate.  They found out it was Chemerofsky when they tried to emigrate to Australia.  We spent about 3 years and 3 months living in Australia but came back mostly because my Mum didn't settle there.  She was homesick for a country where she had lost contact with her family and friends. 
+At the time my Dad announced Mum was Jewish, he also told me she had thought her name was Jacqueline Morris, which is the name on their Marriage Certificate.  They found out it was Chemerofsky when they tried to emigrate to Australia.  We spent about 3 years and 3 months living in Australia, but came back mostly because my Mum didn't settle there.  
 
-Australia turned out to be traumatic due to a German family out there.  It really stressed Mum out and when our feet touched the tarmac at Gatwick, I'm sure she bent down and kissed it.
+Australia turned out to be traumatic due to a German family out there called the Neudatch's.  It really stressed Mum out.  She was homesick for a country where she had lost contact with her family and friends, yet when our feet touched the tarmac at Gatwick, I'm sure she bent down and kissed it.
 
 ## From little acorns grow great oaks
 
-I did eventually manage to drag a few names out of Mum, did a little bit of research in the 1980s and 1990s, put it aside and got on with my life.  I tried again in 2009, but the desire wasn't met by action.  Then various events leading up to a time in 2018 when the desire to learn more about where I came from and to actually find out where my Grandmother was took over me.  
+I did eventually manage to drag a few names out of Mum, did a little bit of research in the 1980s and 1990s, put it aside and got on with my life.  My Mum died in 2004 and a few years later I tried again in 2009, but the desire wasn't met by action.
 
-I have concentrated on the Jewish side and particularly the female line.  I also wanted to learn more about Jews, after all I am half-Jewish, and although I have yet to step inside a Synagogue, I feel a strong affinity with that part of me.
+The rise of antisemitism in the world at large, and the Labour Party in particular, of which I am a member, lead me up to a time in 2018 when the desire to honour my Mum's quest to find my Grandma, took over me.
 
-As part of that Journey I have read some of Simon Schama's books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regulary read The Eternal Dissident as well as soak up information about Jewish people. 
+I have concentrated on the female line through my Grandmother.  I am in contact with a wonderful second cousin who does a great job with my Grandfather's side.  I also want to learn more about Jews.  I was very close to my Mum, she taght me how to cook and bake, much of it forgotten now.  I am half-Jewish, and although I have yet to step inside a Synagogue, I feel a need to get more in touch with my inner Jew.
 
-So far I have uncovered lots of stories about my family and will try and write them up on this blog.  If you are thinking about looking into your family history, please don't do what I did.  Please ask lots of questions of your relatives, write lots of notes and better still record conversations with them.  Try and get names and places and dates.  Ask the same question in different ways at different times.  This can trigger additional information.
+As part of that Journey I have read some of Simon Schama's books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regulary read books by Jewish authors.  
 
-I seriously began my research based on the following notes, which I have also reproduce as they were on the now fading paper I still have.
+So far I have uncovered lots of stories about my family and will try and write them up on this blog.
+
+If you are thinking about looking into your family history, please don't do what I did.  Please ask lots of questions of your relatives, write lots of notes and better still record conversations with them.  Try and get names and places and dates.  Ask the same question in different ways at different times.  This can trigger additional information.
+
+I seriously began my research based on the following notes, which I have also reproduced as they are on the now fading paper I still have.
 
 {% include image.html url="/images/NOTES-page-1.png" dimensions="width='100%'" caption="First page of the original notes from my Mum" %}
 
