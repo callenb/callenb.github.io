@@ -90,7 +90,7 @@ PLATFORMS
 
 DEPENDENCIES
   bundler
-  jekyll (~> 4.0.0)
+  jekyll
   jekyll-feed
   jekyll-paginate
   jekyll-seo-tag
