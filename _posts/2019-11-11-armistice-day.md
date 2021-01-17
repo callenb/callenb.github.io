@@ -25,3 +25,5 @@ I have set a new Journal section on this blog and am writing a few posts to see 
 Another set of changes I need to introduce to the site include a google search of it and the use of tags and categories.
 
 I should also aim for a post at least every couple of weeks, but before that I need to catch-up with linking from the jump pages to the real blogs, and then always remember to do it.
+
+* Post image is "Arras Memorial" &copy; Andrew Bailey 2014
