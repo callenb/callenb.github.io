@@ -2,6 +2,7 @@
 layout: post
 title: "Jacob and Hannah Solomons"
 date: 2020-12-15T22:05:51+00:00
+published: false
 description: "Jacob Solomons an Hannah (Levinson) Solomons are my Great Great Grandparents who my Mum told me came to London from either Russia or Poland during the Pograms.  I now believe it was Veisiejai in Lithuania."
 image: '/images/things/russia_vishaye.png'
 image-caption: 'Birthplace of Hannah Solomons in 1901 census lokks like Russia Vishaye'
