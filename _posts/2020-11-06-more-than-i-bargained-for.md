@@ -21,18 +21,18 @@ Eva got married in 1926, gave birth to my Mum in 1928, was seperated from my Gra
 
 Jacob and Hannah's next three children were all boys.  Hyman was a Cabinet Maker, Louis worked as a Fruit Merchant and Alexander was a Commercial Traveller who lost his life in France during WWI.
 
-Next came four girls.  The first was Kitty who followed Esther to Canada, where she got married, and was later murdered in the same street as Esther was murdered almost exactly 17 years to the day before Kitty.  She left my Mum a one and one-half carat single diamond ring in her will.  It was an argument over the whereabouts of this ring which lead to my Mum and Grandmother falling out.
+Next came four girls.  The first was Kitty who followed Esther to Canada, where she got married, and was murdered in the same street as Esther was murdered, though almost exactly 17 years to the day afterwards.  She left my Mum a one and one-half carat single diamond ring in her will.  It was an argument over the whereabouts of this ring which lead to my Mum and Grandmother falling out.
 
-The last three girls were Rachael, Dinah and Rebecca. My Mum knew Hannah as well as all her children apart from Esther and Alexander.  It was my Mum who told me all the names in the graphic at the top of this post, as well as most of their children.
+The last three girls were Rachael, Dinah and Rebecca. Rachael was a Tailoress, Dinah worked as a Fur Coat Finisher and Liner, but I do not know what work Rebecca was employed in. My Mum knew Hannah as well as all her children apart from Esther and Alexander, who died before she was born in 1928.  It was my Mum who told me all the names in the graphic at the top of this post, as well as their children.
 
 My Mother lived in 126 Long Acre, London, with a lady she called an Aunt, who Mum says witnessed a murder that I have found was of [Russian Dora](http://www.unsolved-murders.co.uk/murder-content.php?key=1275&termRef=Dora%20Freedman).  Though probably not my family, I have been keeping an eye on Dora, whose real name is Helen Freedman.  The Electoral Register shows my Mum lived there two years after the Murder of Helen.
 
-When I set out to find what happened to my Grandmother, I never expected brutal murders, prostitution and other crimes to feature as much as they have.  On saying that, most of the time, my family history is full of people just living their lives as best as they can, loving their offspring and being loved back.  The experience of tracing my family history has also brought me into contact with many kind generous people from around the world who, otherwise, I would never have met.
+When I set out to find what happened to my Grandmother, I never expected brutal murders, prostitution and other crimes to feature as much as they have.  On saying that, most of the time, my family history is full of people just living their lives as best as they can, loving their children and being loved back.  The experience of tracing my family history has also brought me into contact with many kind and generous people from around the world who, otherwise, I would never have met.
 
 ## Is that it then?
 
 There are further stories on my Jewish Grandfather's side, and goodness knows what my Dad's side will bring up.  I have purposely left the detail behind some of these stories for the posts to come, including what I found to be the most upsetting story of them all. 
 
-So that is a quick roundup of some of what I know.  If there are still just three posts on this site when you are reading this, please be assured I have already completed at least one other ready for publication, and have two more waiting in the wings to be published shortly.
+Here ends the quick roundup of some of what I know.  If there are still just three posts on this site when you are reading this, please be assured I have almost finished the fourth post ready for publication, and have the next lined up to begin.
 
 Please come back soon.
