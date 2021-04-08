@@ -17,7 +17,7 @@ The two minutes silence took place in the sunshine, and my thoughts were with my
 
 I need to gather together the documents I have on Esther and Kitty and send them to Eric Holdijk and Sue Harper.  I shall tell Sue about Eric as well.  I also need to write a note to the current Police Commissioner in Prince Rupert to introduce myself, ask for information and advise the coroner got the wrong age for Esther.
 
-My grandmother, Eva Lichtenstein, died on 8 December 1985 and I would really like to discover where her grave is before that date comes around again this year so I can lay some flowers there.  Her home was in Bedminster at the time of her death and the South Bristol Cemetery and Crematorium is in Bedminster so it is a likely location.  I have a number and email address so I will send an email tonight.
+My grandmother, Eva Lichtenstein, died on 8 December 1985 and I would really like to discover where her grave is before that date comes around again this year so I can [place some stones](https://www.myjewishlearning.com/article/putting-stones-on-jewish-graves/) there.  Her home was in Bedminster at the time of her death and the South Bristol Cemetery and Crematorium is in Bedminster so it is a likely location.  I have a number and email address so I will send an email tonight.
 
 ## Blog changes
 I have set a new Journal section on this blog and am writing a few posts to see if it is something I can keep up at least weekly.  Once I have a few more posts, i will publish to the internet site for all to read.
