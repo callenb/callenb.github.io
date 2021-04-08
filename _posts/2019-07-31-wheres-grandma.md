@@ -15,7 +15,7 @@ I entered secondary school fairly soon after I found out my Mum was Jewish.  I w
 
 I can't imagine how that felt for her.
 
-Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but [Hannah Solomons](/2019/10/20/hannah-and-jacob-solomons.html), and her Mum, Eva Lichtenstein, were the two she mentioned the most.
+Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but Hannah Solomons, and her Mum, Eva Lichtenstein, were the two she mentioned the most, closely followed by the Long Acre Aunt.
 
 Hannah was her Great Grandmother who Mum lived with until she died in 1937, just before my Mum turned 9.  Hannah and her husband Jacob came to this country from somewhere in Eastern Europe.  My Mum wasn't sure where, but I believe I now know the name of the village in Lithuania.
 
