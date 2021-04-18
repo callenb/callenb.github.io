@@ -1,13 +1,14 @@
 ---
 layout: post
 title: "Jacob and Hannah Solomons"
-date: 2020-12-15T22:05:51+00:00
-published: false
+date: 2021-04-18T21:11:00+01:00
+published: true
+status: Unfinished 
 description: "Jacob Solomons an Hannah (Levinson) Solomons are my Great Great Grandparents who my Mum told me came to London from either Russia or Poland during the Pograms.  I now believe it was Veisiejai in Lithuania."
 image: '/images/things/russia_vishaye.png'
-image-caption: 'Birthplace of Hannah Solomons in 1901 census lokks like Russia Vishaye'
+image-caption: 'Birthplace of Hannah Solomons in 1901 census lokks like Russia Veshaye'
 ---
-Jacob and Hannah Solomons are my Great Great Grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hope I am close to finding out, and one day I may even come to know beyond any reasonable doubt.
+Jacob and Hannah Solomons are my Great Great Grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hope I am close to finding out, and one day I hope to come to know beyond any reasonable doubt.
 
 ## Where and when do I think they were born?
 
@@ -17,7 +18,7 @@ I had originally thought Hannah came from somewhere called [Pershay](https://www
 
 The image at the top of this post is of Hannah's birthplace on the 1901 UK Census.  I'd seen it written as Pershaye in other people's family trees and had just copied what they had written.  When I looked at the Census with fresh eyes and an open mind, I could see the first letter is clearly a "V" and not a "P".  The 1901 Census is the last one to be filled in by Census agents and not the head of the household as it has been since 1911.  This means it is important to listen to the sound of unfamiliar places, as much if not more, than how they are spelt.  It also means there are plenty of examples of the writer's handwriting to help decipher how they write their letters.
 
-In this case just 8 lines further down there was an entry for "Villias" and 9 lines above is an entry for Poland.  Even looking at the entry in the image above, and without other references, it is so obviously a "V".  The Census person would have written what they heard Hannah say, and "Vishay" is how the Yiddish name for Veisiejai is pronounced.  For this reason, I am now working on the theory that Hannah, at least, was born in Veisiejai in Lithuania during 1862.
+In this case just 8 lines further down there was an entry for "Villias" and 9 lines above is an entry for Poland.  Even looking at the entry in the image above, and without other references, it is so obviously a "V".  The Census person would have written what they heard Hannah say, and "Veshay" is how the Yiddish name for Veisiejai is pronounced, though i have usually seem it transliterated as "Vishay".  For this reason, I am now working on the theory that Hannah, at least, was born in Veisiejai in Lithuania during 1862.
 
 ## Lithuania and the arrival of the jews
 
@@ -25,7 +26,7 @@ Veisiejai is in present day Lithuania and about 195 km due west of Pershai.  The
 
 The [Crusades](https://en.wikipedia.org/wiki/Crusades) taking place in medieval europe between 1097 and 1271 and other persecutions drove the Ashkenazic Jews towards the east.  The tolerant, multiculturist kings of Poland and Lithuania provided an environment where the Ashkenazic Jews were able to come back together.  [Boleslav the Pious](https://en.wikipedia.org/wiki/Boles%C5%82aw_the_Pious) granted the [Statute of Kalisz](https://en.wikipedia.org/wiki/Statute_of_Kalisz) which became the best known Polish charter of privileges for Jewish subjects in 1264.  This was extended to all of Poland by [Casimir the Great](https://en.wikipedia.org/wiki/Casimir_III_the_Great) in 1334.
 
-There is a traditions about a charter being issued in Lithuania by Grand Duke Gediminas that is likely to be folklore relating to the years he founded Vilna (Vilnius) in the early 1320s.  Vytautas issued Jewish charters for Brisk (Brest) and Troki (Trakai) in 1388, for which the texts are still preserved today.  These closely followed the Polish model, but a year later, in 1389, he issued a charter for the Jews of Grodna (Hrodna, Belarus) which broke bold new ground.  Dovid Katz describes it as:
+There is a tradition about a charter being issued in Lithuania by Grand Duke Gediminas that is likely to be folklore relating to the years he founded Vilna (Vilnius) in the early 1320s.  Vytautas issued Jewish charters for Brisk (Brest) and Troki (Trakai) in 1388, for which the texts are still preserved today.  These closely followed the Polish model, but a year later, in 1389, he issued a charter for the Jews of Grodna (Hrodna, Belarus) which broke bold new ground.  Dovid Katz describes it as:
 
 > a remarkable document of East European tolerance in the age of western intolerance, and a stunning testament to the achievement of Lithuanianness in the "Grand Duchy sense" of a confederation of peoples, cultures and religeons (not to be confused with the much later ethnocentric sense that rose in the spirit of modern nationalism)
 
@@ -41,7 +42,7 @@ However by that date, Jacob and Hannah had been living in London and all their c
 
 ## Coming to London
 
-The economic situation for Jews in Vishay was sound until a big fire in 1872 badly affected the economy for many years to come.  It was during this period that many Jews began to leave Vishay.  The men often left first to find work, and then the women and children would follow later.  These were arduous and often dangerous journeys across hostile lands.
+The economic situation for Jews in Vishay was sound until a big fire in 1872 badly affected the economy for many years to come.  It was during this period that many Jews began to leave Vishay.  The men often left first to find work, and then the women and children would follow later.  These were arduous and often dangerous journeys across hostile lands.  Some travellers still managed to visti friends and family on the way.
 
 I can't be certain when Jacob and Hannah arrived in London but I do know their first child was born in September 1881.  With that in mind, I have found an interesting candidate for a potential marriage date.
 
@@ -51,17 +52,17 @@ This marriage between Jacob Solomons and Annie Levison took place in The [Prince
 
 The bride is the right age for Hannah, but Annie isn't her name.  However Annie could have been the result of a british person not hearing Hannah properly, and according to Wikipedia, [Anne, Ann, and other forms of the name derive from the Hellenized Hebrew](https://en.wikipedia.org/wiki/Hannah_(name)).  Not a great leap from Hannah to Annie.
 
-The participants in this marriage certificate were living at 6 Sandy's Row, which doesn't make an appearance on the Census of 1881, suggesting the place had become empty.  The address happens to be opposite [Sandy's Row Synaogue](https://sandysrowsynagogue.org/), which is a Dutch Jewish synagogue, and not Ashkenazi Jewish as Jacob and Hannah were, hence being married farther away. I have been unable to trace any other Jacob and Annie Solomons with a marriage around this time.  The closest was a Jacob and Fanny Solomons, but they hadn't arrived in the UK until several years after this date.
+The participants in this marriage certificate were living at 6 Sandy's Row, which doesn't make an appearance on the Census of 1881, suggesting the place had become empty.  The address happens to be opposite [Sandy's Row Synaogue](https://sandysrowsynagogue.org/), which is a Dutch Jewish synagogue, and not Ashkenazi Jewish as Jacob and Hannah were, hence being married farther away. I have been unable to trace any other Jacob and Annie Solomons, or even similar, with a marriage around this time.  The closest was a Jacob and Fanny Solomons, but they hadn't arrived in the UK until several years after this date.
 
-The 1881 Census includes a Jacob and Hannah Solomons living at 8 Little Patternoster Row, and their ages match this marriage certificate.  This is interesting because Jacob and Hannah's first child was born on 25th September 1881 (2nd Tishrei 5642) in 12 Little Patternoster Row, whilst their own address was at 13 Crispen Street, which ran behind Little Patternoster Row.  I suspect Hannah gave birth in the home of someone she knew from when living at number 8.
+The 1881 Census includes a Jacob and Hannah Solomons living at 8 Little Patternoster Row, and their ages match this marriage certificate.  This is interesting because Jacob and Hannah's first child was born on 25th September 1881 (2nd Tishrei 5642) in 12 Little Patternoster Row, whilst their own address was at 13 Crispen Street, which ran behind Little Patternoster Row.  I suspect Hannah gave birth in the home of someone she knew from when living at number 8, or they moved soon after the birth which was registered about 30 days later.
 
-If the marriage certificate is my Great Great Grandparents, then it took place almost exactly 9 months before their first child was born.  Several factors lead to this being a reasonable candidate for their marriage certificate.  The maiden name and age of the bride is correct; the name and occupation of the groom is also correct;  there is enough time before the birth of their first child; and no other Jacob and Hannah (or Annie) found in later records.
+If the marriage certificate is my Great Great Grandparents, then it took place almost exactly 9 months before their first child was born.  Several factors lead to this being a reasonable candidate for their marriage certificate.  The maiden name and age of the bride is correct; the name and occupation of the groom is also correct;  there is enough time before the birth of their first child; and no other Jacob and Hannah (or Annie) has been found (so far) in later records.
 
-## Building a family in London
+## Making a family in London
 
 {% include image.html url="/images/1881/BTH-18810925-Solomons_Esther.png" dimensions="width='100%'" caption="Birth Certificate of Esther Solomons (25-Sep-1881 to 17-Apr-1928)" %}
 
-Their first child was my Great Grandmother, Esther Solomons.  She became a Dressmaker, went to New York in 1906, gave birth to my Grandmother in 1907, and returned to New York without her daughter.  Esther returned to England many times and stayed with Hannah, but never took my Grandmother back abroad with her.  My Mum didn't know Esther because she was murdered in Prince Rupert, Canada when my Mum was about two months old.  She knew Esther had died, but didn't know the gruesome circumstances.
+Their first child was my Great Grandmother, Esther Solomons.  She became a Dressmaker, went to New York in 1906, gave birth to my Grandmother in 1907, and returned to New York without her.  Esther returned to England many times and stayed with Hannah, but never took my Grandmother back abroad with her.  My Mum didn't know Esther because she was murdered in Prince Rupert, Canada when my Mum was about two months old.  She knew Esther had died, but didn't know the gruesome circumstances.
 
 Despite what her birth certificate says, I am certain Esther was born in 12 Little Patternoster Row, and not "Patternoster Row", which is behind St Pauls Cathedral in London.  Jacob is a Tailor and Hannah's maiden name is recorded as Levinson, as it is on all the birth certificates of their children.  There are Levinson's known to have been living in Vishay at the start of World War II, which is another, albeit tenuous, link between Hannah and Vishay.
 
@@ -70,7 +71,7 @@ One of them was [Joseph Levinson](http://josephlevinson.com/).  A remarkable man
 
 Joseph was born in 1917 and died in Vilnius, Lithuania on 9th April 2015.
 
-If the earlier information is correct then the Solomons moved around quite a bit with three different addresses in the first 9 months of their marriage.  This wasn't uncommon when immigrants were trying to establish themselves and get steady work.  It was also a normal way of life for many a poor immigrant who struggled until the day they died.
+If the earlier information is correct then the Solomons moved around quite a bit with three different addresses in the first 9 months of their marriage.  This wasn't uncommon when immigrants were trying to establish themselves and get steady work.  It was also a normal way of life for many a poor person who struggled until the day they died.
 
 After Esther was born, they seem to have settled down for a while as their next five children were all born in 2 New Buildings, Booth Street, which was a continuation of Princes Street at the time, and was later joined with it, eventually becoming Princelet Street.
 
@@ -80,9 +81,9 @@ After Esther was born, they seem to have settled down for a while as their next 
 
 It seems they may have had two rooms rather than one, although I don't know if that was from when they first moved in or some time afterwards.
 
-Their second child was a boy named Hyman who was born on 13th June 1883 (8th Sivan 5643). He became a Cabinet Maker.  Next came Louis on 28th january 1886 (22nd Sh'vat 5646) who began working as a Porter and later became a Fruit Merchant.  I believe he had a shop in Forest Gate and my Mum use to visit them quite regularly.  Their fourth child, and last son was Alexander, and he was born on 6th December 1887 (20th Kislev 5648).  He was a Commercial Traveller who was killed in France during World War I, and is commemorated at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/).
+Their second child was a boy named Hyman who was born on 13th June 1883 (8th Sivan 5643). He became a Cabinet Maker.  Next came Louis on 28th january 1886 (22nd Sh'vat 5646) who began working as a Porter and later became a Fruit Merchant.  Their fourth child, and last son was Alexander, and he was born on 6th December 1887 (20th Kislev 5648).  He was a Commercial Traveller who was killed in France during World War I, and is commemorated at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/).
 
-I've been looking into the possibility that Louis and Alexander may have ended up in prison for stealing along with a man called Henry Solomons.  If this checks out then it could be another branch of the family as well.
+I've been looking into the possibility that Louis and Alexander may have ended up in prison for stealing along with a man called Henry Solomons.  If this checks out then Henry could be a cousin of the family.
 
 Their second daughter, Kitty, was born on 24th December 1889 (1st Tevet 5650).  I have nothing which tells me what occupation Kitty took up.  She moved to Canada to live near Esther and was married there in 1926.  My Mum knew Kitty and told me she disturbed some burglars and was murdered in 1945.  The truth is there were no burglars, but she was murdered almost exactly 17 years to the day after her sister Esther.  It was in the same street and under similar circumstances.
 
@@ -90,15 +91,17 @@ Their second daughter, Kitty, was born on 24th December 1889 (1st Tevet 5650).  
 
 The Census of 1891 shows their address as 31 & 32 Booth Street Buildings which is also listed as 2 rooms on the Census.  Hannah's name is written as Annie, Jacob is 36 years old and she is 29.  This suggests he was born in 1855.  Both Jacob and Annie are Tailor Machinists and they are employed by someone else.
 
-Despite what the Census says, this is the same address as the 2 Booth Street written on the birth certificates.  Their third daughter, Rachel, who became a Tailoress,  was born later that year on 25th December 1891 (24 Kislev 5652), and once again the address on her birth certificate is 2 Booth Street.  The difference in the addres name must be down to the official Census name and what it was commonly referred as.
+Despite what the Census says, this is the same address as the 2 Booth Street written on the birth certificates.  Their third daughter, Rachel, who became a Tailoress,  was born later that year on 25th December 1891 (24 Kislev 5652), and once again the address on her birth certificate is 2 Booth Street.  The difference in the address name must be down to the official Census name and what it was commonly referred as.
 
-Their last two children were born at different addresses.  Dinah was born on 23rd July 1894 (19th Tamuz 5654) when the family were living at 24 Heneage Street.  She became a Fur Coat Finisher & Liner.  Rebecca was born at 22 Thomas Street on 29th April 1897 (27th Nisan 5657), but I have not been able to find out what her occupation might have been.  
+Their last two children were born at different addresses.  Dinah was born on 23rd July 1894 (19th Tamuz 5654) when the family were living at 24 Heneage Street.  She became a Fur Coat Finisher & Liner.  Rebecca was born at 22 Thomas Street on 29th April 1897 (27th Nisan 5657), and she was a Fur Liner according to her marriage certificate.  
 
 ## Early years education
 
 The [1870 Education Act](https://www.parliament.uk/about/living-heritage/transformingsociety/livinglearning/school/overview/1870educationact/) set about the task of providing education on a national scale, but did not make it compulsory.  In 1880 another education act made school compulsory for children aged between 5 and 10.  This was extended to 11 in 1893, and 12 in 1899.
 
 Poorer families needed their children to work, and even with compulsory education, the rate of truancy was high as families struggled to survive without their children working too.  Many of those who did attend school would go to work outside of school hours.
+
+Due to the laws on compulsory education, it is entirely possible for Esther to have finished school at 10, Hyman and Louis at 11 and the rest of the children at 12.
 
 Hyman, Alex, Kitty and Rachel were all registerd at Chicksand Street School by Jacob.  I have not found any records for Esther or Louis, but it is likely they were also registered at the same school.
 
@@ -112,7 +115,7 @@ Even with both Jacob and Hannah working as Tailor Machinists and the older child
 
 By the time Rebecca was born in 1897, Jacob had been taken ill with Consumption, which was described as a form of Tuberculosis in the [January 1897 edition of the american Popular Science Monthly](https://en.wikisource.org/wiki/Popular_Science_Monthly/Volume_50/January_1897/Consumption_and_Consumptives).  It is a contagious disease but this was not understood until around the time he contracted it.  The disease particularly affected poor people who lived in the cramped conditions of places like the East End of London.  Nowadays, we can get a vacination to protect us from Tuberculosis, but it wasn't until 1921 when trials of it (BCG) had begun.  It took another 7 years before the League of Nations approved BCG as a vaccination against Tuberculosis.
 
-Many people suffered from Consumption, and Jacob was one of them.  Hardly a month after Rebecca was born, Jacob succombed to the disease and died on 5th June 1897 (5th Sivan 5657).  The cause of death was entered as "Consumption of the lungs (Tuberculosis) (2 years)".  This means he had been carrying the disease for 2 years, and was probably working as much as he could during that time.
+Many people suffered from Consumption, and Jacob was one of them.  Just 14 months after Rebecca was born, Jacob succombed to the disease and died on 5th June 1898 (15th Sivan 5658).  The cause of death was entered as "Consumption of the lungs (Tuberculosis) (2 years)".  This means he had been carrying the disease for 2 years, and was probably working as much as he could during that time.
 
 {% include image.html url="/images/1898/DTH-18980603-Dolomons_Jacob.png" dimensions="width='100%'" caption="Death Certificate of Jacob Solomons (1855-5 June 1898" %}
 
@@ -120,7 +123,7 @@ Jacob is buried in [Plashet Jewish Cemetery](https://www.theus.org.uk/article/pl
 
 Now Hannah had to bring the family up as best she could.  The ages of Esther, Hyman and Louis meant they didn't have to go to school and could work instead.  It is quite possible for Esther to have left school by 1893, Hyman by 1895, and Louis would leave school in the year Jacob died.  The three children would not have been able to make as much money as the experienced Tailor Machinist that Jacob was, but it would have been better than nothing.
 
-Rebecca was a baby and Dinah was under school age so life was not going to be easy balancing work and child care.  I expect the older children would have shared the burden or bringing the family up.
+Rebecca was 14 Months old and Dinah was under school age so life was not going to be easy balancing work and child care.  I expect the older children would have shared the burden of bringing the family up.
 
 Hannah took Dinah to be registered at the new [Smith Street School](https://www.stepneypark.towerhamlets.sch.uk/page/?title=Our+History+%2F+Amalgamation&pid=9) (Stepney Park Primary since July 2020) on 11th June 1900.  The family had moved to 21 Block A, Stepney Buildings, which was off Stepney Green close to the East London Synagogue.
 
@@ -132,13 +135,15 @@ Louis is the only member of the family not listed on this census.  I have looked
 
 Both Esther and Hannah are working as Tailoress', whilst the only other worker is Hyman who has become a Cabinet Maker.  They occupy two rooms in the house, but they are not the only occupants of the house.  There is one room where Minnie Oclauick and her Traveller son Simon live, and the other room houses George and Mary Day.  George is listed as an employer and a Tailor, which lends itself to the possibility of Hannah and Esther working for him.
 
-The family's next known address is 22 Fullbourne Street and can be found on my Grandmother's birth certificate.  Esther had gone to New York in September 1906 and returned pregnant in 1907.  My Grandmother, Eva Lichtenstin, became Hannah's first grndchild on 7th June 1907 (25th Sivan 5667).  
+It is also worth noting the ages of some of the children is not correct.
+
+The family's next known address is 22 Fullbourne Street and can be found on my Grandmother's birth certificate.  Esther had gone to New York in September 1906 and returned pregnant in 1907.  My Grandmother, Eva Lichtenstin, became Hannah's first grandchild on 7th June 1907 (25th Sivan 5667).  
 
 {% include image.html url="/images/1907/BTH-19070607-Eva_lichtenstein.png" dimensions="width='100%'" caption="Birth Certificate for Eva Lichtenstein" %}
 
 There was a club which occupied 2-6 Fullbourne Street, and it served as the registration place for delegates to the [5th Congress of the Russian Social Democratic Labour Party](https://en.wikipedia.org/wiki/5th_Congress_of_the_Russian_Social_Democratic_Labour_Party) which took place in London between 10th May 1907 and 1st June 1907.  There was a preliminary session to the conference held at the club on 9th of May 1907.  I sometimes wonder if my heavily pregnant Great Grandmother walked past that club and saw the likes of Lenin, Trotsky, Rosa Luxembourg or Stalin on that day or at any time during the conference.
 
-## 1 Regal Place, Old Montague Road
+## 1 Regal Place, Old Montague Street
 
 When Louis got married at the East London Synagogue to Annie Levy in 1910, the residence, for both of them, was 1 Regal Place.  This is an address my Mum told me about as she lived there with her parents and Hannah when she was very young.  It is fair to assume Hannah had moved to 1 Regal Place sometime after Eva was born in 1907 and before Louis and Annie's wedding in September 1910.
 
@@ -150,7 +155,7 @@ I suspect Hannah and the family moved into 1 Regal Place soon after this tragic 
 
 The 1911 census was the first where the head of the household completed the form.  The house had four rooms and seven people living in it.  Hannah, at 49, was the head of the household.  She stated she had been married for 30 years, which places her marriage in the right timeframe for the marriage certificate of 1880 presented earlier.  She is a Tailoress who works from home.  Hannah claims she was born in London, which we know isn't true, but might be convenient.
 
-Rachel, Dinah and Rebecca are her only children currently living at home.  Rachel is also a Tailoress like her Mum, and Dinah is a Furrier.  Both of them work away from home.  Rebecca is 14 years old and still at school
+Rachel, Dinah and Rebecca are her only children currently living at home.  Rachel is also a Tailoress like her Mum, and Dinah is a Furrier.  Both of them work away from home.  Rebecca is 14 years old and still at school, when I do not believe it was compulsory by law.  If so, it implies Hannah considered education important, and maybe some of the other children were in education longer than the law required.
 
 My Grandmother, Eva Lichtenstein, also lives with Hannah.  She is 4 years old and goes to school.
 
@@ -164,24 +169,14 @@ The last person declared on the Census is a boarder called George Oumen, who is 
 
 ## Leaving home
 
-Esther was the first of Hannah's children to give her a grand child, but she probably wasn't married at the time.  If that is the case, then Alexander was the first to get married in 1907.  He'd already left home and was trying to make his way in the world.
+Esther was the first of Hannah's children to give her a grandchild, but she probably wasn't married at the time.  If that is the case, then Alexander was the first to get married in 1907.  He'd already left home and was trying to make his way in the world.
 
 Three of Hannah's children along with their spouses were living at 1 Regal Place when they married.  They were Louis and Annie Levy in 1910, Dinah and Isaac Abrahams in 1914, and Hyman and Rose Simons in 1918.  Rachael was living at 1 Regal Place when she married Mark Goldstein in 1918, so was Rebecca when she married Abraham Fagan in 1921.  
 
-Esther and Kitty were married in Vancouver, Canada in 1919 and 1926 respectively so were not living at 1 Regal Place.
+Esther and Kitty were married in Vancouver, Canada in 1919 and 1926 respectively so were not living at 1 Regal Place at the time of their marriages.
 
-## World War I loss
+## ...to be completed
 
-All three of Hannah's boys fought in World War I, but one of them did not return.  Alexander fought with the 10th Batallion of The Royal Dublin Fusiliers and lost his life on 28th April 1917.  The records show his medal was returned by Hannah.  
+This blog post is not finished to the point where I want it to be, but I have published it and am working on completing it.  I am finding it quite difficult completing a blog post due to the research required.  I keep starting them, but not publishing as they are not "finished".  Frustrated by the situation, I find myself, I have decided to publish unfinished blogs when there is enough of a story, and return to finish them later.
 
-
-* 1914 Dinah and Isaac Abrahams marriage
-* 1917 Isaac signing up to WWI
-* 
-
-
-My Mum frequently told me the story of the evening of 4th January 1937 ().  She is alone in 1 Regal Place with Hannah, who is sitting in her armchair with my Mother sitting beside her.  Mum is holding Hannah's hand and stroking it.  Mum would pick my hand up at this point, and show me how she was holding Hannah's hand with one of her own, and stroking the back of it with the other hand.  With a tear in her eye, she would say I was doing this, and talking to my Great Grandmother, telling her how much I loved her.  She looked beautiful and that's how she passed out of this world.  My Mum was 8 years old at the time, and turned nine a little more than a month later.
-
-I have known about 1 Regal Place from a very young age.  I would have loved to have visited it, but it was bombed during World War II and evntually replaced by new houses in a new street called Regal Close.
-
-Hannah (Levinson) Solomons (1862 - 1937) is the person I would most like to have met.
+I hope this is useful.
