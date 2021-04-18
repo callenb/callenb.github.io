@@ -19,6 +19,13 @@ layout: default
           </div>
           <span class="article__date"><time
             datetime="{{ page.date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.date | date: date_format }}</time></span>
+            {% if page.status %}
+            <span class="article__date"><time>{{page.status}}</time>
+              {% if page.status_date %}
+              <span class="article__date"><time
+                datetime="{{ page.status_date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.status_date | date: date_format }}</time></span>
+              {% endif %}  
+            {% endif %}
         </div>
       </div>
     </div>
