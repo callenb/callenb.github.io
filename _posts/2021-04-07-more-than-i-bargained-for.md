@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "More Than I Bargained For"
+author: callenb
 date: 2021-04-07T22:41:36+00:00
 description: "I found more than I bargained for soon after starting my Family Tree.  This site had 6 posts, 4 of which were not good enough so I deleted them and wrote this to half-explain why."
 image: "/images/simple_tree-Jacob_Solomons-Hannah_Leveinson.png"

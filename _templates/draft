@@ -3,4 +3,5 @@ layout: {{ layout }}
 title: "{{ title }}"
 
 description: "{{ title }}"
+author: callenb
 ---

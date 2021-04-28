@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Jacob and Hannah Solomons"
+author: callenb
 date: 2021-04-18T21:11:00+01:00
 published: true
 status: Unfinished 
@@ -16,7 +17,7 @@ As yet I have seen nothing to tell me where Jacob was born beyond "Russia", whic
 
 I had originally thought Hannah came from somewhere called [Pershay](https://www.jewishgen.org/belarus/lists/Economic/PERSHSUM.html) near Minsk in Belarus, but that changed near the end of 2020.  I had started transferring all my genealogy files and information into [Gramps](https://gramps-project.org/blog/).  I was reading each document to record every piece of information on them, and that's how I came to reject Pershay in favour of [Veisiejai](https://kehilalinks.jewishgen.org/vishey/vishey1.html) in Lithuania.
 
-The image at the top of this post is of Hannah's birthplace on the 1901 UK Census.  I'd seen it written as Pershaye in other people's family trees and had just copied what they had written.  When I looked at the Census with fresh eyes and an open mind, I could see the first letter is clearly a "V" and not a "P".  The 1901 Census is the last one to be filled in by Census agents and not the head of the household as it has been since 1911.  This means it is important to listen to the sound of unfamiliar places, as much if not more, than how they are spelt.  It also means there are plenty of examples of the writer's handwriting to help decipher how they write their letters.
+The image at the top of this post is of Hannah's birthplace on the 1901 UK Census.  I'd seen it written as Pershaye in other people's family trees and had just copied what they had written.  When I looked at the Census with fresh eyes and an open mind, I could see the first letter is clearly a "V" and not a "P".  The 1901 Census is the last one to be filled in by Census agents and not the head of the household as it has been since 1911.  This means it is important to listen to the sound of unfamiliar places, as much if not more, than how they are spelled.  It also means there are plenty of examples of the writer's handwriting to help decipher how they write their letters.
 
 In this case just 8 lines further down there was an entry for "Villias" and 9 lines above is an entry for Poland.  Even looking at the entry in the image above, and without other references, it is so obviously a "V".  The Census person would have written what they heard Hannah say, and "Veshay" is how the Yiddish name for Veisiejai is pronounced, though i have usually seem it transliterated as "Vishay".  For this reason, I am now working on the theory that Hannah, at least, was born in Veisiejai in Lithuania during 1862.
 
@@ -81,7 +82,7 @@ After Esther was born, they seem to have settled down for a while as their next 
 
 It seems they may have had two rooms rather than one, although I don't know if that was from when they first moved in or some time afterwards.
 
-Their second child was a boy named Hyman who was born on 13th June 1883 (8th Sivan 5643). He became a Cabinet Maker.  Next came Louis on 28th january 1886 (22nd Sh'vat 5646) who began working as a Porter and later became a Fruit Merchant.  Their fourth child, and last son was Alexander, and he was born on 6th December 1887 (20th Kislev 5648).  He was a Commercial Traveller who was killed in France during World War I, and is commemorated at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/).
+Their second child was a boy named Hyman who was born on 13th June 1883 (8th Sivan 5643). He became a Cabinet Maker.  Next came Louis on 28th January 1886 (22nd Sh'vat 5646) who began working as a Porter and later became a Fruit Merchant.  His names was spelled Lewsi on his Birth Certificate but all other documents have it as Louis, and one of his Grandsons told me.  Their fourth child, and last son was Alexander, and he was born on 6th December 1887 (20th Kislev 5648).  He was a Commercial Traveller who was killed in France during World War I, and is commemorated at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/).
 
 I've been looking into the possibility that Louis and Alexander may have ended up in prison for stealing along with a man called Henry Solomons.  If this checks out then Henry could be a cousin of the family.
 

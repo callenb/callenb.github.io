@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Where's Grandma"
+author: callenb
 description: Before my Mum died in 2004, she often talked to me about her Mother, Eva Lichtenstein, who she had lost contact with, and wanted to know what happened to her. I began looking for my Grandma and so far I have discovered some extraordinary family history.
 date: 2019-07-31T22:46:40+01:00
 image: '/images/1928/FH-Photo-Eva-Lichtenstein.jpg'
