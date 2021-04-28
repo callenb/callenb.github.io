@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "More Than I Bargained For"
-author: callenb
 date: 2021-04-07T22:41:36+00:00
 description: "I found more than I bargained for soon after starting my Family Tree.  This site had 6 posts, 4 of which were not good enough so I deleted them and wrote this to half-explain why."
 image: "/images/simple_tree-Jacob_Solomons-Hannah_Leveinson.png"
+image-caption:
+author: callenb
+locale: en_GB
 ---
 Before today there were 6 posts on this blog about my Jewish family history, which has turned out to be more than I bargained for.  They were all written between 31-Jul-2019 and 1-Dec-2019.  Now there are three including this one.  I had been reading them over and over again and decided all but ["Where's Grandma"](/2019/07/31/wheres-grandma.html) and ["Armistice Day"](/2019/11/11/armistice-day.html) needed to be removed to reduce the amount of aimless rambling on the site.
 

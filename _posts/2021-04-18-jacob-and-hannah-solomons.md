@@ -1,13 +1,13 @@
 ---
 layout: post
 title: "Jacob and Hannah Solomons"
-author: callenb
 date: 2021-04-18T21:11:00+01:00
-published: true
-status: Unfinished 
 description: "Jacob Solomons an Hannah (Levinson) Solomons are my Great Great Grandparents who my Mum told me came to London from either Russia or Poland during the Pograms.  I now believe it was Veisiejai in Lithuania."
 image: '/images/things/russia_vishaye.png'
 image-caption: 'Birthplace of Hannah Solomons in 1901 census lokks like Russia Veshaye'
+author: callenb
+locale: en_GB
+status: Work In Progress
 ---
 Jacob and Hannah Solomons are my Great Great Grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hope I am close to finding out, and one day I hope to come to know beyond any reasonable doubt.
 
