@@ -4,4 +4,10 @@ title: "{{ title }}"
 
 description: "{{ title }}"
 author: callenb
+image:
+image-caption: "{{ title}}"
+author: callenb
+locale: en_GB
+status: Work In Progress
+published: true
 ---

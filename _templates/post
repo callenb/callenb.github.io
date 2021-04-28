@@ -3,5 +3,10 @@ layout: {{ layout }}
 title: "{{ title }}"
 date: {{ date }}
 description: "{{ title }}"
+image:
+image-caption: "{{ title}}"
 author: callenb
+locale: en_GB
+status: Work In Progress
+published: true
 ---

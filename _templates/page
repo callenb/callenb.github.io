@@ -2,4 +2,7 @@
 layout: {{ layout }}
 title: "{{ title }}"
 author: callenb
+description: "{{ title }}"
+author: callenb
+locale: en_GB
 ---
