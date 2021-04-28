@@ -6,6 +6,8 @@ email: barrie@callenb.org
 description: A blog mostly about my Jewish family history starting from my Great Great Grandparents Jacob Solomons and Hannah Levinson. #>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://callenb.org" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/barrie_callender_400x400.jpg
+
 #------------------------------
 # Author Settings
 author:
@@ -17,7 +19,16 @@ author:
 twitter:
   username: callenb
   card: summary
-  
+
+social:
+  name: Barrie Callender
+  links:
+    - https://twitter.com/callenb
+    - https://www.facebook.com/barrie.callender
+    - https://www.linkedin.com/in/barriecallender
+    - https://github.com/callenb
+    - https://github.com/usingprimavera
+
 #------------------------------
 # Contact Links
 
