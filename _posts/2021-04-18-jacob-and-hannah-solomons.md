@@ -176,8 +176,8 @@ Three of Hannah's children along with their spouses were living at 1 Regal Place
 
 Esther and Kitty were married in Vancouver, Canada in 1919 and 1926 respectively so were not living at 1 Regal Place at the time of their marriages.
 
-## ...to be completed
+## Work In Progress
 
-This blog post is not finished to the point where I want it to be, but I have published it and am working on completing it.  I am finding it quite difficult completing a blog post due to the research required.  I keep starting them, but not publishing as they are not "finished".  Frustrated by the situation, I find myself, I have decided to publish unfinished blogs when there is enough of a story, and return to finish them later.
+This blog post is not finished to the point where I want it to be, but I have published it as it is, and am working on completing it.  
 
-I hope this is useful.
+I intend doing this for other lines of research, I write up in these posts. 
