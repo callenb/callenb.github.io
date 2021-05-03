@@ -29,6 +29,7 @@ group :jekyll_plugins do
   gem "octopress-image-tag"
   gem "jekyll-paginate"
   gem "jekyll-tagging"
+  gem 'jekyll-last-modified-at', '~> 1.3'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem

@@ -58,13 +58,13 @@ google-analytics: UA-26390665-1 # Add your identifier. For example UA-99631805-1
 # Build settings
 markdown: kramdown
 plugins:
-  - jekyll-sitemap
   - jekyll-feed
   - jekyll-seo-tag
   - octopress-image-tag
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll/tagging
+  - jekyll-last-modified-at
 
 paginate: 9
 paginate_path: "/page/:num"
