@@ -4,7 +4,7 @@ title: "More Than I Bargained For"
 date: 2021-04-07T22:41:36+00:00
 description: My Jewish family history is part crime thriller, and posts so far were not good enough.  I deleted them and now I can tell you about the murders
 image: "/images/simple_tree-Jacob_Solomons-Hannah_Leveinson.png"
-image-caption:
+image-caption: Family of Jacob and Hannah Solomons
 author: callenb
 locale: en_GB
 ---

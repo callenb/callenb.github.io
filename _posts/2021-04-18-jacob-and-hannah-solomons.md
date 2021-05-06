@@ -4,7 +4,7 @@ title: "Jacob and Hannah Solomons"
 date: 2021-04-18T21:11:00+01:00
 description: Jacob and Hannah Solomons are Jewish immigrants, and my Great Great Grandparents.  My Mum held Hannah’s hand and I held my Mum’s.  We are connected
 image: '/images/things/russia_vishaye.png'
-image-caption: 'Birthplace of Hannah Solomons in 1901 census lokks like Russia Veshaye'
+image-caption: 1901 Census entry for Hannah Solomons' birthplace
 author: callenb
 locale: en_GB
 status: Work In Progress
