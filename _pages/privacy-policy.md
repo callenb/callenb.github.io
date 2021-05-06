@@ -7,7 +7,7 @@ permalink: /privacy-policy/
 
 ##  Privacy Policy
 
-This is a Personal Blog so if you require any more information or have any questions about my privacy policy, please feel free to contact me by email at barrie@callenb.org.  Please be patient as I am on my own and this is a side project.
+This is a Personal Blog so if you require any more information or have any questions about my privacy policy, please feel free to [contact me](&#109;a&#105;l&#116;&#111;:&#98;&#97;&#114;&#114;&#105;&#101;&#64;&#99;&#97;&#108;&#108;&#101;&#110;&#98;&#46;&#111;&#114;&#103;).  Please be patient as I am on my own and this is a side project.
 
 The privacy of my visitors is very important to me. This privacy policy document outlines the types of personal information received and collected by callenb.org and how it is used.
 
@@ -26,7 +26,7 @@ When you subscribe to my site you are giving me permission to email you new post
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
 #### Log Files
-callenb.github.io is hosted on Github Pages and we have no access to any logs they may have.  Please see their [Privacy Policy](https://help.github.com/en/articles/github-privacy-statement) or contact them for further information.
+callenb.github.io is hosted on Github Pages and we have no access to any logs they may have.  Please see the [GitHub Privacy Statement](https://help.github.com/en/articles/github-privacy-statement) or contact them for further information.
 
 #### Embedded content from other websites
 Articles on this site may include embedded content (e.g. videos, images, articles, etc.). Embedded content from other websites behaves in the exact same way as if the visitor has visited the other website.
@@ -34,16 +34,16 @@ Articles on this site may include embedded content (e.g. videos, images, article
 These websites may collect data about you, use cookies, embed additional third-party tracking, and monitor your interaction with that embedded content, including tracking your interaction with the embedded content if you have an account and are logged in to that website.
 
 #### Analytics
-I collect visitors’ data through Google Analytics for the purpose of analyzing and improving my site performance and traffic. My retention policy is 26 months. You’ll find their [Privacy Policy here](https://policies.google.com/privacy).
+I collect visitors’ data through Google Analytics for the purpose of analyzing and improving my site performance and traffic. My retention policy is 26 months. You can find the [Google Privacy Policy here](https://policies.google.com/privacy).
 
 ### Who we share your data with
-Google Analytics — Non personally identifiable visitor statistics. [Privacy Policy](https://policies.google.com/privacy).
-Youtube — Embedded Videos, may track your usage when you play a video. [Privacy Policy](https://policies.google.com/privacy?hl=en).
-MailChimp — My mailing list/newsletter provider for sending emails, Newsletters or any other direct communication you have subscribed to. [Privacy Policy](https://mailchimp.com/legal/privacy/).
+* Google Analytics — Non personally identifiable visitor statistics. [Google Privacy Policy](https://policies.google.com/privacy).
+* Youtube — Embedded Videos, may track your usage when you play a video. [YouTube Privacy Policy](https://policies.google.com/privacy?hl=en).
+* MailChimp — My mailing list/newsletter provider for sending emails, Newsletters or any other direct communication you have subscribed to. [Mailchimp Privacy Policy](https://mailchimp.com/legal/privacy/).
 
 ### How long we retain your data?
 
-The only personal data I store is collected when you submit a subscription form.  This is stored securely on the Mailchimp site.  I will never delete or change your data unless you ask me to do so using email to barrie@usingprimavera.com and are not able to do so yourself.  You have the right to remove and/or update at any time so there is no real need to ask.  All my communications include an Unsubscribe link.
+The only personal data I store is collected when you submit a subscription form.  This is stored securely on the Mailchimp site.  I will never delete or change your data unless you ask me to do so using email to [contact me](&#109;a&#105;l&#116;&#111;:&#98;&#97;&#114;&#114;&#105;&#101;&#64;&#99;&#97;&#108;&#108;&#101;&#110;&#98;&#46;&#111;&#114;&#103;) and are not able to do so yourself.  You have the right to remove and/or update at any time so there is no real need to ask.  All my communications include an Unsubscribe link.
 
 I will never sell or share the data used to subscribe to anything on this site.
 
