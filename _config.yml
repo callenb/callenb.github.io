@@ -45,10 +45,10 @@ disqus-identifier: callenb
 
 #-------------------------------
 # Newsletter
-mailchimp: true # To enable the mailchimp form, use the value true. To turn off use the value false.
-mailchimp-identifier: 'https://callenb.us14.list-manage.com/subscribe/post?u=3e3c7cffd80f372858ef86183&amp;id=365df2f234' # Add your MailChimp form identifier.
-mailchimp-title: 'Get Occasional Updates'
-mailchimp-description: 'Subscribe to our newsletter to hear what''s swimming around in my head.'
+tinyletter: true # To enable the TinyLetter form, use the value true. To turn off use the value false.
+tinyletter-identifier: 'https://tinyletter.com/callenb' # Add your TinyLetter subscribe form.
+tinyletter-title: 'Get Occasional Updates'
+tinyletter-description: 'Subscribe to our newsletter to hear what''s swimming around in my head.'
 
 #-------------------------------
 # Google Analytics

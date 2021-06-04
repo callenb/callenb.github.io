@@ -18,7 +18,7 @@ It is a static website created using [Jekyll](https://jekyllrb.com) and [Octopre
 ### What personal data do I collect and why do I collect it?
 
 #### Subscription Forms
-I use Mailchimp for all my subscription forms as well as processing any emails I send out.  Mailchimp act as my Data Processor and securely store all the data I collect through them.. You’ll find their [Privacy Policy here](https://mailchimp.com/legal/privacy/)
+I use TinyLetter for all my subscription forms as well as processing any emails I send out.  TinyLetter act as my Data Processor and securely store all the data I collect through them.. You’ll find their [Privacy Policy here](https://mailchimp.com/legal/privacy/)
 
 When you subscribe to my site you are giving me permission to email you new posts and other messages that might contain affiliate links or be commercial in nature.
 
@@ -39,17 +39,17 @@ I collect visitors’ data through Google Analytics for the purpose of analyzing
 ### Who we share your data with
 * Google Analytics — Non personally identifiable visitor statistics. [Google Privacy Policy](https://policies.google.com/privacy).
 * Youtube — Embedded Videos, may track your usage when you play a video. [YouTube Privacy Policy](https://policies.google.com/privacy?hl=en).
-* MailChimp — My mailing list/newsletter provider for sending emails, Newsletters or any other direct communication you have subscribed to. [Mailchimp Privacy Policy](https://mailchimp.com/legal/privacy/).
+* TinyLetter — My mailing list/newsletter provider for sending emails, Newsletters or any other direct communication you have subscribed to. [TinyLetter Privacy Policy](https://mailchimp.com/legal/privacy/) which is owned by Mailchimp.
 
 ### How long we retain your data?
 
-The only personal data I store is collected when you submit a subscription form.  This is stored securely on the Mailchimp site.  I will never delete or change your data unless you ask me to do so using email to [contact me](&#109;a&#105;l&#116;&#111;:&#98;&#97;&#114;&#114;&#105;&#101;&#64;&#99;&#97;&#108;&#108;&#101;&#110;&#98;&#46;&#111;&#114;&#103;) and are not able to do so yourself.  You have the right to remove and/or update at any time so there is no real need to ask.  All my communications include an Unsubscribe link.
+The only personal data I store is collected when you submit a subscription form.  This is stored securely on the TinyLetter site.  I will never delete or change your data unless you ask me to do so using email to [contact me](&#109;a&#105;l&#116;&#111;:&#98;&#97;&#114;&#114;&#105;&#101;&#64;&#99;&#97;&#108;&#108;&#101;&#110;&#98;&#46;&#111;&#114;&#103;) and are not able to do so yourself.  You have the right to remove and/or update at any time so there is no real need to ask.  All my communications include an Unsubscribe link.
 
 I will never sell or share the data used to subscribe to anything on this site.
 
 ### Additional information
 #### What data breach procedures do I have in place?
-In case of a breach of data, I’ll inform my subscribers on the site and via the mailing list within 72 hours and proceed to an as fast as possible technical resolution.
+In case of a breach of data, I’ll inform my subscribers on the site and via the mailing list within 72 hours of me finding out, and proceed to an as fast as possible technical resolution.
 
 #### Updates
-I may update this privacy policy from time to time in order to reflect changes to my practices or for other operational, legal or regulatory reasons.
+I may update this privacy policy from time to time in order to reflect changes to my practices or for other operational, legal or regulatory reasons.  An example of this was when I decided to use TinyLetter instead of Mailchimp.
