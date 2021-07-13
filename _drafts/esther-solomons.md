@@ -11,7 +11,7 @@ status: Work In Progress
 published: true
 ---
 ## Plan
-This post is about my Great Grandmother Esther Solomons who left England for New York in September 1906, returned to give birth to my Grandmother in June 1907 and set off to New York awithout her in September 1907.  She lived her whole life abroad, firstly in New York and then moved to Prince Rupert in 1913.  She was murdered in April 1928.
+This post is about my Great Grandmother Esther Solomons who left England for New York in September 1906, returned to give birth to my Grandmother in June 1907 and set off to New York without her in September 1907.  She lived her whole life abroad, firstly in New York and then moved to Prince Rupert in 1913.  She was murdered in April 1928.
 
 * First child of Jacob and Hannah Solomons born 25 Sep 1881 in Little Patternoster Row - one of the worst streets in london according to Booth
 * Family living in Crispen Street at the time and speculation as to why she was born in Little Patternoster Row - see 1881 census.
