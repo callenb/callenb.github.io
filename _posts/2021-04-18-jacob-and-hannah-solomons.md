@@ -11,6 +11,8 @@ status: Work In Progress
 ---
 Jacob and Hannah Solomons are my Great Great Grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hope I am close to finding out, and one day I hope to come to know beyond any reasonable doubt.
 
+This post is about what I know today.  Hopefully it won't be too long before I can add more information.
+
 ## Where and when do I think they were born?
 
 As yet I have seen nothing to tell me where Jacob was born beyond "Russia, Poland", which could equate to many countries in existence today.  The evidence points to him being born between 1855 and 1858.
@@ -19,7 +21,7 @@ I had originally thought Hannah came from somewhere called [Pershay](https://www
 
 The image at the top of this post is of Hannah's birthplace on the 1901 UK Census.  I'd seen it written as Pershaye in other people's family trees and had just copied what they had written.  When I looked at the Census with fresh eyes and an open mind, I could see the first letter is clearly a "V" and not a "P".  The 1901 Census is the last one to be filled in by Census agents and not the head of the household as it has been since 1911.  This means it is important to listen to the sound of unfamiliar places, as much if not more, than how they are spelled.  It also means there are plenty of examples of the writer's handwriting to help decipher how they write their letters.
 
-In this case just 8 lines further down there was an entry for "Villias" and 9 lines above is an entry for Poland.  Even looking at the entry in the image above, and without other references, it is so obviously a "V".  The Census person would have written what they heard Hannah say, and "Veshay" is how the Yiddish name for Veisiejai is pronounced, though i have usually seem it transliterated as "Vishay".  For this reason, I am now working on the theory that Hannah, at least, was born in Veisiejai in Lithuania during 1862.
+In this case just 8 lines further down there is an entry for "Villias" and 9 lines above is an entry for Poland.  Even looking at the entry in the image above, and without other references, it is so obviously a "V".  The Census person would have written what they heard Hannah say, and "Veshay" is how the Yiddish name for Veisiejai is pronounced, though I have usually seem it transliterated as "Vishay".  For this reason, I am now working on the theory that Hannah, at least, was born in Veisiejai in Lithuania during 1862.
 
 {% include image.html url="/images/places/lithuania/Veisiejai_synagogue.jpg" dimensions="width='100%'" caption="The wooden synagogue in Veisiejai, Lithuania, where I believe Hannah Solomons may have come from" %}
 
@@ -66,7 +68,7 @@ If the marriage certificate is my Great Great Grandparents, then it took place a
 
 {% include image.html url="/images/1881/BTH-18810925-Solomons_Esther.png" dimensions="width='100%'" caption="Birth Certificate of Esther Solomons (25-Sep-1881 to 17-Apr-1928)" %}
 
-Their first child was my Great Grandmother, Esther Solomons.  She became a Dressmaker, went to New York in 1906, gave birth to my Grandmother in 1907, and returned to New York without her.  Esther returned to England many times and stayed with Hannah, but never took my Grandmother back abroad with her.  My Mum didn't know Esther because she was murdered in Prince Rupert, Canada when my Mum was about two months old.  She knew Esther had died, but didn't know the gruesome circumstances.
+Their first child was my Great Grandmother, Esther Solomons.  She became a Dressmaker, went to New York in 1906, returned to London where she gave birth to my Grandmother in 1907, and then went back to New York without her.  Esther returned to England many times and stayed with Hannah, but never took my Grandmother back abroad with her.  My Mum didn't know Esther because she was murdered in Prince Rupert, Canada when my Mum was about two months old.  She knew Esther had died, but didn't know the gruesome circumstances.
 
 Despite what her birth certificate says, I am certain Esther was born in 12 Little Patternoster Row, and not "Patternoster Row", which is behind St Pauls Cathedral in London.  Jacob is a Tailor and Hannah's maiden name is recorded as Levinson, as it is on all the birth certificates of their children.  There are Levinson's known to have been living in Vishay at the start of World War II, which is another, albeit tenuous, link between Hannah and Vishay.
 
@@ -85,15 +87,15 @@ After Esther was born, they seem to have settled down for a while as their next 
 
 It seems they may have had two rooms rather than one, although I don't know if that was from when they first moved in or some time afterwards.
 
-Their second child was a boy named Hyman who was born on 13th June 1883 (8th Sivan 5643). He became a Cabinet Maker.  Next came Louis on 28th January 1886 (22nd Sh'vat 5646) who began working as a Porter and later became a Fruit Merchant.  His names was spelled Lewsi on his Birth Certificate but all other documents have it as Louis, and one of his Grandsons told me.  Their fourth child, and last son was Alexander, and he was born on 6th December 1887 (20th Kislev 5648).  He was a Commercial Traveller who was killed in France during World War I, and is commemorated at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/).
+Their second child was a boy named Hyman who was born on 13th June 1883 (8th Sivan 5643). He became a Cabinet Maker.  Next came Louis on 28th January 1886 (22nd Sh'vat 5646) who began working as a Porter and later became a Fruit Merchant.  His name was spelled Lewis on his Birth Certificate, but all other documents have it as Louis.  I also heard this from one of his Grandsons.  Their fourth child, and last son was Alexander, and he was born on 6th December 1887 (20th Kislev 5648).  He was a Commercial Traveller who was killed in France during World War I, and is commemorated at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/).
 
-I've been looking into the possibility that Louis and Alexander may have ended up in prison for stealing along with a man called Henry Solomons.  If this checks out then Henry could be a cousin of the family.
+I've been looking into the possibility that Louis and Alexander may have ended up in prison for stealing along with a man called Henry Solomons.  If this checks out then Henry could be a cousin of the family, though it is unlikely as all three may have been brothers.
 
 Their second daughter, Kitty, was born on 24th December 1889 (1st Tevet 5650).  I have nothing which tells me what occupation Kitty took up.  She moved to Canada to live near Esther and was married there in 1926.  My Mum knew Kitty and told me she disturbed some burglars and was murdered in 1945.  The truth is there were no burglars, but she was murdered almost exactly 17 years to the day after her sister Esther.  It was in the same street and under similar circumstances.
 
 {% include image.html url="/images/1891/CENSUS-1891-Solomons_Jacob-31_32_Booth_Street.png" dimensions="width='100%'" caption="Census of 1891 at 31 & 32 Booth Street Buildings" %}
 
-The Census of 1891 shows their address as 31 & 32 Booth Street Buildings which is also listed as 2 rooms on the Census.  Hannah's name is written as Annie, Jacob is 36 years old and she is 29.  This suggests he was born in 1855.  Both Jacob and Annie are Tailor Machinists and they are employed by someone else.
+The Census of 1891 shows Jacob and Hannah's address as 31 & 32 Booth Street Buildings which is also listed as 2 rooms on the Census.  Hannah's name is written as Annie, Jacob is 36 years old and she is 29.  This suggests he was born in 1855.  Both Jacob and Annie are Tailor Machinists and they are employed by someone else.
 
 Despite what the Census says, this is the same address as the 2 Booth Street written on the birth certificates.  Their third daughter, Rachel, who became a Tailoress,  was born later that year on 25th December 1891 (24 Kislev 5652), and once again the address on her birth certificate is 2 Booth Street.  The difference in the address name must be down to the official Census name and what it was commonly referred as.
 
@@ -149,7 +151,7 @@ There was a club which occupied 2-6 Fullbourne Street, and it served as the regi
 
 ## 1 Regal Place, Old Montague Street
 
-When Louis married Annie Levy at the East London Synagogue in 1910, the residence, they were both living at 1 Regal Place.  This is an address my Mum told me about as she also lived there with her parents and Hannah when she was very young.  Hannah had moved to 1 Regal Place sometime after Eva was born in 1907, and before Louis and Annie's wedding in September 1910.
+When Louis married Annie Levy at the East London Synagogue in 1910, they were both living at 1 Regal Place.  This is an address my Mum told me about as she also lived there with her parents and Hannah when she was very young.  Hannah must have moved to 1 Regal Place sometime after Eva was born in 1907, and before Louis and Annie's wedding in September 1910.
 
 {% include image.html url="/images/1909/NEWS-19090206-Tower_Hamlets_Independent_and_East_End_Local_Advertiser-Page_5.png" dimensions="width='100%'" caption="Midnight Fatality at Whitechapel" %}
 
@@ -211,7 +213,7 @@ I am looking forward to getting hold of the 1921 Census, just to see who was act
 
 ## Bist du frum?
 
-As the As already mentioned, Hannah's eldest daughter had left home by 1907 and Alexander was killed in 1917.  Louis had left soon after his marriage to Annie in 1909, and by the 1911 Census, was living at 130 Burton Street with their first daughter, Marie.  By 1920, Hyman, Rose and their daughter were living at 11 Casterton Street, Hackney. 
+As already mentioned, Hannah's eldest daughter had left home by 1907 and Alexander was killed in 1917.  Louis had left soon after his marriage to Annie in 1909, and by the 1911 Census, was living at 130 Burton Street with their first daughter, Marie.  By 1920, Hyman, Rose and their daughter were living at 11 Casterton Street, Hackney. 
 
 Kitty had probably left home before 1911, but I have not found her anywhere in the 1911 Census.  I do know she travelled to Canada to visit Esther in 1923, 1924 and 1925 before marrying Anton Moen there in 1926.  She lived the rest of her life in Canada with fairly frequent visits back to England.
 
@@ -223,7 +225,7 @@ Hannah was 66 in 1928, and this was the second of her children to be taken away 
 
 Hannah had looked after Eva, when she was four, and now she is looking after my Mum as she begins her fourth year.  There were many times my Mum told me how much she loved Hannah.  She told me many anecdotes, and i wished I'd taken more notice of them.  Hannah would take my Mum to Victoria Park and when she did this on a Saturday, she would go up to young Jewish boys and ask them "Bist du frum?".  If they answered "no", Hannah would get them to take my Mum out on the lake in a boat.
 
-My Mum knew all of Hannah's remaining children, and she also  knew most of their children too, many of whom were about the same age as my Mum, even though they were the same generation as my Grandmother.  She would talk of visits to Abe and Rebecca, Ike and Dinah as well as Rachel.  She always said Hyman lived in Leman Street, though he actually lived in Newnham Street, which was near by.
+My Mum knew all of Hannah's remaining children, and she also  knew most of their children too, many of whom were about the same age as my Mum, even though they were the from the generation before her.  She would talk of visits to Abe and Rebecca, Ike and Dinah as well as Rachel.  She always said Hyman lived in Leman Street, though he actually lived in Newnham Street, which was near by.
 
 ## Vashafski the thief
 
