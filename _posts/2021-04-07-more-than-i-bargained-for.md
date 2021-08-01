@@ -8,7 +8,7 @@ image-caption: Family of Jacob and Hannah Solomons
 author: callenb
 locale: en_GB
 ---
-Before today there were 6 posts on this blog about my Jewish family history, which has turned out to be more than I bargained for.  They were all written between 31-Jul-2019 and 1-Dec-2019.  Now there are three including this one.  I had been reading them over and over again and decided all but ["Where's Grandma"](/2019/07/31/wheres-grandma.html) and ["Armistice Day"](/2019/11/11/armistice-day.html) needed to be removed to reduce the amount of aimless rambling on the site.
+Before today there were 6 posts on this blog about my Jewish family history, which has turned out to be more than I bargained for.  They were all written between 31-Jul-2019 and 1-Dec-2019.  Now there are three including this one.  I had been reading them over and over again and decided all but ["Where's Grandma"](/2019/07/31/wheres-grandma.html) and ["Armistice Day"](/2019/11/11/armistice-day.html) needed to be removed to reduce the amount of aimless rambling on the site.  Ialso shortened the last of these two posts as well for exactly the same reason.
 
 I'm uncovering information fairly regulary, even through the Covid-19 pandemic, and I just feel a lot of what I had posted was incomplete snippets of one unfinished story.  Although it isn't possible to tell truly complete family history stories, I should at the very least tell everything I know.  I should also wait until I know enough to tell a story.
 
