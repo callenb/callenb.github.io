@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Armistice Day"
+title: "Armistice day"
 date: 2019-11-11T20:54:00+01:00
 description: On Armistice Day I remember my 2nd great uncle Alexander Solomons who lost his life on the battlefields of Flanders on 28th April 1917 (6 Iyyar 5677)
 image: '/images/places/france/Arras-Memorial-©-Andrew-Bailey-2014_600x900.jpg'

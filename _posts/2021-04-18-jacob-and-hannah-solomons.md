@@ -2,14 +2,14 @@
 layout: post
 title: "Jacob and Hannah Solomons"
 date: 2021-04-18T21:11:00+01:00
-description: Jacob and Hannah Solomons are Jewish immigrants, and my Great Great Grandparents.  My Mum held Hannah’s hand and I held my Mum’s.  We are connected
+description: Jacob and Hannah Solomons are Jewish immigrants, and my great-great-grandparents.  My Mum held Hannah’s hand and I held my Mum’s.  We are connected
 image: '/images/things/russia_vishaye.png'
 image-caption: 1901 Census entry for Hannah Solomons' birthplace
 author: callenb
 locale: en_GB
 status: Work In Progress
 ---
-Jacob and Hannah Solomons are my Great Great Grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hope I am close to finding out, and one day I hope to come to know beyond any reasonable doubt.
+Jacob and Hannah Solomons are my great-great-grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hope I am close to finding out, and one day I hope to come to know beyond any reasonable doubt.
 
 This post is about what I know today.  Hopefully it won't be too long before I can add more information.
 
@@ -28,13 +28,13 @@ In this case just 8 lines further down there is an entry for "Villias" and 9 lin
 
 ## Lithuania and the arrival of the Jews
 
-Veisiejai is in present day Lithuania and about 195 km due west of Pershai.  The two places are almost on the same parallel.  There is a map in [The Seven Kingdoms of the Litvaks](https://www.dovidkatz.net/dovid/Lithuania/7_KingdomsLitvaks.pdf) by [Dovid Katz](https://www.dovidkatz.net/) that shows the dialect and cultural borders of Lithuania and it includes both Veisiejai and Pershai.  My Great Grandfather through my Mum's male line came from Bialystok in present day Poland.  This is also part of cultural Lithuania.  The national borders and names of places change over time, so it is useful to find out where a place was at the time your ancestors lived there.  I was also interested to know how long Jews had lived in Lithuania, and Vishay in particular.
+Veisiejai is in present day Lithuania and about 195 km due west of Pershai.  The two places are almost on the same parallel.  There is a map in [The Seven Kingdoms of the Litvaks](https://www.dovidkatz.net/dovid/Lithuania/7_KingdomsLitvaks.pdf) by [Dovid Katz](https://www.dovidkatz.net/) that shows the dialect and cultural borders of Lithuania and it includes both Veisiejai and Pershai.  My great-grandfather through my Mum's male line came from Bialystok in present day Poland.  This is also part of cultural Lithuania.  The national borders and names of places change over time, so it is useful to find out where a place was at the time your ancestors lived there.  I was also interested to know how long Jews had lived in Lithuania, and Vishay in particular.
 
-The [Crusades](https://en.wikipedia.org/wiki/Crusades) taking place in medieval europe between 1097 and 1271 and other persecutions drove the Ashkenazic Jews towards the east.  The tolerant, multiculturist kings of Poland and Lithuania provided an environment where the Ashkenazic Jews were able to come back together.  [Boleslav the Pious](https://en.wikipedia.org/wiki/Boles%C5%82aw_the_Pious) granted the [Statute of Kalisz](https://en.wikipedia.org/wiki/Statute_of_Kalisz) which became the best known Polish charter of privileges for Jewish subjects in 1264.  This was extended to all of Poland by [Casimir the Great](https://en.wikipedia.org/wiki/Casimir_III_the_Great) in 1334.
+The [Crusades](https://en.wikipedia.org/wiki/Crusades) taking place in medieval Europe between 1097 and 1271 and other persecutions drove the Ashkenazic Jews towards the east.  The tolerant, multiculturalist kings of Poland and Lithuania provided an environment where the Ashkenazic Jews were able to come back together.  [Boleslav the Pious](https://en.wikipedia.org/wiki/Boles%C5%82aw_the_Pious) granted the [Statute of Kalisz](https://en.wikipedia.org/wiki/Statute_of_Kalisz) which became the best known Polish charter of privileges for Jewish subjects in 1264.  This was extended to all of Poland by [Casimir the Great](https://en.wikipedia.org/wiki/Casimir_III_the_Great) in 1334.
 
 There is a tradition about a charter being issued in Lithuania by Grand Duke Gediminas that is likely to be folklore relating to the years he founded Vilna (Vilnius) in the early 1320s.  Vytautas issued Jewish charters for Brisk (Brest) and Troki (Trakai) in 1388, for which the texts are still preserved today.  These closely followed the Polish model, but a year later, in 1389, he issued a charter for the Jews of Grodna (Hrodna, Belarus) which broke bold new ground.  Dovid Katz describes it as:
 
-> a remarkable document of East European tolerance in the age of western intolerance, and a stunning testament to the achievement of Lithuanianness in the "Grand Duchy sense" of a confederation of peoples, cultures and religeons (not to be confused with the much later ethnocentric sense that rose in the spirit of modern nationalism)
+> a remarkable document of East European tolerance in the age of western intolerance, and a stunning testament to the achievement of Lithuanianness in the "Grand Duchy sense" of a confederation of peoples, cultures and religions (not to be confused with the much later ethnocentric sense that rose in the spirit of modern nationalism)
 
 The Polish-Lithuanian Commonwealth was formed in 1569, reaching it's Golden Age in the early 17th century. By the middle of that century it was declining and most of Lithuania was occupied by Swedish or Russian armies. Eventually the Commonwealth was partitioned by the Russian Empire, Prussia and the Habsburg Monarchy in 1772, 1792 and 1795.  The largest area of Lithuania became part of the Russian Empire and the rest ended up in Prussia.
 
@@ -62,13 +62,13 @@ The participants in this marriage certificate were living at 6 Sandy's Row, whic
 
 The 1881 Census includes a Jacob and Hannah Solomons living at 8 Little Patternoster Row, and their ages match this marriage certificate.  This is interesting because Jacob and Hannah's first child was born on {% hebcal 25 September 1881 %} in 12 Little Patternoster Row, whilst their own address was at 13 Crispen Street, which ran behind Little Patternoster Row.  I suspect Hannah gave birth in the home of someone she knew from when living at number 8, or they moved soon after the birth which was registered about 30 days later.
 
-If the marriage certificate is my Great Great Grandparents, then it took place almost exactly 9 months before their first child was born.  Several factors lead to this being a reasonable candidate for their marriage certificate.  The maiden name and age of the bride is correct; the name and occupation of the groom is also correct;  there is enough time before the birth of their first child; and no other Jacob and Hannah (or Annie) has been found (so far) in later records.
+If the marriage certificate is my great-great-grandparents, then it took place almost exactly 9 months before their first child was born.  Several factors lead to this being a reasonable candidate for their marriage certificate.  The maiden name and age of the bride is correct; the name and occupation of the groom is also correct;  there is enough time before the birth of their first child; and no other Jacob and Hannah (or Annie) has been found (so far) in later records.
 
 ## Making a family in London
 
 {% include image.html url="/images/1881/BTH-18810925-Solomons_Esther.png" dimensions="width='100%'" caption="Birth Certificate of Esther Solomons (25-Sep-1881 to 17-Apr-1928)" %}
 
-Their first child was my Great Grandmother, Esther Solomons.  She became a Dressmaker, went to New York in 1906, returned to London where she gave birth to my Grandmother in 1907, and then went back to New York without her.  Esther returned to England many times and stayed with Hannah, but never took my Grandmother back abroad with her.  My Mum didn't know Esther because she was murdered in Prince Rupert, Canada when my Mum was about two months old.  She knew Esther had died, but didn't know the gruesome circumstances.
+Their first child was my great-grandmother, Esther Solomons.  She became a Dressmaker, went to New York in 1906, returned to London where she gave birth to my grandmother in 1907, and then went back to New York without her.  Esther returned to England many times and stayed with Hannah, but never took my grandmother back abroad with her.  My Mum didn't know Esther because she was murdered in Prince Rupert, Canada when my Mum was about two months old.  She knew Esther had died, but didn't know the gruesome circumstances.
 
 Despite what her birth certificate says, I am certain Esther was born in 12 Little Patternoster Row, and not "Patternoster Row", which is behind St Pauls Cathedral in London.  Jacob is a Tailor and Hannah's maiden name is recorded as Levinson, as it is on all the birth certificates of their children.  There are Levinson's known to have been living in Vishay at the start of World War II, which is another, albeit tenuous, link between Hannah and Vishay.
 
@@ -87,7 +87,7 @@ After Esther was born, they seem to have settled down for a while as their next 
 
 It seems they may have had two rooms rather than one, although I don't know if that was from when they first moved in or some time afterwards.
 
-Their second child was a boy named Hyman who was born on {% hebcal 13 June 1883 %}. He became a Cabinet Maker.  Next came Louis on {% hebcal 28 January 1886 %} who began working as a Porter and later became a Fruit Merchant.  His names was entered as "Lewis" on his Birth Certificate but all other documents have it as "Louis".  One of his Grandsons told me it was always "Louis".  Their fourth child, and last son was Alexander, and he was born on {% hebcal 6 December 1887 %}.  He was a Commercial Traveller who was killed in France during World War I, and is commemorated at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/).
+Their second child was a boy named Hyman who was born on {% hebcal 13 June 1883 %}. He became a Cabinet Maker.  Next came Louis on {% hebcal 28 January 1886 %} who began working as a Porter and later became a Fruit Merchant.  His names was entered as "Lewis" on his Birth Certificate but all other documents have it as "Louis".  One of his grandsons told me it was always "Louis".  Their fourth child, and last son was Alexander, and he was born on {% hebcal 6 December 1887 %}.  He was a Commercial Traveller who was killed in France during World War I, and is commemorated at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/).
 
 I've been looking into the possibility that Louis and Alexander may have ended up in prison for stealing along with a man called Henry Solomons.  If this checks out then Henry could be a cousin of the family, though it is unlikely as all three may have been brothers.
 
@@ -143,11 +143,11 @@ Both Esther and Hannah are working as Tailoress', whilst the only other worker i
 
 It is also worth noting the ages of some of the children is not correct.
 
-The family's next known address is 22 Fullbourne Street and can be found on my Grandmother's birth certificate.  Esther had gone to New York in September 1906 and returned pregnant in 1907.  My Grandmother, Eva Lichtenstein, became Hannah's first grandchild on {% hebcal 7 June 1907 %}.  
+The family's next known address is 22 Fullbourne Street and can be found on my grandmother's birth certificate.  Esther had gone to New York in September 1906 and returned pregnant in 1907.  My grandmother, Eva Lichtenstein, became Hannah's first grandchild when she was born on {% hebcal 7 June 1907 %}.  
 
 {% include image.html url="/images/1907/BTH-19070607-Eva_lichtenstein.png" dimensions="width='100%'" caption="Birth Certificate for Eva Lichtenstein" %}
 
-There was a club which occupied 2-6 Fullbourne Street, and it served as the registration place for delegates to the [5th Congress of the Russian Social Democratic Labour Party](https://en.wikipedia.org/wiki/5th_Congress_of_the_Russian_Social_Democratic_Labour_Party) which took place in London between 10th May 1907 and 1st June 1907.  There was a preliminary session to the conference held at the club on 9th of May 1907.  I sometimes wonder if my heavily pregnant Great Grandmother walked past that club and saw the likes of Lenin, Trotsky, Rosa Luxembourg or Stalin on that day or at any time during the conference.
+There was a club which occupied 2-6 Fullbourne Street, and it served as the registration place for delegates to the [5th Congress of the Russian Social Democratic Labour Party](https://en.wikipedia.org/wiki/5th_Congress_of_the_Russian_Social_Democratic_Labour_Party) which took place in London between 10th May 1907 and 1st June 1907.  There was a preliminary session to the conference held at the club on 9th of May 1907.  I sometimes wonder if my heavily pregnant great-grandmother walked past that club and saw the likes of Lenin, Trotsky, Rosa Luxembourg or Stalin on that day or at any time during the conference.
 
 ## 1 Regal Place, Old Montague Street
 
@@ -155,7 +155,7 @@ When Louis married Annie Levy at the East London Synagogue in 1910, they were bo
 
 {% include image.html url="/images/1909/NEWS-19090206-Tower_Hamlets_Independent_and_East_End_Local_Advertiser-Page_5.png" dimensions="width='100%'" caption="Midnight Fatality at Whitechapel" %}
 
-There is an article on page 5 of the East London Advertiser dated 6th February 1909 with the title of "MIDNIGHT FATALITY AT WHITECHAPEL".  It is about the death of a woman in 1 Regal Place called Fanny Savolocki in September 1908.  She appears to have not been able to sleep as she was worrying about a daughter who had left for South Africa, but hadn't been heard of since.  Her Granddaughter woke up in the night to find her Grandmother had fallen from the window into the yard below.  She was admitted into hospital but died on the Wednesday after her fall.  The fall took place on 27th September 1908.
+There is an article on page 5 of the East London Advertiser dated 6th February 1909 with the title of "MIDNIGHT FATALITY AT WHITECHAPEL".  It is about the death of a woman in 1 Regal Place called Fanny Savolocki in September 1908.  She appears to have not been able to sleep as she was worrying about a daughter who had left for South Africa, but hadn't been heard of since.  Her granddaughter woke up in the night to find her grandmother had fallen from the window into the yard below.  She was admitted into hospital but died on the Wednesday after her fall.  The fall took place on 27th September 1908.
 
 I suspect Hannah and the family moved into 1 Regal Place soon after this tragic incident and may have been in 1 Regal Place as early as October 1908.
 
@@ -163,15 +163,15 @@ The 1911 census was the first where the head of the household completed the form
 
 Rachel, Dinah and Rebecca are the children remaining at the family home with Hannah.  Rachel is also a Tailoress like her Mum, and Dinah is a Furrier.  Both of them work away from home.  Rebecca is 14 years old and still at school, when I do not believe it was compulsory by law.  If so, it suggests Hannah considered education important, and maybe some of the other children were in education longer than the law required.
 
-There is more than just her children living with her.  The 4 year old Granddaughter is my Grandmother, Eva Lichtenstein, who is at school.  Then there is a 22 year old married woman described as her Daughter-in-Law.  Her surname is clearly Solomons, but the first letter of her first name is difficult to read, but looks like the name may be one of "Cissie", "Bessie" or even "Lissie".  She has been married for four years, and so it can only be Alexander's wife whose full maiden name is Elizabeth Annie Smith.  She was a Boot Machinist when she was married 4 years before, and now she is being described as a Dressmaker.
+There is more than just her children living with her.  The 4 year old granddaughter is my grandmother, Eva Lichtenstein, who is at school.  Then there is a 22 year old married woman described as her Daughter-in-Law.  Her surname is clearly Solomons, but the first letter of her first name is difficult to read, but looks like the name may be one of "Cissie", "Bessie" or even "Lissie".  She has been married for four years, and so it can only be Alexander's wife whose full maiden name is Elizabeth Annie Smith.  She was a Boot Machinist when she was married 4 years before, and now she is being described as a Dressmaker.
 
-The reason I think it is Alexander's wife is because Hyman is not married at this time, and Louis is on another Census return with his wife.  So where is Alexander?  It is possible he is an inmate of Wormwood Scrubs prison as there is a married man with his name and age listed in their 1911 Census return.  There is also an Alexander Solomons of the same age who was sentenced to imprisonment a few months before the Census took place.  If, as I hope, Alexander is not in Workwood Scrubs, he could be at work, somewhere else and not indexed so I can find him.
+The reason I think it is Alexander's wife is because Hyman is not married at this time, and Louis is on another Census return with his wife.  So where is Alexander?  It is possible he is an inmate of Wormwood Scrubs prison as there is a married man with his name and age listed in their 1911 Census return.  There is also an Alexander Solomons of the same age who was sentenced to imprisonment a few months before the Census took place.  If, as I hope, Alexander is not in Wormwood Scrubs, he could be at work, somewhere else and not indexed so I can find him.
 
 The last person declared on the Census is a boarder called George Oumen, who is a 26 year old Waiter from Russia Poland.  The presence of George demonstrates Hannah allowed boarders in her home, and she may have needed the extra income.
 
 {% include image.html url="/images/1911/CENSUS_SUM_1911_Hannah_Solomons_1_Regal_Place.png" dimensions="width='100%'" caption="1911 Census for Hannah Solomons and family at 1 Regal Place" %}
 
-1 Regal Place is where Hannah lived for the rest of her life, and as her children grew up and left home, they would return to visit her.  My Great Grandmother, Esther, lists 1 Regal Place as the place she stayed at whenever she visited England from Canada.
+1 Regal Place is where Hannah lived for the rest of her life, and as her children grew up and left home, they would return to visit her.  My great-grandmother, Esther, lists 1 Regal Place as the place she stayed at whenever she visited England from Canada.
 
 The presence of Alexander's spouse living at 1 Regal Place on the 1911 Census suggests he was also living there along with his sisters Rachel, Dinah and Rebecca.  
 
@@ -199,7 +199,7 @@ Later that year, in the middle of the pandemic, Rachel married Mark Goldstein at
 
 {% include image.html url="/images/places/london/1948-East-London-Synagogue-wedding.jpg" dimensions="width='100%'" caption="A photo of a 1948 wedding taking place in the East London Synagogue" %}
 
-By the end of 1918 those known to be living at 1 Regal Place included Hannah's youngest daughter, Rebecca, my 11 year old Grandmother, Eva Lichtenstein, as well as Hyman and Rose.  Rachel and Mark could have been living there since their recent marriage.
+By the end of 1918 those known to be living at 1 Regal Place included Hannah's youngest daughter, Rebecca, my 11 year old grandmother, Eva Lichtenstein, as well as Hyman and Rose.  Rachel and Mark could have been living there since their recent marriage.
 
 Dinah, Isaac Abrahams and their two children had moved out to 11 Fredericks Place, where they stayed for a number of years.
 
@@ -219,7 +219,7 @@ Kitty had probably left home before 1911, but I have not found her anywhere in t
 
 As the 1920s came on, so Hannah's children left her home to begin their own cycle of raising a family.  Esther came over to London for the marriage of her daughter to Marks Shamirofsky on {% hebcal 10 June 1926 %} and two years later my Mother, Jacqueline Schemirofsky was born on {% hebcal 7 February 1928 %} at 3 Clarksons Street, Bethnal Green.  Esther had visited London during the previous three years, but she never saw her one and only grandchild.  On %{ hebcal 17 April 1928 %}, she was brutally murdered in her home in Comox Avenue, Prince Rupert, Canada.  My Mum never knew she was murdered.
 
-{% include image.html url="/images/people/19280417-prince_rupert_daily_news-esthers_murder.png" dimensions="width='100%'" caption="The murder of my Great Grandmother, Esther Solomons, as reported in the Prince Rupert Daily news of 18 April 1928." %}
+{% include image.html url="/images/people/19280417-prince_rupert_daily_news-esthers_murder.png" dimensions="width='100%'" caption="The murder of my great-grandmother, Esther Solomons, as reported in the Prince Rupert Daily news of 18 April 1928." %}
 
 Hannah was 66 in 1928, and this was the second of her children to be taken away from her.  Esther left everything she had to Eva, who received Can$13,348.05, and in 1930 Eva, Mark and their daughter moved into 1 Regal Place, whilst Eva seems to have bought a dairy in 56 Vallance Road, which she later turned into a Milliners.  By 1931, Eva and Mark had separated, and my Mother was living with Hannah in 1 Regal Place.
 
