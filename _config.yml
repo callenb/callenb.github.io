@@ -65,6 +65,7 @@ plugins:
   - jekyll-sitemap
   - jekyll/tagging
   - jekyll-last-modified-at
+  - jekyll-hebcal
 
 paginate: 9
 paginate_path: "/page/:num"
