@@ -1,5 +1,5 @@
 PATH
-  remote: ../hebcal
+  remote: ../jekyll-hebcal
   specs:
     jekyll-hebcal (0.0.1)
       jekyll
