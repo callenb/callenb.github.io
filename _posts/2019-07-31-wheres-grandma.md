@@ -19,7 +19,7 @@ I entered secondary school fairly soon after I found out my Mum was Jewish.  I w
 
 I can't imagine how that felt for her.
 
-Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but Hannah Solomons, and her Mum, Eva Lichtenstein, were the two she mentioned the most, closely followed by the Long Acre Aunt.
+Now her secret was out, I was full of questions and she was full of stories and a few vague answers.  She provided quite a few short anecdotes about people and places, but Hannah Solomons, and her Mum, Eva Lichtenstein, were the two she mentioned the most, closely followed by the Long Acre aunt and the aunt from Prince Rupert.
 
 Hannah was her great-grandmother who Mum lived with until she died in 1937, just before my Mum turned 9.  Hannah and her husband Jacob came to this country from somewhere in Eastern Europe.  My Mum wasn't sure where, but I believe I now know the name of the village in Lithuania.
 
@@ -27,13 +27,13 @@ Mum described herself as being pushed from pillar to post after Hannah died.  Sh
 
 Being asked to find my grandmother was what started me off in Family History research, but I never applied myself as much as I could have done.  Unfortunately my Mum died in 2004 and never knew what had become of her Mother.
 
-## So many Aunts, so few names?
+## So many aunts, so few names?
 
-Listening to my Mum talk about her life, you would be forgiven for thinking she had many Aunties.  The truth be told she had none.  Some were great-aunts, some other relations and I suspect some were people she respected.
+Listening to my Mum talk about her life, you would be forgiven for thinking she had many aunties.  The truth be told she had none.  Some were great-aunts, some other relations and I suspect some were people she respected.
 
-There was the Aunt she lived with in Long Acre who witnessed a murder.  Another Aunt lived in Colvestone Crescent in Dalston, often buying Lox and Cream Cheese Bagels from the Ridley Road bakery at the end of the street.  I mustn't forget the paranoid Aunt who lived south of the river, as well as the one in Lambeth.  For all I know, some of these people could have been the same person.
+There was the aunt she lived with in Long Acre who witnessed a murder.  Another aunt lived in Colvestone Crescent in Dalston, often buying Lox and Cream Cheese Bagels from the Ridley Road bakery at the end of the street.  I mustn't forget the paranoid aunt who lived south of the river, as well as the one in Lambeth.  For all I know, some of these people could have been the same person.
 
-There was also an Aunt Bessie from Prince Rupert in Canada, who visited a few times, but was murdered over there.  I've since found this was a big story in Prince Rupert.  Not least because of the murder of Aunt Bessie's sister almost exactly 17 years to the day before.  It turns out Aunt Bessie's sister was the first real murder in Prince Rupert.  It also turns out she was my great-grandmother.  I believe my Mum never knew.
+There was also an aunt Bessie from Prince Rupert in Canada, who visited a few times, but was murdered over there.  I've since found this was a big story in Prince Rupert.  Not least because of the murder of aunt Bessie's sister almost exactly 17 years to the day before.  It turns out aunt Bessie's sister was the first real murder in Prince Rupert.  It also turns out she was my great-grandmother.  I believe my Mum never knew.
 
 She also had friends and occasionally gave them a name, but most people she told me about had places and stories but not names. At least not ones I remember.
 
