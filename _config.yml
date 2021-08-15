@@ -52,7 +52,7 @@ tinyletter-description: 'Subscribe to our newsletter to hear what''s swimming ar
 
 #-------------------------------
 # Google Analytics
-google-analytics: UA-26390665-1 # Add your identifier. For example UA-99631805-1.
+# google-analytics: UA-26390665-1 # Add your identifier. For example UA-99631805-1.
 
 #-------------------------------
 # Build settings
