@@ -3,7 +3,7 @@
 title: Barrie Callender
 tagline: My Jewish family history and other tales
 email: barrie@callenb.org
-description: A blog mostly about my Jewish family history starting from my Great Great Grandparents Jacob Solomons and Hannah Levinson. #>- # this means to ignore newlines until "baseurl:"
+description: A blog mostly about my Jewish family history starting from my great great grandparents Jacob Solomons and Hannah Levinson. #>- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://callenb.org" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/barrie_callender_400x400.jpg
