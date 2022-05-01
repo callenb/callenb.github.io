@@ -9,7 +9,7 @@ author: callenb
 locale: en_GB
 status: Work In Progress
 ---
-Jacob and Hannah Solomons are my great-great-grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hope I am close to finding out, and one day I hope to come to know beyond any reasonable doubt.
+Jacob and Hannah Solomons are my great-great-grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hoped I was close to finding out when I first wrote this post and express a desire to know beyond any reasonable doubt.
 
 This post is about what I know today.  Hopefully it won't be too long before I can add more information.
 
@@ -21,10 +21,15 @@ I had originally thought Hannah came from somewhere called [Pershay](https://www
 
 The image at the top of this post is of Hannah's birthplace on the 1901 UK Census.  I'd seen it written as Pershaye in other people's family trees and had just copied what they had written.  When I looked at the Census with fresh eyes and an open mind, I could see the first letter is clearly a "V" and not a "P".  The 1901 Census is the last one to be filled in by Census agents and not the head of the household as it has been since 1911.  This means it is important to listen to the sound of unfamiliar places, as much if not more, than how they are spelled.  It also means there are plenty of examples of the writer's handwriting to help decipher how they write their letters.
 
-In this case just 8 lines further down there is an entry for "Villias" and 9 lines above is an entry for Poland.  Even looking at the entry in the image above, and without other references, it is so obviously a "V".  The Census person would have written what they heard Hannah say, and "Veshay" is how the Yiddish name for Veisiejai is pronounced, though I have usually seem it transliterated as "Vishay".  For this reason, I am now working on the theory that Hannah, at least, was born in Veisiejai in Lithuania during 1862.
+In this case just 8 lines further down there is an entry for "Villias" and 9 lines above is an entry for Poland.  Even looking at the entry in the image above, and without other references, it is so obviously a "V".  The Census person would have written what they heard Hannah say, and "Veshay" is how the Yiddish name for Veisiejai is pronounced, though I have usually seem it transliterated as "Vishay".  For this reason, before the 1921 Census was released, I was working on the theory that Hannah was born in Veisiejai in Lithuania during 1862.
+
+{% include image.html url="/images/1921/BLOG_19210619-CENSUS-1_regal_place_snippet.png" dimensions="width='100%'" caption="1921 Census for Hannah Solomons birthplace" %}
+
+The 1921 Census was released on 5th January 2022, and although Hannah had incorrectly entered "London" as her birthplace in 1911, this time round she had written "Bshay Russia".  This threw me for a few minutes until I discovered the pronunciation of the letter "B" in Russian is like the english "V".  Then I noticed JewishGen had the Russian spelling for Veisiejai as "Bshay".
+
+I now believe beyond any reasonable doubt that Hannah Levinson came from Veisiejai.
 
 {% include image.html url="/images/places/lithuania/Veisiejai_synagogue.jpg" dimensions="width='100%'" caption="The wooden synagogue in Veisiejai, Lithuania, where I believe Hannah Solomons may have come from" %}
-
 
 ## Lithuania and the arrival of the Jews
 
@@ -58,7 +63,7 @@ This marriage between Jacob Solomons and Annie Levison took place in The [Prince
 
 The bride is the right age for Hannah, but Annie isn't her name.  However Annie could have been the result of a British person not hearing Hannah properly, and according to Wikipedia, [Anne, Ann, and other forms of the name derive from the Hellenized Hebrew](https://en.wikipedia.org/wiki/Hannah_(name)).  Not a great leap from Hannah to Annie.
 
-The participants in this marriage certificate were living at 6 Sandy's Row, which doesn't make an appearance on the Census of 1881, suggesting the place had become empty.  The address happens to be opposite [Sandy's Row Synagogue](https://sandysrowsynagogue.org/), which is a Dutch Jewish synagogue, and not Ashkenazi Jewish as Jacob and Hannah were, hence being married farther away. I have been unable to trace any other Jacob and Annie Solomons, or even similar, with a marriage around this time.  The closest was a Jacob and Fanny Solomons, but they hadn't arrived in the UK until several years after this date.
+The participants in this marriage certificate were living at 6 Sandy's Row, which doesn't make an appearance on the Census of 1881, suggesting the place had become empty.  Given the current building numbers, the house would have been opposite [Sandy's Row Synagogue](https://sandysrowsynagogue.org/), which is a Dutch Jewish Ashkenazi synagogue.  Jacob and Hannah were probably married farther away in Princes Street, because it had stronger connections to Lithuania. I have been unable to trace any other Jacob and Annie Solomons, or even similar, with a marriage around this time.  The closest was a Jacob and Fanny Solomons, but they hadn't arrived in the UK until several years after this date.
 
 The 1881 Census includes a Jacob and Hannah Solomons living at 8 Little Patternoster Row, and their ages match this marriage certificate.  This is interesting because Jacob and Hannah's first child was born on {% hebcal 25 September 1881 %} in 12 Little Patternoster Row, whilst their own address was at 13 Crispen Street, which ran behind Little Patternoster Row.  I suspect Hannah gave birth in the home of someone she knew from when living at number 8, or they moved soon after the birth which was registered about 30 days later.
 
@@ -205,11 +210,15 @@ Dinah, Isaac Abrahams and their two children had moved out to 11 Fredericks Plac
 
 Esther had moved from New York to Prince Rupert, Canada, before the war started and then on {% hebcal 24 May 1919 %} she married a Greek Candy Maker named Harry Killas in St Paul's Church, Vancouver.  Her marriage certificate claims her religion was Church of England.  
 
-Rebecca married Abraham Fagan in the Stepney Orthodox Synagogue on {% hebcal 10 July 1921 %}.  This synagogue was founded in 1896 by members of the East London Synagogue who were opposed to the mixed choir formed there.  It is very likely that Esther was at Rebecca's wedding as she arrived in Liverpool from Canada on 4 July, 1921 and didn't leave until 29 September, 1921.  Hopefully, she spent plenty of time with her 14 year old daughter, who may have been starting work at that age.
+{% include image.html url="/images/1921/BLOG_19210619-CENSUS-1_Regal_Place.png" dimensions="width='100%'" caption="The 1921 Census for 1 regal Place" %}
+
+The 1921 Census was eventually taken on 19th June 1921.  It shows Hannah was living at 1 Regal Place with her youngest daughter, Rebecca, and her Granddaughter, Eva Lichtenstein. It says both Rebecca's father, Jacob Solomons, and Eva's father, Jack Lichtenstein have died by this time.  However I know, Jack Lichtenstein was very much alive and survived beyond WWII.  That is one for another day.
+
+According to the Census, Hannah is not currently employed and Eva is still at school.  Rebecca is working as a Furrier Liner for Mr B Shrier at 16a Bevis Marks in Duke Street.
+
+Less than a month after the Census was taken, Rebecca married Abraham Fagan in the Stepney Orthodox Synagogue on {% hebcal 10 July 1921 %}.  This synagogue was founded in 1896 by members of the East London Synagogue who were opposed to the mixed choir formed there.  It is very likely that Esther was at Rebecca's wedding as she arrived in Liverpool from Canada on 4 July, 1921 and didn't leave until 29 September, 1921.  Hopefully, she spent plenty of time with her 14 year old daughter, who may have been starting work at that age.
 
 At this point all of Hannah's children, apart from Kitty were married.  There isn't a great deal I know about Kitty until she travelled to Canada to visit Esther in June 1923.  My Mum knew Kitty as Aunt Bessie, but never knew she was one of Hannah's children.  Mum liked her a lot, and looked forward to her visits from Canada.  The records show Kitty stayed with her sister Dinah when visiting London.
-
-I am looking forward to getting hold of the 1921 Census, just to see who was actually living at 1 Regal Place in April 1921.
 
 ## Bist du frum?
 
