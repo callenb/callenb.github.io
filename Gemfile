@@ -30,7 +30,7 @@ group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-tagging"
   gem 'jekyll-last-modified-at', '~> 1.3'
-  gem "jekyll-hebcal", :path => '../jekyll-hebcal'
+  gem "jekyll-hebcal", git: 'https://github.com/callenb/jekyll-hebcal'
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
