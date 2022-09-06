@@ -10,6 +10,14 @@ locale: en_GB
 status: Work In Progress
 published: true
 ---
+
+Esther Solomons was one of my four great-grandmothers. My Mum told me Esther was married to a Hairdresser called Jack Lichtenstein, both of whom died before she was born.  In actual fact, the only thing that has turned out to be true was Jack being a Hairdresser.
+
+Esther's parents [Jacob and Hannah Solomons](/2021/04/18/jacob-and-hannah-solomons/) left the Pale of Settlement
+
+
+
+------------------------------------------------------------------------------
 Esther Solomons was born on {% hebcal 25 September 1881 %} at 12 Little Patternoster Row.  It was once known as French Alley and ran from Brushfield Street in the north to Dorset Street in the south. , and was part of a group of streets called "Name". The east side contained the C--- lodging houses owned by the notorious blah who lived in Dorset Street.  The other side was tennament buildings.  In 1889?, Charles boooth described it as "dhjdashdjhadkj" and Dorset Street as "gsadghjasgdhjhjas".  It was considered to be the worst sets of streets in London.
 
 
