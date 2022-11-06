@@ -13,7 +13,7 @@ published: true
 
 Esther Solomons was one of my four great-grandmothers. My Mum told me Esther was married to a Hairdresser called Jack Lichtenstein, both of whom died before she was born.  In actual fact, the only thing that has turned out to be true was Jack being a Hairdresser.
 
-Esther's parents [Jacob and Hannah Solomons](/2021/04/18/jacob-and-hannah-solomons/) left the Pale of Settlement
+Esther's parents [Jacob and Hannah Solomons](/2021/04/18/jacob-and-hannah-solomons/) most likely came to England from the Suwalki region of Poland no later than 1880.  Suwalki was not in the Pale of Settlement
 
 
 
@@ -49,11 +49,11 @@ This post is about my Great Grandmother Esther Solomons who left England for New
 
 ## Incidents in Whitechapel and the world
 
-* 3 April 1888 - "Whitechapel Murder" #1 of Emma Elizabeth Smith who was attacked and robbed at junction of Osborn Street and Brick Lane
-* 7 August 1888 - "Whitechapel Murder" #2 of Martha Tabram who was stabbed 39 times about her neck, torso and genitals.  She was found at George Yard Buildings, George Yard (Not sure where that is)
-* 31 August 1888 - "Whitechapel Murder" #3 of Mary Ann Nichols who was murdered in Buck's Row (renamed Durward Street).  Throat slit twice.
+* 3 April 1888 - "Whitechapel Murder" #1 of Emma Elizabeth Smith who was attacked and robbed at junction of Osborn Street and Brick Lane.  More precisely crossroads of Osborn St, Brick Ln, Wentowrth St and Old Montague St
+* 7 August 1888 - "Whitechapel Murder" #2 of Martha Tabram who was stabbed 39 times about her neck, torso and genitals.  She was found at George Yard Buildings, George Yard.  George yard is now Gunthorpe Street, which starts next to the White Hart Pub on Whitechapel Street and ends in Wentworth Street.
+* 31 August 1888 - "Whitechapel Murder" #3 of Mary Ann Nichols who was murdered in Buck's Row (renamed Durward Street).  Throat slit twice. Durward street hasn't always been where it is now. 
 * 8 September 1888 - "Whitechapel Murder" #4 of Annie Chapman ina doorway in the back yard of 29 Hanbury Street.
-* 30 September 1888 - "Whitechapel Murder" #5 & #6.  Elizabeth Stride was discovered at about 1 am in Duffield's Yard, inside the gateway of 40 Berner Street (since renamed as Henriques Street). Also Catherine Eddowes found on south-east corner of Mitre Square.  Both women lived in Flower & Dean Street.  A blood-stained aprobn was found in the doorway leading to 108 to 119 Goulston Street where in chalk was written something like "The Juwes are the men that will not be blamed for nothing".
+* 30 September 1888 - "Whitechapel Murder" #5 & #6.  Elizabeth Stride was discovered at about 1 am in Duffield's Yard, inside the gateway of 40 Berner Street (since renamed as Henriques Street). Also Catherine Eddowes found on south-east corner of Mitre Square.  Both women lived in Flower & Dean Street.  A blood-stained apron was found in the doorway leading to 108 to 119 Goulston Street where in chalk was written something like "The Juwes are the men that will not be blamed for nothing".
 * 9 November 1888 - "Whitechapel Murder" #7 of Mary Jane Kelly in the single room where she lived at 13 Miller's Court behind 26 Dorset Street.
 * 20 December 1888 - "Whitechapel Murder" #8 of Rose Mylett Clarke's Yard.  Lodged at 18 George Street as did #1 Emma Smith.
 * 17 July 1889 - "Whitechapel Murder" #9 of Alice McKenzie in Castle Alley.
