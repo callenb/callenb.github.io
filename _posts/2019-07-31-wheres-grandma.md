@@ -3,7 +3,7 @@ layout: post
 title: "Where's grandma?"
 date: 2019-07-31T22:46:40+01:00
 description: My Mum lost contact with my grandmother, Eva Lichtenstein, around 1950. Searching for her is how I fell head-first into my Jewish family history research
-category: war
+category: genealogy
 image: '/images/1928/FH-Photo-Eva-Lichtenstein.jpg'
 image-caption: "Eva Lichtenstein, my maternal grandmother"
 author: callenb
