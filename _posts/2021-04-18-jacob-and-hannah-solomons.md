@@ -3,6 +3,7 @@ layout: post
 title: "Jacob and Hannah Solomons"
 date: 2021-04-18T21:11:00+01:00
 description: Jacob and Hannah Solomons are Jewish immigrants, and my great-great-grandparents.  My Mum held Hannah’s hand and I held my Mum’s.  We are connected
+category: genealogy
 image: '/images/things/russia_vishaye.png'
 image-caption: 1901 Census entry for Hannah Solomons' birthplace
 author: callenb

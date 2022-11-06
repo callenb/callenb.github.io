@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Privacy Policy
+menu: true
+order: 102
 description: Privacy Policy aims to protect you so we can build a little trust.  Some of our links make use of affiliate marketting which means we get a small amount of money if you buy.
 permalink: /privacy-policy/
 ---

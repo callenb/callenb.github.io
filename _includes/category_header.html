@@ -1,0 +1,54 @@
+{% if page.category_name %}
+  {% assign display_this = true %}
+  {% assign category_name = {{page.category_name}} %}
+  {% if page.image -%}
+    {% assign category_image = {{page.image}} %}
+  {% endif -%}
+  {% if page.description -%}
+    {% assign category_description = {{page.description}} %}
+  {% endif -%}  
+{% elsif site.author %}
+  {% assign display_this = true %}
+  {% if site.author.image -%}
+    {% assign category_image = {{site.author.image}} %}
+  {% endif -%}
+  {% if site.author.name -%}
+    {% assign category_name = {{site.author.name}} %}
+  {% endif -%}
+  {% if site.author.description -%}
+    {% assign category_description = {{site.author.description}} %}
+  {% endif -%}
+{% else %}
+  {% assign display_this = false %}
+{% endif %}  
+
+{% if display_this == true %}
+<!-- begin author -->
+<div class="container">
+  <div class="row">
+    <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
+      <section class="author">
+        <div class="author-inner">
+          <div class="author-content">
+            {% if category_image -%}
+            <div class="author-avatar"></div>
+              <img src="{{site.baseurl}}{{category_image}}" alt="{{category_name}}'s Picture" class="author-avatar__img">
+            </div>
+            {% endif -%}
+            {% if category_name -%}
+            <h1 class="author__name">{{category_name}}</h1>
+            {% endif -%}
+            {% if category_description -%}
+            <p class="author__desc">{{category_description}}</p>
+            {% endif -%}
+            {% include contact-links.html -%}
+            <p>CATEGORY HEADER</p>
+          </div>
+        </div>
+        </div></div>
+      </section>
+    </div>
+  </div>
+</div>
+<!-- end author -->
+{% endif -%}
