@@ -22,7 +22,7 @@ GEM
     eventmachine (1.2.7)
     ffi (1.16.3)
     forwardable-extended (2.6.0)
-    google-protobuf (3.25.0)
+    google-protobuf (3.25.5)
     http-accept (1.7.0)
     http-cookie (1.0.5)
       domain_name (~> 0.5)
