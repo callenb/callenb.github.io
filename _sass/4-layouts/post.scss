@@ -1,9 +1,13 @@
+@use 'sass:color';
+@use '0-settings/variables' as var;
+@use '1-tools/grid' as grid;
+
 /* Post */
 .post-head {
   max-width: 600px;
   margin: 150px auto 30px;
   text-align: center;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin: 120px auto 20px;
   }
 }
@@ -21,16 +25,16 @@
     letter-spacing: 1px;
     border-radius: 3px;
     text-transform: uppercase;
-    background-color: $brand-color;
+    background-color: var.$brand-color;
     &:last-child {
       margin-right: 0;
     }
     &:hover {
-      color: $dark;
-      background-color: darken($brand-color, 10%);
+      color: var.$dark;
+      background-color: color.scale(var.$brand-color, $lightness: -10%);
     }
 
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: grid.$mobile) {
       height: 20px;
       line-height: 20px;
     }
@@ -41,7 +45,7 @@
   font-size: 37px;
   line-height: 47px;
   margin-bottom: 10px;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     font-size: 24px;
     line-height: 34px;
   }
@@ -66,19 +70,19 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $dark;
+    background-color: var.$dark;
   }
   &-link {
     font-size: 14px;
-    color: $dark;
+    color: var.$dark;
     &:hover {
-      color: $dark;
+      color: var.$dark;
     }
   }
 }
 
 .image-box {
-  background: $light-gray;
+  background: var.$light-gray;
 }
 
 .post-image {
@@ -87,7 +91,7 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: $light-gray;
+  background-color: var.$light-gray;
   width: 70%;
   margin-left: 15%;
   &:after {
@@ -141,11 +145,11 @@
     font-size: 16px;
     line-height: 1;
     border-radius: 3px;
-    color: $white;
-    background-color: $dark;
+    color: var.$white;
+    background-color: var.$dark;
     &:hover {
-      color: $dark;
-      background-color: $brand-color;
+      color: var.$dark;
+      background-color: var.$brand-color;
     }
   }
 }
@@ -170,7 +174,7 @@
     &:hover {
       .post__nav__title {
         a {
-          box-shadow: 0 -1px 0 0 $white inset, 0 -3px 0 0 $brand-color inset;
+          box-shadow: 0 -1px 0 0 var.$white inset, 0 -3px 0 0 var.$brand-color inset;
         }
       }
     }
@@ -217,7 +221,7 @@
     .post__nav {
       display: inline-block;
       font-size: 13px;
-      color: rgba($dark, .8);
+      color: rgba(var.$dark, .8);
     }
 
     .post__nav__prev {
@@ -244,7 +248,7 @@
     margin-left: auto;
   }
 
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     flex-wrap: wrap;
 
     .prev, .next {

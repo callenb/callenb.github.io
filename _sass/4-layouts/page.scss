@@ -1,9 +1,12 @@
+@use '0-settings/variables' as var;
+@use '1-tools/grid' as grid;
+
 /* Page */
 .page-head {
   max-width: 600px;
   margin: 150px auto 30px;
   text-align: center;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin: 120px auto 20px;
   }
 }
@@ -12,14 +15,14 @@
   font-size: 37px;
   line-height: 47px;
   margin-bottom: 10px;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     font-size: 24px;
     line-height: 34px;
   }
 }
 
 .image-box {
-  background: $light-gray;
+  background: var.$light-gray;
 }
 
 .page-image {
@@ -28,12 +31,12 @@
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-  background-color: $light-gray;
+  background-color: var.$light-gray;
   &:after {
     content: "";
     display: table;
     padding-top: 75%;
-    @media only screen and (max-width: $desktop) {
+    @media only screen and (max-width: grid.$desktop) {
       padding-top: 65%;
     }
   }

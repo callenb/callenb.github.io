@@ -1,7 +1,11 @@
+@use 'sass:color';
+@use '0-settings/variables' as var;
+@use '1-tools/grid' as grid;
+
 /* Footer Widgets */
 .footer-widgets {
   margin-top: 50px;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin-top: 30px;
   }
 }
@@ -13,7 +17,7 @@
 }
 
 .widget {
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     margin-bottom: 40px;
   }
 }
@@ -24,7 +28,7 @@
   margin-bottom: 30px;
   font-size: 24px;
   line-height: 1;
-  color: $dark;
+  color: var.$dark;
   &::before {
     content: "";
     top: 0;
@@ -33,7 +37,7 @@
     position: absolute;
     width: 50px;
     height: 1px;
-    background-color: $dark;
+    background-color: var.$dark;
   }
   &::after {
     content: "";
@@ -42,9 +46,9 @@
     top: 0;
     left: 0;
     position: absolute;
-    background: $light-gray;
+    background: var.$light-gray;
   }
-  @media only screen and (max-width: $desktop) {
+  @media only screen and (max-width: grid.$desktop) {
     font-size: 21px;
   }
 }
@@ -53,7 +57,7 @@
 .about__desc {
   font-size: 16px;
   line-height: 24px;
-  color: rgba($dark, .8);
+  color: rgba(var.$dark, .8);
 }
 
 //  Widget Tags
@@ -68,11 +72,12 @@
     padding: 0 15px;
     font-size: 12px;
     border-radius: 3px;
-    color: $white;
-    background-color: $dark;
+    color: var.$white;
+    background-color: var.$dark;
     &:hover {
-      color: $dark;
-      background-color: $brand-color;
+      color: var.$dark;
+      background-color: var.$brand-color;
+
     }
   }
 }
@@ -89,9 +94,9 @@
   &:hover {
     .recent-posts__title {
       a {
-        color: $dark;
+        color: var.$dark;
         opacity: 1;
-        box-shadow: 0 -1px 0 0 $white inset, 0 -3px 0 0 $brand-color inset;
+        box-shadow: 0 -1px 0 0 var.$white inset, 0 -3px 0 0 var.$brand-color inset;
       }
     }
   }
@@ -156,15 +161,15 @@
   line-height: 20px;
   text-align: center;
   border-radius: 50%;
-  color: $white;
-  background-color: $dark;
+  color: var.$white;
+  background-color: var.$dark;
   box-shadow: 0 2px 4px rgba(0,0,0,0.15);
   transition: all .3s;
 }
 
 // Widget Subscribe
 .widget-subscribe {
-  @media only screen and (max-width: $tablet) {
+  @media only screen and (max-width: grid.$tablet) {
     margin-bottom: 0;
   }
 }
@@ -174,8 +179,8 @@
   margin-bottom: 20px;
   font-size: 16px;
   line-height: 26px;
-  color: $dark;
-  @media only screen and (max-width: $tablet) {
+  color: var.$dark;
+  @media only screen and (max-width: grid.$tablet) {
     max-width: 100%;
   }
 }
@@ -192,16 +197,16 @@
     font-size: 13px;
     line-height: 50px;
     border-radius: 5px;
-    color: $dark;
-    background-color: $white;
-    border: 1px solid $dark;
+    color: var.$dark;
+    background-color: var.$white;
+    border: 1px solid var.$dark;
     outline: 0;
     -webkit-appearance: none;
     box-sizing: border-box;
     transition: border-color .2s ease-in-out;
     cursor: text;
     &:focus {
-      border-color: darken($brand-color, 25%);
+      border-color: color.scale(var.$brand-color, $lightness: -25%); /**darken(var.$brand-color, 25%);**/
     }
   }
 
@@ -215,7 +220,7 @@
 .footer {
   position: relative;
   margin-top: 40px;
-  background-color: $dark;
+  background-color: var.$dark;
   .footer__inner {
     padding: 50px 0 40px;
   }
@@ -226,11 +231,11 @@
   margin-top: 20px;
   font-size: 13px;
   text-align: center;
-  color: $gray;
+  color: var.$gray;
   a {
-    color: $white;
+    color: var.$white;
     &:hover {
-      color: $brand-color;
+      color: var.$brand-color;
     }
   }
 }

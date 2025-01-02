@@ -1,9 +1,13 @@
+@use 'sass:color';
+@use '0-settings/variables' as var;
+@use '1-tools/grid' as grid;
+
 /* Article */
 .article {
   &:hover {
    .article__title a {
-      color: $dark;
-      box-shadow: 0 -1px 0 0 $white inset, 0 -3px 0 0 $brand-color inset;
+      color: var.$dark;
+      box-shadow: 0 -1px 0 0 var.$white inset, 0 -3px 0 0 var.$brand-color inset;
     }
   }
 }
@@ -11,7 +15,7 @@
 .article__image {
   position: relative;
   display: inline-block;
-  background-color: $light-gray;
+  background-color: var.$light-gray;
   &:hover {
     &:after {
       transition: .4s ease-in-out;
@@ -44,7 +48,7 @@
   font-size: 22px;
   line-height: 32px;
   transition: all .3s ease-in;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     line-height: 30px;
   }
 }
@@ -83,16 +87,16 @@
     letter-spacing: 1px;
     border-radius: 3px;
     text-transform: uppercase;
-    background-color: $brand-color;
+    background-color: var.$brand-color;
     &:last-child {
       margin-right: 0;
     }
     &:hover {
-      color: $dark;
-      background-color: darken($brand-color, 10%);
+      color: var.$dark;
+      background-color: color.scale(var.$brand-color, $lightness: -10%);
     }
 
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: grid.$mobile) {
       height: 20px;
       line-height: 20px;
     }
@@ -101,7 +105,7 @@
 
 .article__date {
   font-size: 13px;
-  color: $text-color;
+  color: var.$text-color;
   &::before {
     content: "";
     position: relative;
@@ -111,10 +115,10 @@
     width: 3px;
     margin: 0 .5rem 0 .5rem;
     border-radius: 50%;
-    background-color: rgba($text-color, .8);
+    background-color: rgba(var.$text-color, .8);
   }
 
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     display: none;
   }
 }
@@ -131,13 +135,13 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    background-color: $dark;
+    background-color: var.$dark;
   }
   &-link {
     font-size: 14px;
-    color: $dark;
+    color: var.$dark;
     &:hover {
-      color: $dark;
+      color: var.$dark;
     }
   }
 }
@@ -145,7 +149,7 @@
 .container__inner {
   &.without-author {
     margin-top: 150px;
-    @media only screen and (max-width: $mobile) {
+    @media only screen and (max-width: grid.$mobile) {
       margin-top: 120px;
     }
   }

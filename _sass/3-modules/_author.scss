@@ -1,7 +1,10 @@
+@use '0-settings/variables' as var;
+@use '1-tools/grid' as grid;
+
 /* Author */
 .author {
   margin: 150px 0 60px;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin: 120px 0 40px;
   }
 }
@@ -28,7 +31,7 @@
   border-radius: 50%;
   margin: 0 auto 10px;
   overflow: hidden;
-  background-color: $light-gray;
+  background-color: var.$light-gray;
 }
 
 .author-avatar__img {
@@ -40,8 +43,8 @@
 .author__name {
   font-size: 33px;
   margin: 0 0 5px;
-  color: $dark;
-  @media only screen and (max-width: $mobile) {
+  color: var.$dark;
+  @media only screen and (max-width: grid.$mobile) {
     font-size: 27px;
   }
 }
@@ -49,8 +52,8 @@
 .author__desc {
   margin-bottom: 15px;
   font-size: 16px;
-  color: rgba($dark, .8);
-  @media only screen and (max-width: $mobile) {
+  color: rgba(var.$dark, .8);
+  @media only screen and (max-width: grid.$mobile) {
     font-size: 15px;
     line-height: 21px;
   }

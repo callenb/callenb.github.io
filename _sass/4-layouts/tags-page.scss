@@ -1,9 +1,12 @@
+@use '0-settings/variables' as var;
+@use '1-tools/grid' as grid;
+
 /* Tags Page */
 .archive-box {
   max-width: 600px;
   margin: 150px auto 30px;
   text-align: center;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin: 120px auto 20px;
   }
 }
@@ -12,7 +15,7 @@
   font-size: 37px;
   line-height: 47px;
   margin-bottom: 10px;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     font-size: 24px;
     line-height: 34px;
   }
@@ -21,8 +24,8 @@
 .archive-meta {
   font-size: 16px;
   line-height: 1;
-  color: rgba($dark, .8);
-  @media only screen and (max-width: $mobile) {
+  color: rgba(var.$dark, .8);
+  @media only screen and (max-width: grid.$mobile) {
     font-size: 15px;
   }
 }

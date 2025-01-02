@@ -1,3 +1,5 @@
+@use '1-tools/grid' as grid;
+
 /* Pagination */
 .load-more {
   margin: 0 auto;
@@ -6,7 +8,7 @@
 .load-more-section {
   margin: 30px auto;
   text-align: center;
-  @media only screen and (max-width: $mobile) {
+  @media only screen and (max-width: grid.$mobile) {
     margin: 20px auto;
   }
 }

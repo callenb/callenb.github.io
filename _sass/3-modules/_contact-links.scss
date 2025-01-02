@@ -1,3 +1,4 @@
+@use '0-settings/variables' as var;
 /* Contact Links */
 .contact {
   text-align: center;
@@ -15,11 +16,11 @@
     font-size: 16px;
     line-height: 1;
     border-radius: 50%;
-    color: $white;
-    background-color: $dark;
+    color: var.$white;
+    background-color: var.$dark;
     &:hover {
-      color: $dark;
-      background-color: $brand-color;
+      color: var.$dark;
+      background-color: var.$brand-color;
     }
   }
 }
