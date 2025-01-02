@@ -138,7 +138,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-sitemap
   jekyll-tagging
-  kramdown (>= 2.3.1)
+  kramdown (~> 2.5.1)
   octopress (~> 3.0)
   octopress-image-tag
 

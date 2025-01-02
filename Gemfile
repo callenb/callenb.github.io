@@ -7,7 +7,7 @@ gem "jekyll"
 gem 'octopress', '~> 3.0'
 
 # Other required gems or specific versions
-gem "kramdown", ">= 2.3.1"
+gem "kramdown", "~> 2.5.1"
 gem "csv"
 gem "base64"
 
