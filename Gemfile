@@ -14,7 +14,7 @@ gem "base64"
 
 group :jekyll_plugins do
   gem "jekyll-sitemap"
-  gem "jekyll-feed", "~> 0.16"
+  gem "jekyll-feed", "~> 0.17"
   gem "jekyll-seo-tag"
   gem "octopress-image-tag"
   gem "jekyll-paginate-v2", '~> 3.0'
