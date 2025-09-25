@@ -44,13 +44,6 @@ contact:
 disqus-identifier: callenb
 
 #-------------------------------
-# Newsletter
-tinyletter: true # To enable the TinyLetter form, use the value true. To turn off use the value false.
-tinyletter-identifier: 'https://tinyletter.com/callenb' # Add your TinyLetter subscribe form.
-tinyletter-title: 'Get Occasional Updates'
-tinyletter-description: 'Subscribe to our newsletter to hear what''s swimming around in my head.'
-
-#-------------------------------
 # Google Analytics
 # google-analytics: UA-26390665-1 # Add your identifier. For example UA-99631805-1.
 
