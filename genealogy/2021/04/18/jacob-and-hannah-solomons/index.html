@@ -144,15 +144,14 @@
             <div class="search__close">
               <i class="ion ion-md-close"></i>
             </div>
-            <label for="js-search-input" class="screen-reader-text">Search for Blog</label>
-            <input type="text" id="js-search-input" class="search__text" autocomplete="off" placeholder="Type to search...">
+            <div class="gcse-search"></div>
           </div>
-          <ul id="js-results-container" class="search-results-list"></ul>
         </div>
       </div>
     </div>
   </div>
 </div>
+<script async src="https://cse.google.com/cse.js?cx=009498214026621722719:ugb4jcwsnva"></script>
 <!-- end search --><!-- begin content -->
   <main class="content" aria-label="Content">
       <div class="container">
@@ -636,7 +635,7 @@
       </li>
       </ul>
   </div>
-<div class="copyright">2025 &copy; <a href="/">Barrie Callender</a>. Crafted & Designed by <a
+<div class="copyright">2026 &copy; <a href="/">Barrie Callender</a>. Crafted & Designed by <a
               href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
         </div>
       </div>
@@ -645,16 +644,6 @@
 </footer>
 <!-- end footer -->
 <script src="/js/vendors/jquery-3.7.0.min.js"></script>
-<script src="/js/vendors/simple-jekyll-search.min.js"></script>
-<script>
-  SimpleJekyllSearch({
-    searchInput: document.getElementById("js-search-input"),
-    resultsContainer: document.getElementById("js-results-container"),
-    json: "/search.json",
-    searchResultTemplate: '<li class="search-results__item"><a class="search-results__image" href="{url}" style="background-image: url({image})"></a><a class="search-results__link" href="{url}">{title} <span class="search-results-date"> <time datetime="{date}">{date}</time></span></a></li>',
-    noResultsText: '<li class="no-results">No results found</li>'
-  });
-</script>
 <script src="/js/vendors/jquery.fitvids.js"></script>
 <script src="/js/vendors/jquery.viewportchecker.min.js"></script>
 <script src="/js/vendors/masonry.pkgd.min.js"></script>
