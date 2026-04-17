@@ -4,3 +4,8 @@ _site/
 .jekyll-metadata
 .deploy/
 _stash/
+
+# claude:w
+.claude/
+CLAUDE.md
+.ruby-lsp/
