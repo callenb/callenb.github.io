@@ -1,50 +1,30 @@
-<!-- begin header -->
-<header class="header">
+<header class="site-header">
   <div class="container">
-    <div class="row">
-      <div class="header__inner col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
-
-        <div class="logo">
-          <a class="logo__link" href="{{ site.baseurl }}/">
-          {%if site.logo -%}
-            <img class="logo__image" src="{{ site.baseurl }}{{ site.logo }}" alt="{{ site.title }}">
-          {% else -%}
-            {{ site.title }}
-          {% endif -%}
-          </a>
-        </div>
-
-        <nav class="main-nav">
-          <div class="main-nav__box">
-            {% include navigation.html -%}
-          </div>
-        </nav>
-
-        <nav class="top-nav">
-          <div class="top-nav__box">
-            <div class="nav__icon-close">
-              <i class="ion ion-md-close"></i>
-            </div>
-            <div class="nav-grid">
-              <div class="nav-grid__item">
-                <h2 class="nav-grid__title">Menu</h2>
-                <div class="mobile-nav">
-                  {% include navigation.html -%}
-                </div>
-              </div>
-            </div>
-          </div>
-        </nav>
-
-        <div class="nav-buttons">
-          <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
-          <i class="nav__icon nav__icon-search ion ion-md-search"></i>
-        </div>
-      </div>
-
+    <div class="header-inner">
+      <a href="{{ '/' | relative_url }}" class="site-title">{{ site.title }}</a>
+      <nav class="site-nav" aria-label="Main navigation">
+        {% for topic in site.data.topics %}
+          {% if topic.nav %}
+          <a href="{{ topic.url }}" class="site-nav__link{% if page.url contains topic.url %} site-nav__link--active{% endif %}">{{ topic.title }}</a>
+          {% endif %}
+        {% endfor %}
+        <a href="{{ '/about/' | relative_url }}" class="site-nav__link{% if page.url == '/about/' %} site-nav__link--active{% endif %}">About</a>
+      </nav>
+      <button class="nav-toggle" aria-label="Toggle navigation" aria-expanded="false" aria-controls="nav-drawer">
+        <span class="nav-toggle__bar"></span>
+        <span class="nav-toggle__bar"></span>
+        <span class="nav-toggle__bar"></span>
+      </button>
     </div>
   </div>
 </header>
-<!-- end header -->
-
-{% include search.html -%}
+<div class="nav-drawer" id="nav-drawer" aria-hidden="true">
+  <div class="container">
+    {% for topic in site.data.topics %}
+      {% if topic.nav %}
+      <a href="{{ topic.url }}" class="nav-drawer__link">{{ topic.title }}</a>
+      {% endif %}
+    {% endfor %}
+    <a href="{{ '/about/' | relative_url }}" class="nav-drawer__link">About</a>
+  </div>
+</div>

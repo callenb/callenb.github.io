@@ -9,6 +9,7 @@ image-caption: 1901 Census entry for Hannah Solomons' birthplace
 author: callenb
 locale: en_GB
 status: Work In Progress
+excerpt: "Jacob and Hannah Solomons were my great-great-grandparents, Jewish immigrants who arrived in England before 1881. My Mum held Hannah's hand when she was a child. I held my Mum's. Three people across a century, connected by touch. I believe Hannah came from Vishay (Veisiejai), Lithuania — and I am trying to be certain."
 ---
 Jacob and Hannah Solomons are my great-great-grandparents found by tracing up through my Mum's female line.  My Mum believed they had left Russia or Poland during the Pogroms in the 1880s and made their way to London, where my Mum was eventually born.  Hannah was very special to Mum, but she was never sure which country she came from, let alone the city, town or village.  This is something I hoped I was close to finding out when I first wrote this post and express a desire to know beyond any reasonable doubt.
 

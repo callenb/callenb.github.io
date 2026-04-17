@@ -8,6 +8,7 @@ image: "/images/simple_tree-Jacob_Solomons-Hannah_Leveinson.png"
 image-caption: Family of Jacob and Hannah Solomons
 author: callenb
 locale: en_GB
+excerpt: "Before I could write this properly, I had to delete six earlier posts. The story of my Jewish family history is not a scattered collection of fragments. It is a single, remarkable narrative spanning four generations, two continents, and an unsolved murder."
 ---
 Before today there were 6 posts on this blog about my Jewish family history, which has turned out to be more than I bargained for.  They were all written between 31-Jul-2019 and 1-Dec-2019.  Now there are three including this one.  I had been reading them over and over again and decided all but ["Where's grandma?"](/2019/07/31/wheres-grandma.html) and ["Armistice Day"](/2019/11/11/armistice-day.html) needed to be removed to reduce the amount of aimless rambling on the site.  I also shortened the last of these two posts as well for exactly the same reason.
 

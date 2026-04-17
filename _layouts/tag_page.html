@@ -1,30 +1,15 @@
 ---
 layout: default
 ---
-
-<div class="container">
-  <div class="row">
-    <div class="col col-12 col-d-10 push-d-1">
-      <div class="archive-box">
-        <span class="archive-meta">All posts tagged</span>
-        <h1 class="archive-title">{{ page.tag }}</h1>
-      </div>
+<section class="topic-hub">
+  <div class="container">
+    <header class="topic-hub__header">
+      <h1 class="topic-hub__title">Posts tagged: {{ page.tag }}</h1>
+    </header>
+    <div class="topic-posts">
+      {% for post in page.posts %}
+        {% include post_card.html post=post size="small" %}
+      {% endfor %}
     </div>
   </div>
-</div>
-
-<div class="container">
-	<div class="row">
-		<div class="col col-12 col-d-10 col-m-12 push-m-0 push-d-1">
-			<div class="container__inner">
-				<div class="contaniner__inner-box">
-					<div class="row grid">
-            {% for post in page.posts %}
-              {% include article-content.html %}
-            {% endfor %}
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</div>
+</section>

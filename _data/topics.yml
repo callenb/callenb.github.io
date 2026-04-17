@@ -1,0 +1,7 @@
+- id: family-history
+  title: Family History
+  description: "Research into my Jewish family history, tracing back through my grandmother Eva Lichtenstein and her mother Esther Solomons to Jacob and Hannah Solomons, who came to England from Lithuania in the 1880s. If you are searching for the same names, we may be cousins."
+  category: genealogy
+  accent_colour: "#2D4A35"
+  nav: true
+  url: /family-history/

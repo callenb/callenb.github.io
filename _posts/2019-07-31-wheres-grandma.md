@@ -9,6 +9,7 @@ image-caption: "Eva Lichtenstein, my maternal grandmother"
 author: callenb
 locale: en_GB
 status:
+excerpt: "My Mum kept her Jewish heritage a secret for nearly sixty years. When she died in 2004, she had never found her own mother, Eva Lichtenstein, who disappeared around 1950 after a quarrel over a ring left by a murdered aunt. This is where the search began."
 ---
 This is a photo of Eva Lichtenstein, who is my maternal grandmother.  When I was nearly 10 years old, my Dad told me my Mum was Jewish.  When Mum found out, she insisted on making me promise not to tell anyone.  She worried how people would react if they knew.
 

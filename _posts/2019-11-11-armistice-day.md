@@ -8,6 +8,7 @@ image: '/images/places/france/Arras-Memorial-©-Andrew-Bailey-2014_600x900.jpg'
 image-caption: Arras Memorial (c) Andrew Bailey 2014
 author: callenb
 locale: en_GB
+excerpt: "Every November I stand in a two-minute silence and think of Private Alexander Solomons — my 2nd great uncle — who died in the battlefields of Flanders on 28 April 1917 and has no grave. His name is carved on the Arras Memorial in France."
 ---
 I currently work at a [Ministry of Defence](https://www.gov.uk/government/organisations/ministry-of-defence) establishment and this being Armistice Day there is always a service outside which starts just before 11:00am.
 

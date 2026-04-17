@@ -1,32 +1,33 @@
 ---
 layout: default
 title: Home
-menu: false
-order: 1
 pagination:
-  enabled: true
+  enabled: false
 ---
 
-{% include category_header.html %}
+<section class="home-hero">
+  <div class="container">
+    <p class="home-hero__tagline"><em>Writing about family history, genealogy, and the people worth remembering.</em></p>
+  </div>
+</section>
 
-<div class="container">
-  <div class="row">
-    <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
-      <div class="container__inner">
-        <div class="contaniner__inner-box">
-          <div class="row grid">
-            {% if site.posts.size > 0 %}
-              {% for post in paginator.posts %}
-                {% include article-content.html %}
-              {% endfor %}
-            {% endif %}
-          </div>
-        </div>
+{% for topic in site.data.topics %}
+  {% assign topic_posts = site.posts | where: "category", topic.category %}
+  {% if topic_posts.size > 0 %}
+  <section class="topic-section">
+    <div class="container">
+      <div class="topic-section__header">
+        <h2 class="topic-section__title">{{ topic.title }}</h2>
+        <a href="{{ topic.url }}" class="topic-section__all">All posts &rarr;</a>
+      </div>
+      <div class="topic-section__cards">
+        {% assign featured = topic_posts[0] %}
+        {% include post_card.html post=featured size="large" %}
+        {% for post in topic_posts limit:2 offset:1 %}
+          {% include post_card.html post=post size="small" %}
+        {% endfor %}
       </div>
     </div>
-  </div>
-</div>
-
-{% include pagination.html %}
-
-<h1>FINALLY MY own Index page</h1>
+  </section>
+  {% endif %}
+{% endfor %}

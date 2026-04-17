@@ -1,0 +1,41 @@
+.page-header {
+  padding: var(--space-xl) 0 var(--space-lg);
+
+  .container {
+    max-width: var(--max-content);
+  }
+}
+
+.page-header__title {
+  font-size: var(--text-3xl);
+  font-weight: 700;
+  margin-bottom: 0;
+}
+
+.page-content {
+  padding-bottom: var(--space-2xl);
+
+  .container {
+    max-width: var(--max-content);
+  }
+
+  h2 {
+    margin-top: var(--space-xl);
+    margin-bottom: var(--space-md);
+  }
+
+  h3 {
+    margin-top: var(--space-lg);
+    margin-bottom: var(--space-sm);
+  }
+
+  img {
+    max-width: 100%;
+    border-radius: 2px;
+    margin: var(--space-md) 0;
+  }
+
+  ul, ol {
+    margin-bottom: var(--space-md);
+  }
+}

@@ -1,25 +1,15 @@
 <!DOCTYPE html>
-<html lang="en">
-
-{% include head.html -%}
-{% include google-analytics.html -%}
-<body class="{% if page.url == '/' -%}{% assign class = 'home' -%}{{ class }}{% endif -%}">
-
-
-
-  {% include header.html -%}
-
-  <!-- begin content -->
-  <main class="content" aria-label="Content">
-      {{ content }}
+<html lang="en-GB">
+<head>
+  {% include head.html %}
+  {% include google-analytics.html %}
+</head>
+<body>
+  {% include header.html %}
+  <main id="main-content">
+    {{ content }}
   </main>
-  <!-- end content -->
-
-  <div class="top" title="Top"><i class="ion ion-ios-arrow-up"></i></div>
-
-  {% include footer.html -%}
-
-  {% include javascripts.html -%}
+  {% include footer.html %}
+  <script src="{{ '/js/nav.js' | relative_url }}" defer></script>
 </body>
-
 </html>

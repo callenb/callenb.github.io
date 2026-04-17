@@ -1,73 +1,28 @@
-<!-- begin footer-widgets -->
-<section class="footer-widgets">
+<footer class="site-footer">
   <div class="container">
-    <div class="row">
-      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
-        <div class="widget-box">
-          <div class="row">
-
-            {% if site.tags.size >= 1 -%}
-            <div class="col col-4 col-d-6 col-t-12">
-              <div class="widget widget-about">
-                <div class="widget__head">
-                  <h4 class="widget__title">About Me</h4>
-                </div>
-                <p class="about__desc">{{site.author.description}}</p>
-              </div>
-              <div class="widget widget-tags">
-                <div class="widget__head">
-                  <h4 class="widget__title">Tags</h4>
-                </div>
-                <div class="tag__cloud">
-                  {{ site | tag_cloud }}
-                </div>
-              </div>
-            </div>
-            {% endif -%}
-
-            <div class="col col-4 col-d-6 col-t-12">
-              <div class="widget widget-recent">
-                <div class="widget__head">
-                  <h4 class="widget__title">Recent Posts</h4>
-                </div>
-                {% for post in site.posts limit:3 %}
-                <div class="recent-posts">
-                  {% if post.image -%}
-                    <a class="recent-posts__image" href="{{ post.url }}" style="background-image: url({{site.baseurl}}{{post.image}})"></a>
-                  {% else -%}
-                  {% endif -%}
-                  <span class="recent-posts__count">{{ forloop.index }}</span>
-                  <div class="recent-posts__content">
-                    <div class="recent-posts__date">
-                      <time datetime="{{ post.date | date_to_xmlschema }}">{{post.date | date: "%b %-d, %Y"}}</time>
-                    </div>
-                    <h6 class="recent-posts__title"><a href="{{ post.url }}">{{ post.title }}</a></h6>
-                  </div>
-                </div>
-                {% endfor -%}
-              </div>
-            </div>
-
-          </div>
-        </div>
+    <div class="footer-grid">
+      <div class="footer-col">
+        <p class="footer-site-title">{{ site.title }}</p>
+        <p class="footer-description">Writing about family history, genealogy, and the people worth remembering.</p>
+        <a href="{{ '/feed.xml' | relative_url }}" class="footer-rss">RSS feed &rarr;</a>
+      </div>
+      <div class="footer-col">
+        <p class="footer-col-heading">Topics</p>
+        <ul class="footer-links">
+          {% for topic in site.data.topics %}
+          <li><a href="{{ topic.url }}">{{ topic.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </div>
+      <div class="footer-col">
+        <p class="footer-col-heading">Elsewhere</p>
+        <ul class="footer-links">
+          <li><a href="https://www.wikitree.com/wiki/Callender-45" rel="noopener noreferrer">WikiTree</a></li>
+          <li><a href="https://www.linkedin.com/in/barriecallender/" rel="noopener noreferrer">LinkedIn</a></li>
+          <li><a href="https://github.com/callenb" rel="noopener noreferrer">GitHub</a></li>
+        </ul>
       </div>
     </div>
-  </div>
-</section>
-<!-- end footer-widgets -->
-
-<!-- begin footer -->
-<footer class="footer">
-  <div class="container">
-    <div class="row">
-      <div class="col col-12 col-d-10 push-d-1 col-m-12 push-m-0">
-        <div class="footer__inner">
-          {% include contact-links.html -%}
-          <div class="copyright">{{site.time | date: '%Y'}} &copy; <a href="/">{{site.title}}</a>. Crafted & Designed by <a
-              href="https://jekyllthemes.io/developers/artem-sheludko">Artem Sheludko</a>.</div>
-        </div>
-      </div>
-    </div>
+    <p class="footer-copyright">&copy; Barrie Callender &middot; {{ site.time | date: '%Y' }}</p>
   </div>
 </footer>
-<!-- end footer -->
