@@ -35,7 +35,7 @@ When I set out to find what happened to my grandmother, I never expected brutal 
 
 ## Is that it then?
 
-There are further stories on my Jewish grandfather's side, and goodness knows what my Dad's side will bring up.  I have purposely left the detail behind some of these stories for the posts to come, including what I found to be the most upsetting story of them all. 
+There are further stories on my Jewish grandfather's side, and goodness knows what my Dad's side will bring up.  I have purposely left the detail behind some of these stories for the posts to come, including what I found to be the most upsetting story of them all.
 
 Here ends the quick round-up of some of what I know.  If there are still just three posts on this site when you are reading this, please be assured I have almost finished the fourth post ready for publication, and have the next lined up to begin.
 

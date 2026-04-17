@@ -62,7 +62,7 @@ It also says Esther is 5 foot 2 inches, ruddy complexion with black hair and blu
 {% img /images/1906/US-IMMIGRATION-19061003-esther-solomons-and-j-lichtenstein.jpg 100% "US alien passenger list of 3-Oct-1906 including Esther Solomons and a J Lichtenstein" title:"US alien passenger list of 3-Oct-1906 including Esther Solomons and a J Lichtenstein" %}
 -IMMIGRATION-19061003-esther-solomons-and-j-lichtenstein.jpg
 
-John is listed as being Hungarian and it could well be they 
+John is listed as being Hungarian and it could well be they
 
 I searched for and found Esther on the Record for Detained Aliens for this voyage as well as the New York Passenger and Crew Lists.  The entry for her tells me she is a Dressmaker visiting a friend living at 116 E 116th Street whose name I can't quite read.  The entry also says she is single, aged 24 and English Hebrew.
 

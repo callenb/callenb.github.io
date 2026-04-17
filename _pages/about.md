@@ -37,7 +37,7 @@ I imagine the first few posts will be about things I have found useful and don't
 
 If I get to 10 or 20 articles I'll come back here and update what this site is about because I should have some idea by then.
 
-I hope you find the articles of interest and return again in the future.  Please do not hesitate to contact me. 
+I hope you find the articles of interest and return again in the future.  Please do not hesitate to contact me.
 
 All the very best for 2019 and beyond
 

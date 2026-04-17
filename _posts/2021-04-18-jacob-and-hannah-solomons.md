@@ -105,7 +105,7 @@ The Census of 1891 shows Jacob and Hannah's address as 31 & 32 Booth Street Buil
 
 Despite what the Census says, this is the same address as the 2 Booth Street written on the birth certificates.  Their third daughter, Rachel, who became a Tailoress,  was born later that year on {% hebcal 25 December 1891 %}, and once again the address on her birth certificate is 2 Booth Street.  The difference in the address name must be down to the official Census name and what it was commonly referred as.
 
-Their last two children were born at different addresses.  Dinah was born on {% hebcal 23 July 1894 %} when the family were living at 24 Heneage Street.  She became a Fur Coat Finisher & Liner.  Rebecca was born at 22 Thomas Street on {% hebcal 29 April 1897 %}, and she was a Fur Liner according to her marriage certificate.  
+Their last two children were born at different addresses.  Dinah was born on {% hebcal 23 July 1894 %} when the family were living at 24 Heneage Street.  She became a Fur Coat Finisher & Liner.  Rebecca was born at 22 Thomas Street on {% hebcal 29 April 1897 %}, and she was a Fur Liner according to her marriage certificate.
 
 ## Early years education
 
@@ -149,7 +149,7 @@ Both Esther and Hannah are working as Tailoress', whilst the only other worker i
 
 It is also worth noting the ages of some of the children is not correct.
 
-The family's next known address is 22 Fullbourne Street and can be found on my grandmother's birth certificate.  Esther had gone to New York in September 1906 and returned pregnant in 1907.  My grandmother, Eva Lichtenstein, became Hannah's first grandchild when she was born on {% hebcal 7 June 1907 %}.  
+The family's next known address is 22 Fullbourne Street and can be found on my grandmother's birth certificate.  Esther had gone to New York in September 1906 and returned pregnant in 1907.  My grandmother, Eva Lichtenstein, became Hannah's first grandchild when she was born on {% hebcal 7 June 1907 %}.
 
 {% include image.html url="/images/1907/BTH-19070607-Eva_lichtenstein.png" dimensions="width='100%'" caption="Birth Certificate for Eva Lichtenstein" %}
 
@@ -179,11 +179,11 @@ The last person declared on the Census is a boarder called George Oumen, who is 
 
 1 Regal Place is where Hannah lived for the rest of her life, and as her children grew up and left home, they would return to visit her.  My great-grandmother, Esther, lists 1 Regal Place as the place she stayed at whenever she visited England from Canada.
 
-The presence of Alexander's spouse living at 1 Regal Place on the 1911 Census suggests he was also living there along with his sisters Rachel, Dinah and Rebecca.  
+The presence of Alexander's spouse living at 1 Regal Place on the 1911 Census suggests he was also living there along with his sisters Rachel, Dinah and Rebecca.
 
 ## The First World War (1914 - 1918)
 
-The [First World War](https://en.wikipedia.org/wiki/World_War_I) began on 28th July, 1914 and ended on 11th November, 1918.  Hyman, Louis and Alexander all joined different parts of the British Army, as did Isaac Abrahams, who Dinah married at the East London Synagogue on {% hebcal 18 October 1914 %}. 
+The [First World War](https://en.wikipedia.org/wiki/World_War_I) began on 28th July, 1914 and ended on 11th November, 1918.  Hyman, Louis and Alexander all joined different parts of the British Army, as did Isaac Abrahams, who Dinah married at the East London Synagogue on {% hebcal 18 October 1914 %}.
 
 Hyman joined the Labour Corps on 2nd March 2016 and Louis joined them on 18th September, 1917.  Alexander had originally joined the 17th London Rifles, but soon transferred to the 10th battalion of the [Royal Dublin Fusiliers](https://en.wikipedia.org/wiki/Royal_Dublin_Fusiliers).  His battalion joined the Western Front on 18th August 1916, so may have joined the Army before his brother Hyman.  Alexander was involved in the famous [Battle of Arras](https://en.wikipedia.org/wiki/Battle_of_Arras_(1917)), but he was killed in action on {% hebcal 28 April 1917 %}.  He is remembered at the [Arras Memorial](https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/82700/arras-memorial/), along with other members of the Royal Dublin Fusiliers.
 
@@ -209,7 +209,7 @@ By the end of 1918 those known to be living at 1 Regal Place included Hannah's y
 
 Dinah, Isaac Abrahams and their two children had moved out to 11 Fredericks Place, where they stayed for a number of years.
 
-Esther had moved from New York to Prince Rupert, Canada, before the war started and then on {% hebcal 24 May 1919 %} she married a Greek Candy Maker named Harry Killas in St Paul's Church, Vancouver.  Her marriage certificate claims her religion was Church of England.  
+Esther had moved from New York to Prince Rupert, Canada, before the war started and then on {% hebcal 24 May 1919 %} she married a Greek Candy Maker named Harry Killas in St Paul's Church, Vancouver.  Her marriage certificate claims her religion was Church of England.
 
 {% include image.html url="/images/1921/BLOG_19210619-CENSUS-1_Regal_Place.png" dimensions="width='100%'" caption="The 1921 Census for 1 regal Place" %}
 
@@ -223,7 +223,7 @@ At this point all of Hannah's children, apart from Kitty were married.  There is
 
 ## Bist du frum?
 
-As already mentioned, Hannah's eldest daughter had left home by 1907 and Alexander was killed in 1917.  Louis had left soon after his marriage to Annie in 1909, and by the 1911 Census, was living at 130 Burton Street with their first daughter, Marie.  By 1920, Hyman, Rose and their daughter were living at 11 Casterton Street, Hackney. 
+As already mentioned, Hannah's eldest daughter had left home by 1907 and Alexander was killed in 1917.  Louis had left soon after his marriage to Annie in 1909, and by the 1911 Census, was living at 130 Burton Street with their first daughter, Marie.  By 1920, Hyman, Rose and their daughter were living at 11 Casterton Street, Hackney.
 
 Kitty had probably left home before 1911, but I have not found her anywhere in the 1911 Census.  She may have been visiting Esther in New York in April 1911 as I do know she travelled to Canada to visit Esther in 1923, 1924 and 1925 before marrying Anton Moen there in 1926.  She lived the rest of her life in Canada with fairly frequent visits back to England.
 

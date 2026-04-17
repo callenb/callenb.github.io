@@ -21,7 +21,7 @@ As war broke out she was evacuated to Exmouth in Devon, which I think she mostly
 
 My Mum was a waitress for most of her life.  She did tell me she was once sacked for protesting to an employer about wages and conditions.  Of course she never told me the name of the Employer or what she was working.  Still, there is a certain amount of pride she was willing to stand up against others.  Later on in life she worked in a couple of factories at Elta Plastics and Lyons Tetley.
 
-She mostly workd in central London and had all sorts of ssnippets about various incidents and work situations in general.  She also went out with her mother who she described as a colourful character at first.  She later told me her Mum was a Madam and known as "Jewish Betty" or "Black Betty".  
+She mostly workd in central London and had all sorts of ssnippets about various incidents and work situations in general.  She also went out with her mother who she described as a colourful character at first.  She later told me her Mum was a Madam and known as "Jewish Betty" or "Black Betty".
 
 A lady she knew as Aunt Bessy would visit from Canada and my Mum said she had no children of her own and looked upon her mother, Eva Lichtenstein, as a daughter.  Then in about 1949, my Mum received a letter from the Prince Rupert Police commisioner advising of the murder of Aunt Bessy.  It also said she had left a ring for my Mum worth £500.  Although that could have been Canadian Dollars.
 

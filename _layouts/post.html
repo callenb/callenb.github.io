@@ -24,7 +24,7 @@ layout: default
               {% if page.status_date %}
               <span class="article__date"><time
                 datetime="{{ page.status_date | date_to_xmlschema }}">{% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}{{ page.status_date | date: date_format }}</time></span>
-              {% endif %}  
+              {% endif %}
             {% endif %}
         </div>
       </div>
@@ -44,7 +44,7 @@ layout: default
 	    <figcaption>{{page.image-caption}}</figcaption>
           </figure>
         </div>
-      </div>	
+      </div>
       {% endif %}
       <div class="col col-8 col-d-10 push-d-1 push-2 col-m-12 push-m-0">
         <div class="post__content">
@@ -101,7 +101,7 @@ layout: default
           {% endif %}
         </div>
 
-        {% include hyvor-comments.html %} 
+        {% include hyvor-comments.html %}
       </div>
 
     </div>

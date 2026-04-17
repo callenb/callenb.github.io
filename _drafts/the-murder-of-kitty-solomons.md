@@ -21,7 +21,7 @@ This will tell of Kitty Solomons life up to her brutal murder and the similariti
 * Additional journey(s)
 * Marriage to Anton Moen, Buying a boat, the murder of her sister.
 * Seperation from Anton.  My Mother's recollection of Kitty who she knew as aunt Bessie.
-* The murder of Kitty and story intertwining newspaper reports with coroner reports 
+* The murder of Kitty and story intertwining newspaper reports with coroner reports
 * person who said about her rings, Norman watt. Police report a couple of years later of her and her sister.
 * My Mum's story about the ring.  The contents of the will including diamond ring, Jews orphanage , red cross and Dinah's children.  Ring not found so my mum received nothing yet she always wore her diamond ring and it is on her finger in the coroner's report.
 * Any speculation as to why they were both murdered so close to Pesach

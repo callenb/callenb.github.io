@@ -14,7 +14,7 @@ This is a photo of Eva Lichtenstein, who is my maternal grandmother.  When I was
 
 My Mum was 11 years old at the start of World War II.  She was evacuated from London to Exmouth in Devon.  Like many evacuees, she returned to London before the end of the war, and when it finished she was just 17 years old and working as a waitress in central London.
 
-Five years after the end of the war, she saw her Mum for the last time, as they fell out over a ring she'd been left by a murdered aunt.  Mum never received the ring, but my grandmother didn't believe her.  Through my research, I know the official reason why my Mum never received the ring, but there are still questions that need to be asked.  
+Five years after the end of the war, she saw her Mum for the last time, as they fell out over a ring she'd been left by a murdered aunt.  Mum never received the ring, but my grandmother didn't believe her.  Through my research, I know the official reason why my Mum never received the ring, but there are still questions that need to be asked.
 
 I entered secondary school fairly soon after I found out my Mum was Jewish.  I was put into the German half and expected to learn German as a foreign language.  Mum said it was a little like Yiddish, but she made it clear she would never want to go to Germany.  It was a fear she lived with all her adult life.
 
@@ -38,7 +38,7 @@ There was also an aunt Bessie from Prince Rupert in Canada, who visited a few ti
 
 She also had friends and occasionally gave them a name, but most people she told me about had places and stories but not names. At least not ones I remember.
 
-At the time my Dad announced Mum was Jewish, he also told me she had thought her name was Jacqueline Morris, which is the name on their Marriage Certificate.  They found out it was Chemerofsky when they tried to emigrate to Australia.  We spent about 3 years and 3 months living in Australia, but came back mostly because my Mum didn't settle there.  
+At the time my Dad announced Mum was Jewish, he also told me she had thought her name was Jacqueline Morris, which is the name on their Marriage Certificate.  They found out it was Chemerofsky when they tried to emigrate to Australia.  We spent about 3 years and 3 months living in Australia, but came back mostly because my Mum didn't settle there.
 
 Australia turned out to be traumatic due to a German family out there called the Neudatch's.  It really stressed Mum out.  She was homesick for a country where she had lost contact with her family and friends, yet when our feet touched the tarmac at Gatwick, I'm sure she bent down and kissed it.
 
@@ -50,7 +50,7 @@ The rise of antisemitism in the world at large, and the Labour Party in particul
 
 I have concentrated on the female line through my grandmother.  I am in contact with a wonderful second cousin who does a great job with my grandfather's side.  I also want to learn more about Jews.  I was very close to my Mum, she taught me how to cook and bake, much of it forgotten now.  I am half-Jewish, and although I have yet to step inside a Synagogue, I feel a need to get more in touch with my inner Jew.
 
-As part of that Journey I have read some of Simon Schama's books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regularly read books by Jewish authors.  
+As part of that Journey I have read some of Simon Schama's books (more than once), read My Jewish Learning site regularly, have Esther Ansell as my favourite fictional heroine and regularly read books by Jewish authors.
 
 So far I have uncovered lots of stories about my family and will try and write them up on this blog.
 
@@ -88,7 +88,7 @@ I seriously began my research based on the following notes, which I have also re
 >  Jeanette Goldstein
 >  Gerald (b c. 1926) Goldstein
 >
-> Rebecca Solomons = Abe 
+> Rebecca Solomons = Abe
 > Lived in Forest Gate
 >  Jake
 >
@@ -101,7 +101,7 @@ I seriously began my research based on the following notes, which I have also re
 > Alexandra (dur?) Solomons
 > Killed in 1914 - 1918 war
 >
-> Louis Solomons = ?  
+> Louis Solomons = ?
 > Lived in Leman street
 > 2 daughters
 >
