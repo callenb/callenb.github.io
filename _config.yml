@@ -164,7 +164,8 @@ defaults:
       sitemap: false
 
 # exclude Claude artefacts and ruby lsp from processing
-.claude/
-CLAUDE.md
-.ruby-lsp
+exclude:
+  - .claude/
+  - CLAUDE.md
+  - .ruby-lsp
 
