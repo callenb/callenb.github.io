@@ -2,12 +2,9 @@
 layout: default
 title: Family History
 description: "Research into my Jewish family history, tracing back through my grandmother Eva Lichtenstein and her mother Esther Solomons to Jacob and Hannah Solomons, who came to England from Lithuania in the 1880s."
-pagination:
-  enabled: true
-  category: genealogy
-  per_page: 9
 ---
 {% assign topic = site.data.topics | where: "id", "family-history" | first %}
+{% assign hub_posts = site.posts | where: "category", "genealogy" | sort: "date" | reverse %}
 
 <section class="topic-hub">
   <div class="container">
@@ -27,16 +24,14 @@ pagination:
     </header>
 
     <div class="topic-posts">
-      {% for post in paginator.posts %}
-        {% if forloop.first and paginator.page == 1 %}
+      {% for post in hub_posts %}
+        {% if forloop.first %}
           {% include post_card.html post=post size="large" %}
         {% else %}
           {% include post_card.html post=post size="small" %}
         {% endif %}
       {% endfor %}
     </div>
-
-    {% include pagination.html %}
 
   </div>
 </section>
